@@ -7,7 +7,7 @@ This repository contains the localization file for *Advanced Developer Tools*, a
 
 **If you're interested in contributing a translation, please follow these steps:**
  1. Take a look in the issues section, and **make sure no one else has "claimed" the localization** for your language (see step 2)
- 2. Create a new issue with the name: `Feature Request: <Language Name> localization`. This tells me and the others that you want to claim this language. So others won't work on it and there won't be a conflict.
+ 2. Create a new issue with the name: `Feature Request: <Language Name> localization` (there's an issue template you can use). This tells me and the others that you want to claim this language. So others won't work on it and there won't be a conflict.
  3. Download the `Stringtable.xml` file to your computer.
  4. Search for your language name and translate the phrase next to it according to the `Original` translation. For example, if you want to localize for German, search for `<German>` and translate all the phrases.
  5. Once you're done, create a fork of this repository, upload the updated `Stringtable.xml` on your forked repository, and make a pull request.
