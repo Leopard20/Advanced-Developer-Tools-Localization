@@ -2,8 +2,8 @@
 
 This repository contains the localization file for Advanced Developer Tools. 
 
-https://steamcommunity.com/sharedfiles/filedetails/?id=2369477168
-https://forums.bohemia.net/forums/topic/232513-advanced-developer-tools/
+[BI Forum Thread](https://forums.bohemia.net/forums/topic/232513-advanced-developer-tools/) | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2369477168)
+
 
 **If you're interested in contributing a translation, please follow these steps:**
  1. Take a look in the issues section, and **make sure no one else has "claimed" the localization** for your language (see step 2)
