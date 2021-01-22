@@ -1,7 +1,7 @@
 ---
 name: 'Feature request: <LanguageName> localization'
 about: Claim a localization
-title: ''
+title: 'Feature request: <LanguageName> localization'
 labels: ''
 assignees: ''
 
