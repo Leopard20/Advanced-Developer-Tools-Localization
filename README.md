@@ -16,4 +16,4 @@ This repository contains the localization file for *Advanced Developer Tools*, a
 
 **Note 2:** Please try to submit your localization within 7 days from the day that you claimed the localization, otherwise I'll close the issue to "free" that language for other contributers (it probably takes less than an hour to finish it!)
 
-**Note 3:** If you can't translate a phrase, or it doesn't need localization, it is perfectly fine to leave it as it.
+**Note 3:** If you can't translate a phrase, or it doesn't need translation, it is perfectly fine to leave it as it.
