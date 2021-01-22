@@ -1,6 +1,6 @@
 # Advanced Developer Tools - Localization
 
-This repository contains the localization file for Advanced Developer Tools. 
+This repository contains the localization file for *Advanced Developer Tools*, an Arma 3 mod. 
 
 [BI Forum Thread](https://forums.bohemia.net/forums/topic/232513-advanced-developer-tools/) | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2369477168)
 
