@@ -1,4 +1,4 @@
-# Advanced Developer Tools Localization
+# Advanced Developer Tools - Localization
 
 This repository contains the localization file for Advanced Developer Tools. 
 
