@@ -23,7 +23,7 @@
         <English>It's for debugging purposes. Don't use it.</English>
         <Czech>It's for debugging purposes. Don't use it.</Czech>
         <French>It's for debugging purposes. Don't use it.</French>
-        <German>It's for debugging purposes. Don't use it.</German>
+        <German>Nur zur Fehlerbehebung. Nicht benutzen!</German>
         <Italian>It's for debugging purposes. Don't use it.</Italian>
         <Polish>It's for debugging purposes. Don't use it.</Polish>
         <Portuguese>It's for debugging purposes. Don't use it.</Portuguese>
@@ -39,7 +39,7 @@
         <English>Make all windows resizable</English>
         <Czech>Make all windows resizable</Czech>
         <French>Make all windows resizable</French>
-        <German>Make all windows resizable</German>
+        <German>Das Verändern der Fenstergrößen zulassen</German>
         <Italian>Make all windows resizable</Italian>
         <Polish>Make all windows resizable</Polish>
         <Portuguese>Make all windows resizable</Portuguese>
@@ -55,7 +55,7 @@
         <English>Works similar to anti-aliasing (for text)</English>
         <Czech>Works similar to anti-aliasing (for text)</Czech>
         <French>Works similar to anti-aliasing (for text)</French>
-        <German>Works similar to anti-aliasing (for text)</German>
+        <German>Funktioniert ähnlich wie Anti-Aliasing (Für Schriften)</German>
         <Italian>Works similar to anti-aliasing (for text)</Italian>
         <Polish>Works similar to anti-aliasing (for text)</Polish>
         <Portuguese>Works similar to anti-aliasing (for text)</Portuguese>
@@ -71,7 +71,7 @@
         <English>Pixel Precision</English>
         <Czech>Pixel Precision</Czech>
         <French>Pixel Precision</French>
-        <German>Pixel Precision</German>
+        <German>Pixel-Genauigkeit</German>
         <Italian>Pixel Precision</Italian>
         <Polish>Pixel Precision</Polish>
         <Portuguese>Pixel Precision</Portuguese>
@@ -87,7 +87,7 @@
         <English>Removes other MouseButtonDown event handlers created by other mods to minimize intervention.</English>
         <Czech>Removes other MouseButtonDown event handlers created by other mods to minimize intervention.</Czech>
         <French>Removes other MouseButtonDown event handlers created by other mods to minimize intervention.</French>
-        <German>Removes other MouseButtonDown event handlers created by other mods to minimize intervention.</German>
+        <German>Entfernt andere 'MouseButtonDown Events die durch andere Modifikationen erstellt wurden, um Inkompatibilitäten zu vermeiden.</German>
         <Italian>Removes other MouseButtonDown event handlers created by other mods to minimize intervention.</Italian>
         <Polish>Removes other MouseButtonDown event handlers created by other mods to minimize intervention.</Polish>
         <Portuguese>Removes other MouseButtonDown event handlers created by other mods to minimize intervention.</Portuguese>
@@ -103,7 +103,7 @@
         <English>Remove all MouseButtonDown Event Handlers</English>
         <Czech>Remove all MouseButtonDown Event Handlers</Czech>
         <French>Remove all MouseButtonDown Event Handlers</French>
-        <German>Remove all MouseButtonDown Event Handlers</German>
+        <German>Alle 'MouseButtonDown' Events entfernen</German>
         <Italian>Remove all MouseButtonDown Event Handlers</Italian>
         <Polish>Remove all MouseButtonDown Event Handlers</Polish>
         <Portuguese>Remove all MouseButtonDown Event Handlers</Portuguese>
@@ -119,7 +119,7 @@
         <English>Typing this word into most edit boxes will open the debug console</English>
         <Czech>Typing this word into most edit boxes will open the debug console</Czech>
         <French>Typing this word into most edit boxes will open the debug console</French>
-        <German>Typing this word into most edit boxes will open the debug console</German>
+        <German>Das Eingeben dieses Wortes in die meisten Eingabeboxen öffnet die Debug-Konsole</German>
         <Italian>Typing this word into most edit boxes will open the debug console</Italian>
         <Polish>Typing this word into most edit boxes will open the debug console</Polish>
         <Portuguese>Typing this word into most edit boxes will open the debug console</Portuguese>
@@ -135,7 +135,7 @@
         <English>Magic Word (opens Debug Console)</English>
         <Czech>Magic Word (opens Debug Console)</Czech>
         <French>Magic Word (opens Debug Console)</French>
-        <German>Magic Word (opens Debug Console)</German>
+        <German>Magisches Wort (Öffnet die Debug-Konsole)</German>
         <Italian>Magic Word (opens Debug Console)</Italian>
         <Polish>Magic Word (opens Debug Console)</Polish>
         <Portuguese>Magic Word (opens Debug Console)</Portuguese>
@@ -151,7 +151,7 @@
         <English>Console shortcut key</English>
         <Czech>Console shortcut key</Czech>
         <French>Console shortcut key</French>
-        <German>Console shortcut key</German>
+        <German>Konsolen Tastenkombination</German>
         <Italian>Console shortcut key</Italian>
         <Polish>Console shortcut key</Polish>
         <Portuguese>Console shortcut key</Portuguese>
@@ -167,7 +167,7 @@
         <English>Reset mod settings</English>
         <Czech>Reset mod settings</Czech>
         <French>Reset mod settings</French>
-        <German>Reset mod settings</German>
+        <German>Einstellungen zurücksetzen</German>
         <Italian>Reset mod settings</Italian>
         <Polish>Reset mod settings</Polish>
         <Portuguese>Reset mod settings</Portuguese>
@@ -183,7 +183,7 @@
         <English>Advanced</English>
         <Czech>Advanced</Czech>
         <French>Advanced</French>
-        <German>Advanced</German>
+        <German>Erweitert</German>
         <Italian>Advanced</Italian>
         <Polish>Advanced</Polish>
         <Portuguese>Advanced</Portuguese>
@@ -199,7 +199,7 @@
         <English>Config</English>
         <Czech>Config</Czech>
         <French>Config</French>
-        <German>Config</German>
+        <German>Konfig</German>
         <Italian>Config</Italian>
         <Polish>Config</Polish>
         <Portuguese>Config</Portuguese>
@@ -215,7 +215,7 @@
         <English>Symbols/Operators</English>
         <Czech>Symbols/Operators</Czech>
         <French>Symbols/Operators</French>
-        <German>Symbols/Operators</German>
+        <German>Symbole/Operatoren</German>
         <Italian>Symbols/Operators</Italian>
         <Polish>Symbols/Operators</Polish>
         <Portuguese>Symbols/Operators</Portuguese>
@@ -231,7 +231,7 @@
         <English>Comments</English>
         <Czech>Comments</Czech>
         <French>Comments</French>
-        <German>Comments</German>
+        <German>Kommentare</German>
         <Italian>Comments</Italian>
         <Polish>Comments</Polish>
         <Portuguese>Comments</Portuguese>
@@ -247,7 +247,7 @@
         <English>Numbers</English>
         <Czech>Numbers</Czech>
         <French>Numbers</French>
-        <German>Numbers</German>
+        <German>Nummern</German>
         <Italian>Numbers</Italian>
         <Polish>Numbers</Polish>
         <Portuguese>Numbers</Portuguese>
@@ -263,7 +263,7 @@
         <English>Strings</English>
         <Czech>Strings</Czech>
         <French>Strings</French>
-        <German>Strings</German>
+        <German>Zeichenketten</German>
         <Italian>Strings</Italian>
         <Polish>Strings</Polish>
         <Portuguese>Strings</Portuguese>
@@ -279,7 +279,7 @@
         <English>Preprocessor Commands</English>
         <Czech>Preprocessor Commands</Czech>
         <French>Preprocessor Commands</French>
-        <German>Preprocessor Commands</German>
+        <German>Preprocessor-Kommandos</German>
         <Italian>Preprocessor Commands</Italian>
         <Polish>Preprocessor Commands</Polish>
         <Portuguese>Preprocessor Commands</Portuguese>
@@ -295,7 +295,7 @@
         <English>Magic Variables/Enums</English>
         <Czech>Magic Variables/Enums</Czech>
         <French>Magic Variables/Enums</French>
-        <German>Magic Variables/Enums</German>
+        <German>Magische Variablen/Enums</German>
         <Italian>Magic Variables/Enums</Italian>
         <Polish>Magic Variables/Enums</Polish>
         <Portuguese>Magic Variables/Enums</Portuguese>
@@ -311,7 +311,7 @@
         <English>Local Variables</English>
         <Czech>Local Variables</Czech>
         <French>Local Variables</French>
-        <German>Local Variables</German>
+        <German>Lokale Variablen</German>
         <Italian>Local Variables</Italian>
         <Polish>Local Variables</Polish>
         <Portuguese>Local Variables</Portuguese>
@@ -327,7 +327,7 @@
         <English>Global Variables</English>
         <Czech>Global Variables</Czech>
         <French>Global Variables</French>
-        <German>Global Variables</German>
+        <German>Globale Variablen</German>
         <Italian>Global Variables</Italian>
         <Polish>Global Variables</Polish>
         <Portuguese>Global Variables</Portuguese>
@@ -343,7 +343,7 @@
         <English>Control flow / Special Commands</English>
         <Czech>Control flow / Special Commands</Czech>
         <French>Control flow / Special Commands</French>
-        <German>Control flow / Special Commands</German>
+        <German>Kontrolstrukturen / Spezielle Kommandos</German>
         <Italian>Control flow / Special Commands</Italian>
         <Polish>Control flow / Special Commands</Polish>
         <Portuguese>Control flow / Special Commands</Portuguese>
@@ -359,7 +359,7 @@
         <English>Commands</English>
         <Czech>Commands</Czech>
         <French>Commands</French>
-        <German>Commands</German>
+        <German>Kommandos</German>
         <Italian>Commands</Italian>
         <Polish>Commands</Polish>
         <Portuguese>Commands</Portuguese>
@@ -375,7 +375,7 @@
         <English>Editor Background</English>
         <Czech>Editor Background</Czech>
         <French>Editor Background</French>
-        <German>Editor Background</German>
+        <German>Editorhintergrund</German>
         <Italian>Editor Background</Italian>
         <Polish>Editor Background</Polish>
         <Portuguese>Editor Background</Portuguese>
@@ -407,7 +407,7 @@
         <English>Control Background</English>
         <Czech>Control Background</Czech>
         <French>Control Background</French>
-        <German>Control Background</German>
+        <German>Steuerungshintergrund</German>
         <Italian>Control Background</Italian>
         <Polish>Control Background</Polish>
         <Portuguese>Control Background</Portuguese>
@@ -423,7 +423,7 @@
         <English>Window Background</English>
         <Czech>Window Background</Czech>
         <French>Window Background</French>
-        <German>Window Background</German>
+        <German>Fensterhintergrund</German>
         <Italian>Window Background</Italian>
         <Polish>Window Background</Polish>
         <Portuguese>Window Background</Portuguese>
@@ -439,7 +439,7 @@
         <English>Window Border</English>
         <Czech>Window Border</Czech>
         <French>Window Border</French>
-        <German>Window Border</German>
+        <German>Fensterrahmen</German>
         <Italian>Window Border</Italian>
         <Polish>Window Border</Polish>
         <Portuguese>Window Border</Portuguese>
@@ -455,7 +455,7 @@
         <English>General</English>
         <Czech>General</Czech>
         <French>General</French>
-        <German>General</German>
+        <German>Allgemein</German>
         <Italian>General</Italian>
         <Polish>General</Polish>
         <Portuguese>General</Portuguese>
@@ -471,7 +471,7 @@
         <English>Not recommended if the number of points is expected to vary too fast</English>
         <Czech>Not recommended if the number of points is expected to vary too fast</Czech>
         <French>Not recommended if the number of points is expected to vary too fast</French>
-        <German>Not recommended if the number of points is expected to vary too fast</German>
+        <German>Nicht empfohlen, wenn die Anzahl an Punkten schnell variiert</German>
         <Italian>Not recommended if the number of points is expected to vary too fast</Italian>
         <Polish>Not recommended if the number of points is expected to vary too fast</Polish>
         <Portuguese>Not recommended if the number of points is expected to vary too fast</Portuguese>
@@ -487,7 +487,7 @@
         <English>Clean up unused objects (for object draw)</English>
         <Czech>Clean up unused objects (for object draw)</Czech>
         <French>Clean up unused objects (for object draw)</French>
-        <German>Clean up unused objects (for object draw)</German>
+        <German>Unbenutze Objekte entfernen (for object draw)</German>
         <Italian>Clean up unused objects (for object draw)</Italian>
         <Polish>Clean up unused objects (for object draw)</Polish>
         <Portuguese>Clean up unused objects (for object draw)</Portuguese>
@@ -503,7 +503,7 @@
         <English>Value between 0.1 and 3</English>
         <Czech>Value between 0.1 and 3</Czech>
         <French>Value between 0.1 and 3</French>
-        <German>Value between 0.1 and 3</German>
+        <German>Wert zwischen 0.1 und 3</German>
         <Italian>Value between 0.1 and 3</Italian>
         <Polish>Value between 0.1 and 3</Polish>
         <Portuguese>Value between 0.1 and 3</Portuguese>
@@ -519,7 +519,7 @@
         <English>Icon scale factor</English>
         <Czech>Icon scale factor</Czech>
         <French>Icon scale factor</French>
-        <German>Icon scale factor</German>
+        <German>Icon-Skalierungsfaktor</German>
         <Italian>Icon scale factor</Italian>
         <Polish>Icon scale factor</Polish>
         <Portuguese>Icon scale factor</Portuguese>
@@ -551,7 +551,7 @@
         <English>Default object/model</English>
         <Czech>Default object/model</Czech>
         <French>Default object/model</French>
-        <German>Default object/model</German>
+        <German>Standard Objekt/Modell</German>
         <Italian>Default object/model</Italian>
         <Polish>Default object/model</Polish>
         <Portuguese>Default object/model</Portuguese>
@@ -567,7 +567,7 @@
         <English>Default icon for drawIcon3D</English>
         <Czech>Default icon for drawIcon3D</Czech>
         <French>Default icon for drawIcon3D</French>
-        <German>Default icon for drawIcon3D</German>
+        <German>Standard Icon für 'drawIcon3D'</German>
         <Italian>Default icon for drawIcon3D</Italian>
         <Polish>Default icon for drawIcon3D</Polish>
         <Portuguese>Default icon for drawIcon3D</Portuguese>
@@ -583,7 +583,7 @@
         <English>Higher numbers mean faster search, but can result in longer freezes. 1 = Disabled</English>
         <Czech>Higher numbers mean faster search, but can result in longer freezes. 1 = Disabled</Czech>
         <French>Higher numbers mean faster search, but can result in longer freezes. 1 = Disabled</French>
-        <German>Higher numbers mean faster search, but can result in longer freezes. 1 = Disabled</German>
+        <German>Größere Nummern sorgen für eine schnellere Suche, können aber längeres Einfrieren verursachen. 1 = Deaktiviert</German>
         <Italian>Higher numbers mean faster search, but can result in longer freezes. 1 = Disabled</Italian>
         <Polish>Higher numbers mean faster search, but can result in longer freezes. 1 = Disabled</Polish>
         <Portuguese>Higher numbers mean faster search, but can result in longer freezes. 1 = Disabled</Portuguese>
@@ -599,7 +599,7 @@
         <English>Number of unscheduled searches</English>
         <Czech>Number of unscheduled searches</Czech>
         <French>Number of unscheduled searches</French>
-        <German>Number of unscheduled searches</German>
+        <German>Anzahl von 'unscheduled' Suchen</German>
         <Italian>Number of unscheduled searches</Italian>
         <Polish>Number of unscheduled searches</Polish>
         <Portuguese>Number of unscheduled searches</Portuguese>
@@ -615,7 +615,7 @@
         <English>Open last config path when config viewer starts</English>
         <Czech>Open last config path when config viewer starts</Czech>
         <French>Open last config path when config viewer starts</French>
-        <German>Open last config path when config viewer starts</German>
+        <German>Letzten Konfigpfad beim Öffnen des Config Viewers wiederherstellen</German>
         <Italian>Open last config path when config viewer starts</Italian>
         <Polish>Open last config path when config viewer starts</Polish>
         <Portuguese>Open last config path when config viewer starts</Portuguese>
