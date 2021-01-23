@@ -4,8 +4,8 @@ This repository contains the localization file for *Advanced Developer Tools*, a
 
 [BI Forum Thread](https://forums.bohemia.net/forums/topic/232513-advanced-developer-tools/) | [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2369477168)
 
-
-**If you're interested in contributing a translation, please follow these steps:**
+________
+# If you're interested in contributing a translation, please follow these steps:
  1. Take a look in the issues section, and **make sure no one else has "claimed" the localization** for your language (see step 2)
  2. Create a new issue with the name: `Feature Request: <Language Name> localization` (there's an issue template you can use). This tells me and the others that you want to claim this language. So others won't work on it and there won't be a conflict.
  3. Download the `Stringtable.xml` file to your computer.
