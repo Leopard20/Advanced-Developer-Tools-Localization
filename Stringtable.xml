@@ -167,7 +167,7 @@
 				<English>Reset mod settings</English>
 				<Czech>Reset mod settings</Czech>
 				<French>Reset mod settings</French>
-				<German>Resette die Modeinstellungen</German>
+				<German>Einstellungen zurücksetzen</German>
 				<Italian>Reset mod settings</Italian>
 				<Polish>Reset mod settings</Polish>
 				<Portuguese>Reset mod settings</Portuguese>
@@ -231,7 +231,7 @@
 				<English>Comments</English>
 				<Czech>Comments</Czech>
 				<French>Comments</French>
-				<German>Kommentar</German>
+				<German>Kommentare</German>
 				<Italian>Comments</Italian>
 				<Polish>Comments</Polish>
 				<Portuguese>Comments</Portuguese>
@@ -407,7 +407,7 @@
 				<English>Control Background</English>
 				<Czech>Control Background</Czech>
 				<French>Control Background</French>
-				<German>Hintergrund der Steuerung</German>
+				<German>Hintergrund von Steuerungselemente</German>
 				<Italian>Control Background</Italian>
 				<Polish>Control Background</Polish>
 				<Portuguese>Control Background</Portuguese>
@@ -439,7 +439,7 @@
 				<English>Window Border</English>
 				<Czech>Window Border</Czech>
 				<French>Window Border</French>
-				<German>Rand des Fensters</German>
+				<German>Fensterrahmen</German>
 				<Italian>Window Border</Italian>
 				<Polish>Window Border</Polish>
 				<Portuguese>Window Border</Portuguese>
@@ -471,7 +471,7 @@
 				<English>Not recommended if the number of points is expected to vary too fast</English>
 				<Czech>Not recommended if the number of points is expected to vary too fast</Czech>
 				<French>Not recommended if the number of points is expected to vary too fast</French>
-				<German>Es ist nicht empfohlen, dass die Zahl der Punkte schnell variiert</German>
+				<German>Nicht empfohlen, wenn die Anzahl an Punkten schnell variiert</German>
 				<Italian>Not recommended if the number of points is expected to vary too fast</Italian>
 				<Polish>Not recommended if the number of points is expected to vary too fast</Polish>
 				<Portuguese>Not recommended if the number of points is expected to vary too fast</Portuguese>
@@ -583,7 +583,7 @@
 				<English>Higher numbers mean faster search, but can result in longer freezes. 1 = Disabled</English>
 				<Czech>Higher numbers mean faster search, but can result in longer freezes. 1 = Disabled</Czech>
 				<French>Higher numbers mean faster search, but can result in longer freezes. 1 = Disabled</French>
-				<German>Höhere Wert bedeutet schnellere Suche, was jedoch auch dazu führen kann, dass es länger eingefrohren ist. 1 = Disabled</German>
+				<German>Ein größerer Wert sorgt für eine schnellere Suche, kann aber längeres Einfrieren verursachen. 1 = Deaktiviert</German>
 				<Italian>Higher numbers mean faster search, but can result in longer freezes. 1 = Disabled</Italian>
 				<Polish>Higher numbers mean faster search, but can result in longer freezes. 1 = Disabled</Polish>
 				<Portuguese>Higher numbers mean faster search, but can result in longer freezes. 1 = Disabled</Portuguese>
@@ -1927,7 +1927,7 @@
 				<English>Functions</English>
 				<Czech>Functions</Czech>
 				<French>Functions</French>
-				<German>Functionen</German>
+				<German>Funktionen</German>
 				<Italian>Functions</Italian>
 				<Polish>Functions</Polish>
 				<Portuguese>Functions</Portuguese>
@@ -2023,7 +2023,7 @@
 				<English>Search in Properties</English>
 				<Czech>Search in Properties</Czech>
 				<French>Search in Properties</French>
-				<German>Suche in den Einstellungen</German>
+				<German>In Eigenschaften suchen</German>
 				<Italian>Search in Properties</Italian>
 				<Polish>Search in Properties</Polish>
 				<Portuguese>Search in Properties</Portuguese>
@@ -2167,7 +2167,7 @@
 				<English>Bookmark current config path</English>
 				<Czech>Bookmark current config path</Czech>
 				<French>Bookmark current config path</French>
-				<German>Lesezeichen zu den aktuellen Konfigurationspfad</German>
+				<German>Aktuellen Konfigurationspfad als Lesezeichen speichern</German>
 				<Italian>Bookmark current config path</Italian>
 				<Polish>Bookmark current config path</Polish>
 				<Portuguese>Bookmark current config path</Portuguese>
@@ -2263,7 +2263,7 @@
 				<English>Object</English>
 				<Czech>Object</Czech>
 				<French>Object</French>
-				<German>Objekte</German>
+				<German>Objekt</German>
 				<Italian>Object</Italian>
 				<Polish>Object</Polish>
 				<Portuguese>Object</Portuguese>
