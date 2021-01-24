@@ -15,7 +15,7 @@ ________
 
 **Note 1:** Please make sure you only modify 1 language in a single pull request. If you want to contribute to multiple languages, please follow the above steps for each language individually.
 
-**Note 2:** Please try to keep the length of translations as close to the original text as possible. Longer texts may cause problems (such as not fitting properly or causing other elements to move too much and fall out of place).
+**Note 2:** Please try to keep the length of translations as close to the original text as possible. Too long/short texts may cause problems (such as not fitting properly or causing other elements to move too much and fall out of place).
 
 **Note 3:** Please try to submit your localization within 10 days from the day that you claimed the localization, otherwise I'll close the issue to "free" that language for other contributers (it probably takes less than a day to finish it)
 
