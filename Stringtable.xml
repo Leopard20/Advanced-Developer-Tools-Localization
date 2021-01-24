@@ -7,7 +7,7 @@
 				<English>File</English>
 				<Czech>File</Czech>
 				<French>File</French>
-				<German>File</German>
+				<German>Datei</German>
 				<Italian>File</Italian>
 				<Polish>File</Polish>
 				<Portuguese>File</Portuguese>
@@ -23,7 +23,7 @@
 				<English>It's for debugging purposes. Don't use it.</English>
 				<Czech>It's for debugging purposes. Don't use it.</Czech>
 				<French>It's for debugging purposes. Don't use it.</French>
-				<German>It's for debugging purposes. Don't use it.</German>
+				<German>Ist nur für das Debuggen gedacht. Nicht benutzen.</German>
 				<Italian>It's for debugging purposes. Don't use it.</Italian>
 				<Polish>It's for debugging purposes. Don't use it.</Polish>
 				<Portuguese>It's for debugging purposes. Don't use it.</Portuguese>
@@ -39,7 +39,7 @@
 				<English>Make all windows resizable</English>
 				<Czech>Make all windows resizable</Czech>
 				<French>Make all windows resizable</French>
-				<German>Make all windows resizable</German>
+				<German>Bei allen Fenstern die Größe ändern</German>
 				<Italian>Make all windows resizable</Italian>
 				<Polish>Make all windows resizable</Polish>
 				<Portuguese>Make all windows resizable</Portuguese>
@@ -71,7 +71,7 @@
 				<English>Pixel Precision</English>
 				<Czech>Pixel Precision</Czech>
 				<French>Pixel Precision</French>
-				<German>Pixel Precision</German>
+				<German>Pixel Präzision</German>
 				<Italian>Pixel Precision</Italian>
 				<Polish>Pixel Precision</Polish>
 				<Portuguese>Pixel Precision</Portuguese>
@@ -103,7 +103,7 @@
 				<English>Remove all MouseButtonDown Event Handlers</English>
 				<Czech>Remove all MouseButtonDown Event Handlers</Czech>
 				<French>Remove all MouseButtonDown Event Handlers</French>
-				<German>Remove all MouseButtonDown Event Handlers</German>
+				<German>Entferne alle MouseButtonDown Event Handlers</German>
 				<Italian>Remove all MouseButtonDown Event Handlers</Italian>
 				<Polish>Remove all MouseButtonDown Event Handlers</Polish>
 				<Portuguese>Remove all MouseButtonDown Event Handlers</Portuguese>
@@ -135,7 +135,7 @@
 				<English>Magic Word (opens Debug Console)</English>
 				<Czech>Magic Word (opens Debug Console)</Czech>
 				<French>Magic Word (opens Debug Console)</French>
-				<German>Magic Word (opens Debug Console)</German>
+				<German>Magisches Wort (öffnet die Debug Konsole)</German>
 				<Italian>Magic Word (opens Debug Console)</Italian>
 				<Polish>Magic Word (opens Debug Console)</Polish>
 				<Portuguese>Magic Word (opens Debug Console)</Portuguese>
@@ -151,7 +151,7 @@
 				<English>Console shortcut key</English>
 				<Czech>Console shortcut key</Czech>
 				<French>Console shortcut key</French>
-				<German>Console shortcut key</German>
+				<German>Konsole Shortcut Taste</German>
 				<Italian>Console shortcut key</Italian>
 				<Polish>Console shortcut key</Polish>
 				<Portuguese>Console shortcut key</Portuguese>
@@ -167,7 +167,7 @@
 				<English>Reset mod settings</English>
 				<Czech>Reset mod settings</Czech>
 				<French>Reset mod settings</French>
-				<German>Reset mod settings</German>
+				<German>Einstellungen zurücksetzen</German>
 				<Italian>Reset mod settings</Italian>
 				<Polish>Reset mod settings</Polish>
 				<Portuguese>Reset mod settings</Portuguese>
@@ -183,7 +183,7 @@
 				<English>Advanced</English>
 				<Czech>Advanced</Czech>
 				<French>Advanced</French>
-				<German>Advanced</German>
+				<German>Erweitert</German>
 				<Italian>Advanced</Italian>
 				<Polish>Advanced</Polish>
 				<Portuguese>Advanced</Portuguese>
@@ -199,7 +199,7 @@
 				<English>Config</English>
 				<Czech>Config</Czech>
 				<French>Config</French>
-				<German>Config</German>
+				<German>Konfiguration</German>
 				<Italian>Config</Italian>
 				<Polish>Config</Polish>
 				<Portuguese>Config</Portuguese>
@@ -215,7 +215,7 @@
 				<English>Symbols/Operators</English>
 				<Czech>Symbols/Operators</Czech>
 				<French>Symbols/Operators</French>
-				<German>Symbols/Operators</German>
+				<German>Symbole/Operatoren</German>
 				<Italian>Symbols/Operators</Italian>
 				<Polish>Symbols/Operators</Polish>
 				<Portuguese>Symbols/Operators</Portuguese>
@@ -231,7 +231,7 @@
 				<English>Comments</English>
 				<Czech>Comments</Czech>
 				<French>Comments</French>
-				<German>Comments</German>
+				<German>Kommentare</German>
 				<Italian>Comments</Italian>
 				<Polish>Comments</Polish>
 				<Portuguese>Comments</Portuguese>
@@ -247,7 +247,7 @@
 				<English>Numbers</English>
 				<Czech>Numbers</Czech>
 				<French>Numbers</French>
-				<German>Numbers</German>
+				<German>Zahlen</German>
 				<Italian>Numbers</Italian>
 				<Polish>Numbers</Polish>
 				<Portuguese>Numbers</Portuguese>
@@ -263,7 +263,7 @@
 				<English>Strings</English>
 				<Czech>Strings</Czech>
 				<French>Strings</French>
-				<German>Strings</German>
+				<German>Zeichenfolge</German>
 				<Italian>Strings</Italian>
 				<Polish>Strings</Polish>
 				<Portuguese>Strings</Portuguese>
@@ -279,7 +279,7 @@
 				<English>Preprocessor Commands</English>
 				<Czech>Preprocessor Commands</Czech>
 				<French>Preprocessor Commands</French>
-				<German>Preprocessor Commands</German>
+				<German>Preprocessor Kommandos</German>
 				<Italian>Preprocessor Commands</Italian>
 				<Polish>Preprocessor Commands</Polish>
 				<Portuguese>Preprocessor Commands</Portuguese>
@@ -295,7 +295,7 @@
 				<English>Magic Variables/Enums</English>
 				<Czech>Magic Variables/Enums</Czech>
 				<French>Magic Variables/Enums</French>
-				<German>Magic Variables/Enums</German>
+				<German>Magische Variablen/Enums</German>
 				<Italian>Magic Variables/Enums</Italian>
 				<Polish>Magic Variables/Enums</Polish>
 				<Portuguese>Magic Variables/Enums</Portuguese>
@@ -311,7 +311,7 @@
 				<English>Local Variables</English>
 				<Czech>Local Variables</Czech>
 				<French>Local Variables</French>
-				<German>Local Variables</German>
+				<German>Lokale Variablen</German>
 				<Italian>Local Variables</Italian>
 				<Polish>Local Variables</Polish>
 				<Portuguese>Local Variables</Portuguese>
@@ -327,7 +327,7 @@
 				<English>Global Variables</English>
 				<Czech>Global Variables</Czech>
 				<French>Global Variables</French>
-				<German>Global Variables</German>
+				<German>Globale Variablen</German>
 				<Italian>Global Variables</Italian>
 				<Polish>Global Variables</Polish>
 				<Portuguese>Global Variables</Portuguese>
@@ -343,7 +343,7 @@
 				<English>Control flow / Special Commands</English>
 				<Czech>Control flow / Special Commands</Czech>
 				<French>Control flow / Special Commands</French>
-				<German>Control flow / Special Commands</German>
+				<German>Kontrollstruktur / Spezielle Kommandos</German>
 				<Italian>Control flow / Special Commands</Italian>
 				<Polish>Control flow / Special Commands</Polish>
 				<Portuguese>Control flow / Special Commands</Portuguese>
@@ -359,7 +359,7 @@
 				<English>Commands</English>
 				<Czech>Commands</Czech>
 				<French>Commands</French>
-				<German>Commands</German>
+				<German>Kommandos</German>
 				<Italian>Commands</Italian>
 				<Polish>Commands</Polish>
 				<Portuguese>Commands</Portuguese>
@@ -375,7 +375,7 @@
 				<English>Editor Background</English>
 				<Czech>Editor Background</Czech>
 				<French>Editor Background</French>
-				<German>Editor Background</German>
+				<German>Hintergrund des Editors</German>
 				<Italian>Editor Background</Italian>
 				<Polish>Editor Background</Polish>
 				<Portuguese>Editor Background</Portuguese>
@@ -391,7 +391,7 @@
 				<English>Theme</English>
 				<Czech>Theme</Czech>
 				<French>Theme</French>
-				<German>Theme</German>
+				<German>Thema</German>
 				<Italian>Theme</Italian>
 				<Polish>Theme</Polish>
 				<Portuguese>Theme</Portuguese>
@@ -407,7 +407,7 @@
 				<English>Control Background</English>
 				<Czech>Control Background</Czech>
 				<French>Control Background</French>
-				<German>Control Background</German>
+				<German>Hintergrund von Steuerungselemente</German>
 				<Italian>Control Background</Italian>
 				<Polish>Control Background</Polish>
 				<Portuguese>Control Background</Portuguese>
@@ -423,7 +423,7 @@
 				<English>Window Background</English>
 				<Czech>Window Background</Czech>
 				<French>Window Background</French>
-				<German>Window Background</German>
+				<German>Hintergrund der Fenster</German>
 				<Italian>Window Background</Italian>
 				<Polish>Window Background</Polish>
 				<Portuguese>Window Background</Portuguese>
@@ -439,7 +439,7 @@
 				<English>Window Border</English>
 				<Czech>Window Border</Czech>
 				<French>Window Border</French>
-				<German>Window Border</German>
+				<German>Fensterrahmen</German>
 				<Italian>Window Border</Italian>
 				<Polish>Window Border</Polish>
 				<Portuguese>Window Border</Portuguese>
@@ -455,7 +455,7 @@
 				<English>General</English>
 				<Czech>General</Czech>
 				<French>General</French>
-				<German>General</German>
+				<German>Allgemein</German>
 				<Italian>General</Italian>
 				<Polish>General</Polish>
 				<Portuguese>General</Portuguese>
@@ -471,7 +471,7 @@
 				<English>Not recommended if the number of points is expected to vary too fast</English>
 				<Czech>Not recommended if the number of points is expected to vary too fast</Czech>
 				<French>Not recommended if the number of points is expected to vary too fast</French>
-				<German>Not recommended if the number of points is expected to vary too fast</German>
+				<German>Nicht empfohlen, wenn die Anzahl an Punkten schnell variiert</German>
 				<Italian>Not recommended if the number of points is expected to vary too fast</Italian>
 				<Polish>Not recommended if the number of points is expected to vary too fast</Polish>
 				<Portuguese>Not recommended if the number of points is expected to vary too fast</Portuguese>
@@ -487,7 +487,7 @@
 				<English>Clean up unused objects (for object draw)</English>
 				<Czech>Clean up unused objects (for object draw)</Czech>
 				<French>Clean up unused objects (for object draw)</French>
-				<German>Clean up unused objects (for object draw)</German>
+				<German>Lösche unbenutze Objekte (für gezeichnete Objekte)</German>
 				<Italian>Clean up unused objects (for object draw)</Italian>
 				<Polish>Clean up unused objects (for object draw)</Polish>
 				<Portuguese>Clean up unused objects (for object draw)</Portuguese>
@@ -503,7 +503,7 @@
 				<English>Value between 0.1 and 3</English>
 				<Czech>Value between 0.1 and 3</Czech>
 				<French>Value between 0.1 and 3</French>
-				<German>Value between 0.1 and 3</German>
+				<German>Wert zwischen 0.1 und 3</German>
 				<Italian>Value between 0.1 and 3</Italian>
 				<Polish>Value between 0.1 and 3</Polish>
 				<Portuguese>Value between 0.1 and 3</Portuguese>
@@ -519,7 +519,7 @@
 				<English>Icon scale factor</English>
 				<Czech>Icon scale factor</Czech>
 				<French>Icon scale factor</French>
-				<German>Icon scale factor</German>
+				<German>Skalierungsfaktor des Icons</German>
 				<Italian>Icon scale factor</Italian>
 				<Polish>Icon scale factor</Polish>
 				<Portuguese>Icon scale factor</Portuguese>
@@ -535,7 +535,7 @@
 				<English>Variable name prefix for draw arrays</English>
 				<Czech>Variable name prefix for draw arrays</Czech>
 				<French>Variable name prefix for draw arrays</French>
-				<German>Variable name prefix for draw arrays</German>
+				<German>Präfix der Variable für gezeichnete Arrays</German>
 				<Italian>Variable name prefix for draw arrays</Italian>
 				<Polish>Variable name prefix for draw arrays</Polish>
 				<Portuguese>Variable name prefix for draw arrays</Portuguese>
@@ -551,7 +551,7 @@
 				<English>Default object/model</English>
 				<Czech>Default object/model</Czech>
 				<French>Default object/model</French>
-				<German>Default object/model</German>
+				<German>Standard Objekt/Model</German>
 				<Italian>Default object/model</Italian>
 				<Polish>Default object/model</Polish>
 				<Portuguese>Default object/model</Portuguese>
@@ -567,7 +567,7 @@
 				<English>Default icon for drawIcon3D</English>
 				<Czech>Default icon for drawIcon3D</Czech>
 				<French>Default icon for drawIcon3D</French>
-				<German>Default icon for drawIcon3D</German>
+				<German>Standard Icon für drawIcon3D</German>
 				<Italian>Default icon for drawIcon3D</Italian>
 				<Polish>Default icon for drawIcon3D</Polish>
 				<Portuguese>Default icon for drawIcon3D</Portuguese>
@@ -583,7 +583,7 @@
 				<English>Higher numbers mean faster search, but can result in longer freezes. 1 = Disabled</English>
 				<Czech>Higher numbers mean faster search, but can result in longer freezes. 1 = Disabled</Czech>
 				<French>Higher numbers mean faster search, but can result in longer freezes. 1 = Disabled</French>
-				<German>Higher numbers mean faster search, but can result in longer freezes. 1 = Disabled</German>
+				<German>Ein größerer Wert sorgt für eine schnellere Suche, kann aber längeres Einfrieren verursachen. 1 = Deaktiviert</German>
 				<Italian>Higher numbers mean faster search, but can result in longer freezes. 1 = Disabled</Italian>
 				<Polish>Higher numbers mean faster search, but can result in longer freezes. 1 = Disabled</Polish>
 				<Portuguese>Higher numbers mean faster search, but can result in longer freezes. 1 = Disabled</Portuguese>
@@ -599,7 +599,7 @@
 				<English>Number of unscheduled searches</English>
 				<Czech>Number of unscheduled searches</Czech>
 				<French>Number of unscheduled searches</French>
-				<German>Number of unscheduled searches</German>
+				<German>Zahl der außerplanmäßigen Suchen</German>
 				<Italian>Number of unscheduled searches</Italian>
 				<Polish>Number of unscheduled searches</Polish>
 				<Portuguese>Number of unscheduled searches</Portuguese>
@@ -615,7 +615,7 @@
 				<English>Open last config path when config viewer starts</English>
 				<Czech>Open last config path when config viewer starts</Czech>
 				<French>Open last config path when config viewer starts</French>
-				<German>Open last config path when config viewer starts</German>
+				<German>Öffne den letzten Konfigurationspfad, wenn der Config Viewer startet</German>
 				<Italian>Open last config path when config viewer starts</Italian>
 				<Polish>Open last config path when config viewer starts</Polish>
 				<Portuguese>Open last config path when config viewer starts</Portuguese>
@@ -631,7 +631,7 @@
 				<English>If unchecked, hint will appear when the caret is anywhere on a word</English>
 				<Czech>If unchecked, hint will appear when the caret is anywhere on a word</Czech>
 				<French>If unchecked, hint will appear when the caret is anywhere on a word</French>
-				<German>If unchecked, hint will appear when the caret is anywhere on a word</German>
+				<German>Wenn nicht ausgewählt, wird ein Hinweis auftauchen, wenn der Textcursor auf einem Wort ist</German>
 				<Italian>If unchecked, hint will appear when the caret is anywhere on a word</Italian>
 				<Polish>If unchecked, hint will appear when the caret is anywhere on a word</Polish>
 				<Portuguese>If unchecked, hint will appear when the caret is anywhere on a word</Portuguese>
@@ -647,7 +647,7 @@
 				<English>Show hint only if caret is at the end of a word</English>
 				<Czech>Show hint only if caret is at the end of a word</Czech>
 				<French>Show hint only if caret is at the end of a word</French>
-				<German>Show hint only if caret is at the end of a word</German>
+				<German>Zeigt einen Hinweis nur, wenn der Textcursor am Ende eines Wortes ist</German>
 				<Italian>Show hint only if caret is at the end of a word</Italian>
 				<Polish>Show hint only if caret is at the end of a word</Polish>
 				<Portuguese>Show hint only if caret is at the end of a word</Portuguese>
@@ -663,7 +663,7 @@
 				<English>Show the Debug Console in all missions (even if disabled by the mission)</English>
 				<Czech>Show the Debug Console in all missions (even if disabled by the mission)</Czech>
 				<French>Show the Debug Console in all missions (even if disabled by the mission)</French>
-				<German>Show the Debug Console in all missions (even if disabled by the mission)</German>
+				<German>Zeigt die Debug Konsole in allen Missionen (auch wenn es von der Mission deaktiviert wurde)</German>
 				<Italian>Show the Debug Console in all missions (even if disabled by the mission)</Italian>
 				<Polish>Show the Debug Console in all missions (even if disabled by the mission)</Polish>
 				<Portuguese>Show the Debug Console in all missions (even if disabled by the mission)</Portuguese>
@@ -679,7 +679,7 @@
 				<English>Always show the Debug Console</English>
 				<Czech>Always show the Debug Console</Czech>
 				<French>Always show the Debug Console</French>
-				<German>Always show the Debug Console</German>
+				<German>Zeigt immer die Debug Konsole</German>
 				<Italian>Always show the Debug Console</Italian>
 				<Polish>Always show the Debug Console</Polish>
 				<Portuguese>Always show the Debug Console</Portuguese>
@@ -695,7 +695,7 @@
 				<English>Replace the vanilla Debug Console</English>
 				<Czech>Replace the vanilla Debug Console</Czech>
 				<French>Replace the vanilla Debug Console</French>
-				<German>Replace the vanilla Debug Console</German>
+				<German>Ersetze die Vanilla Debug Konsole</German>
 				<Italian>Replace the vanilla Debug Console</Italian>
 				<Polish>Replace the vanilla Debug Console</Polish>
 				<Portuguese>Replace the vanilla Debug Console</Portuguese>
@@ -711,7 +711,7 @@
 				<English>May increate load time by a couple of seconds</English>
 				<Czech>May increate load time by a couple of seconds</Czech>
 				<French>May increate load time by a couple of seconds</French>
-				<German>May increate load time by a couple of seconds</German>
+				<German>Verlängert möglicherweise die Ladezeit um einige Sekunden</German>
 				<Italian>May increate load time by a couple of seconds</Italian>
 				<Polish>May increate load time by a couple of seconds</Polish>
 				<Portuguese>May increate load time by a couple of seconds</Portuguese>
@@ -727,7 +727,7 @@
 				<English>Init commands at startup</English>
 				<Czech>Init commands at startup</Czech>
 				<French>Init commands at startup</French>
-				<German>Init commands at startup</German>
+				<German>Init Komandos beim Starten</German>
 				<Italian>Init commands at startup</Italian>
 				<Polish>Init commands at startup</Polish>
 				<Portuguese>Init commands at startup</Portuguese>
@@ -743,7 +743,7 @@
 				<English>Between 1 and 200. Larger values could clutter your profile namespace.</English>
 				<Czech>Between 1 and 200. Larger values could clutter your profile namespace.</Czech>
 				<French>Between 1 and 200. Larger values could clutter your profile namespace.</French>
-				<German>Between 1 and 200. Larger values could clutter your profile namespace.</German>
+				<German>Zwischen 1 und 200. Größere Werte können deinen Profile Namespace durcheinanderbringen.</German>
 				<Italian>Between 1 and 200. Larger values could clutter your profile namespace.</Italian>
 				<Polish>Between 1 and 200. Larger values could clutter your profile namespace.</Polish>
 				<Portuguese>Between 1 and 200. Larger values could clutter your profile namespace.</Portuguese>
@@ -759,7 +759,7 @@
 				<English>Maximum number of Exec History</English>
 				<Czech>Maximum number of Exec History</Czech>
 				<French>Maximum number of Exec History</French>
-				<German>Maximum number of Exec History</German>
+				<German>Maximale Anzahl der Ausführungs-Historie</German>
 				<Italian>Maximum number of Exec History</Italian>
 				<Polish>Maximum number of Exec History</Polish>
 				<Portuguese>Maximum number of Exec History</Portuguese>
@@ -775,7 +775,7 @@
 				<English>Must be separated by space or , (comma) or ; (semicolon)</English>
 				<Czech>Must be separated by space or , (comma) or ; (semicolon)</Czech>
 				<French>Must be separated by space or , (comma) or ; (semicolon)</French>
-				<German>Must be separated by space or , (comma) or ; (semicolon)</German>
+				<German>Muss von Leerzeichen, Kommata (,) oder Semikolons (;) separaiert sein</German>
 				<Italian>Must be separated by space or , (comma) or ; (semicolon)</Italian>
 				<Polish>Must be separated by space or , (comma) or ; (semicolon)</Polish>
 				<Portuguese>Must be separated by space or , (comma) or ; (semicolon)</Portuguese>
@@ -791,7 +791,7 @@
 				<English>Commands to use Special Color</English>
 				<Czech>Commands to use Special Color</Czech>
 				<French>Commands to use Special Color</French>
-				<German>Commands to use Special Color</German>
+				<German>Komandos um eine spezielle Farbe zu nutzen</German>
 				<Italian>Commands to use Special Color</Italian>
 				<Polish>Commands to use Special Color</Polish>
 				<Portuguese>Commands to use Special Color</Portuguese>
@@ -807,7 +807,7 @@
 				<English>Select</English>
 				<Czech>Select</Czech>
 				<French>Select</French>
-				<German>Select</German>
+				<German>Auswahl</German>
 				<Italian>Select</Italian>
 				<Polish>Select</Polish>
 				<Portuguese>Select</Portuguese>
@@ -823,7 +823,7 @@
 				<English>Function Auto-completion</English>
 				<Czech>Function Auto-completion</Czech>
 				<French>Function Auto-completion</French>
-				<German>Function Auto-completion</German>
+				<German>Auto-Vervollständigungs Funktion</German>
 				<Italian>Function Auto-completion</Italian>
 				<Polish>Function Auto-completion</Polish>
 				<Portuguese>Function Auto-completion</Portuguese>
@@ -839,7 +839,7 @@
 				<English>Reset</English>
 				<Czech>Reset</Czech>
 				<French>Reset</French>
-				<German>Reset</German>
+				<German>Zurücksetzen</German>
 				<Italian>Reset</Italian>
 				<Polish>Reset</Polish>
 				<Portuguese>Reset</Portuguese>
@@ -855,7 +855,7 @@
 				<English>Reset command formatting</English>
 				<Czech>Reset command formatting</Czech>
 				<French>Reset command formatting</French>
-				<German>Reset command formatting</German>
+				<German>Setzte die formatierung von Kommandos zurück</German>
 				<Italian>Reset command formatting</Italian>
 				<Polish>Reset command formatting</Polish>
 				<Portuguese>Reset command formatting</Portuguese>
@@ -871,7 +871,7 @@
 				<English>Number of Cycles</English>
 				<Czech>Number of Cycles</Czech>
 				<French>Number of Cycles</French>
-				<German>Number of Cycles</German>
+				<German>Anzahl der Durchläufe</German>
 				<Italian>Number of Cycles</Italian>
 				<Polish>Number of Cycles</Polish>
 				<Portuguese>Number of Cycles</Portuguese>
@@ -887,7 +887,7 @@
 				<English>Code Performance</English>
 				<Czech>Code Performance</Czech>
 				<French>Code Performance</French>
-				<German>Code Performance</German>
+				<German>Performance des Codes</German>
 				<Italian>Code Performance</Italian>
 				<Polish>Code Performance</Polish>
 				<Portuguese>Code Performance</Portuguese>
@@ -903,7 +903,7 @@
 				<English>Custom RemoteExec (RClick to set target)</English>
 				<Czech>Custom RemoteExec (RClick to set target)</Czech>
 				<French>Custom RemoteExec (RClick to set target)</French>
-				<German>Custom RemoteExec (RClick to set target)</German>
+				<German>Benutzerdefinierte RemoteExec (Rechtsklick um das Ziel zu setzen)</German>
 				<Italian>Custom RemoteExec (RClick to set target)</Italian>
 				<Polish>Custom RemoteExec (RClick to set target)</Polish>
 				<Portuguese>Custom RemoteExec (RClick to set target)</Portuguese>
@@ -919,7 +919,7 @@
 				<English>Arguments</English>
 				<Czech>Arguments</Czech>
 				<French>Arguments</French>
-				<German>Arguments</German>
+				<German>Argumente</German>
 				<Italian>Arguments</Italian>
 				<Polish>Arguments</Polish>
 				<Portuguese>Arguments</Portuguese>
@@ -935,7 +935,7 @@
 				<English>Extended</English>
 				<Czech>Extended</Czech>
 				<French>Extended</French>
-				<German>Extended</German>
+				<German>Erweitert</German>
 				<Italian>Extended</Italian>
 				<Polish>Extended</Polish>
 				<Portuguese>Extended</Portuguese>
@@ -951,7 +951,7 @@
 				<English>Regular Expression (not working at the moment)</English>
 				<Czech>Regular Expression (not working at the moment)</Czech>
 				<French>Regular Expression (not working at the moment)</French>
-				<German>Regular Expression (not working at the moment)</German>
+				<German>Reguläre Ausdrücke (funktioniert noch nicht)</German>
 				<Italian>Regular Expression (not working at the moment)</Italian>
 				<Polish>Regular Expression (not working at the moment)</Polish>
 				<Portuguese>Regular Expression (not working at the moment)</Portuguese>
@@ -967,7 +967,7 @@
 				<English>Supports \r \n \t</English>
 				<Czech>Supports \r \n \t</Czech>
 				<French>Supports \r \n \t</French>
-				<German>Supports \r \n \t</German>
+				<German>Unterstützt \r \n \t</German>
 				<Italian>Supports \r \n \t</Italian>
 				<Polish>Supports \r \n \t</Polish>
 				<Portuguese>Supports \r \n \t</Portuguese>
@@ -999,7 +999,7 @@
 				<English>All characters are treated as they are</English>
 				<Czech>All characters are treated as they are</Czech>
 				<French>All characters are treated as they are</French>
-				<German>All characters are treated as they are</German>
+				<German>Alle Buchstaben werden so behandelt wie sie sind</German>
 				<Italian>All characters are treated as they are</Italian>
 				<Polish>All characters are treated as they are</Polish>
 				<Portuguese>All characters are treated as they are</Portuguese>
@@ -1015,7 +1015,7 @@
 				<English>Search Mode</English>
 				<Czech>Search Mode</Czech>
 				<French>Search Mode</French>
-				<German>Search Mode</German>
+				<German>Suchmodus</German>
 				<Italian>Search Mode</Italian>
 				<Polish>Search Mode</Polish>
 				<Portuguese>Search Mode</Portuguese>
@@ -1047,7 +1047,7 @@
 				<English>Match case</English>
 				<Czech>Match case</Czech>
 				<French>Match case</French>
-				<German>Match case</German>
+				<German>Groß-/Kleinschreibung beachten</German>
 				<Italian>Match case</Italian>
 				<Polish>Match case</Polish>
 				<Portuguese>Match case</Portuguese>
@@ -1063,7 +1063,7 @@
 				<English>Match whole word only</English>
 				<Czech>Match whole word only</Czech>
 				<French>Match whole word only</French>
-				<German>Match whole word only</German>
+				<German>Nur ganzes Wort suchen</German>
 				<Italian>Match whole word only</Italian>
 				<Polish>Match whole word only</Polish>
 				<Portuguese>Match whole word only</Portuguese>
@@ -1079,7 +1079,7 @@
 				<English>In selection</English>
 				<Czech>In selection</Czech>
 				<French>In selection</French>
-				<German>In selection</German>
+				<German>Teil der Auswahl</German>
 				<Italian>In selection</Italian>
 				<Polish>In selection</Polish>
 				<Portuguese>In selection</Portuguese>
@@ -1095,7 +1095,7 @@
 				<English>Count</English>
 				<Czech>Count</Czech>
 				<French>Count</French>
-				<German>Count</German>
+				<German>Zählen</German>
 				<Italian>Count</Italian>
 				<Polish>Count</Polish>
 				<Portuguese>Count</Portuguese>
@@ -1111,7 +1111,7 @@
 				<English>Replace All</English>
 				<Czech>Replace All</Czech>
 				<French>Replace All</French>
-				<German>Replace All</German>
+				<German>Ersetze Alla</German>
 				<Italian>Replace All</Italian>
 				<Polish>Replace All</Polish>
 				<Portuguese>Replace All</Portuguese>
@@ -1127,7 +1127,7 @@
 				<English>Replace</English>
 				<Czech>Replace</Czech>
 				<French>Replace</French>
-				<German>Replace</German>
+				<German>Ersetze</German>
 				<Italian>Replace</Italian>
 				<Polish>Replace</Polish>
 				<Portuguese>Replace</Portuguese>
@@ -1143,7 +1143,7 @@
 				<English>Replace with :</English>
 				<Czech>Replace with :</Czech>
 				<French>Replace with :</French>
-				<German>Replace with :</German>
+				<German>Ersetze mit:</German>
 				<Italian>Replace with :</Italian>
 				<Polish>Replace with :</Polish>
 				<Portuguese>Replace with :</Portuguese>
@@ -1159,7 +1159,7 @@
 				<English>Find what :</English>
 				<Czech>Find what :</Czech>
 				<French>Find what :</French>
-				<German>Find what :</German>
+				<German>Suchen:</German>
 				<Italian>Find what :</Italian>
 				<Polish>Find what :</Polish>
 				<Portuguese>Find what :</Portuguese>
@@ -1175,7 +1175,7 @@
 				<English>Copy All</English>
 				<Czech>Copy All</Czech>
 				<French>Copy All</French>
-				<German>Copy All</German>
+				<German>Alle Kopieren</German>
 				<Italian>Copy All</Italian>
 				<Polish>Copy All</Polish>
 				<Portuguese>Copy All</Portuguese>
@@ -1191,7 +1191,7 @@
 				<English>Go To</English>
 				<Czech>Go To</Czech>
 				<French>Go To</French>
-				<German>Go To</German>
+				<German>Gehe zu</German>
 				<Italian>Go To</Italian>
 				<Polish>Go To</Polish>
 				<Portuguese>Go To</Portuguese>
@@ -1207,7 +1207,7 @@
 				<English>Draw</English>
 				<Czech>Draw</Czech>
 				<French>Draw</French>
-				<German>Draw</German>
+				<German>Zeichnen</German>
 				<Italian>Draw</Italian>
 				<Polish>Draw</Polish>
 				<Portuguese>Draw</Portuguese>
@@ -1223,7 +1223,7 @@
 				<English>Watch</English>
 				<Czech>Watch</Czech>
 				<French>Watch</French>
-				<German>Watch</German>
+				<German>Beobachten</German>
 				<Italian>Watch</Italian>
 				<Polish>Watch</Polish>
 				<Portuguese>Watch</Portuguese>
@@ -1239,7 +1239,7 @@
 				<English>Create New</English>
 				<Czech>Create New</Czech>
 				<French>Create New</French>
-				<German>Create New</German>
+				<German>Neu erstellen</German>
 				<Italian>Create New</Italian>
 				<Polish>Create New</Polish>
 				<Portuguese>Create New</Portuguese>
@@ -1255,7 +1255,7 @@
 				<English>Switch Mode</English>
 				<Czech>Switch Mode</Czech>
 				<French>Switch Mode</French>
-				<German>Switch Mode</German>
+				<German>Modus ändern</German>
 				<Italian>Switch Mode</Italian>
 				<Polish>Switch Mode</Polish>
 				<Portuguese>Switch Mode</Portuguese>
@@ -1271,7 +1271,7 @@
 				<English>Parameters</English>
 				<Czech>Parameters</Czech>
 				<French>Parameters</French>
-				<German>Parameters</German>
+				<German>Parameter</German>
 				<Italian>Parameters</Italian>
 				<Polish>Parameters</Polish>
 				<Portuguese>Parameters</Portuguese>
@@ -1287,7 +1287,7 @@
 				<English>Variable Name</English>
 				<Czech>Variable Name</Czech>
 				<French>Variable Name</French>
-				<German>Variable Name</German>
+				<German>Variablenname</German>
 				<Italian>Variable Name</Italian>
 				<Polish>Variable Name</Polish>
 				<Portuguese>Variable Name</Portuguese>
@@ -1303,7 +1303,7 @@
 				<English>Result</English>
 				<Czech>Result</Czech>
 				<French>Result</French>
-				<German>Result</German>
+				<German>Ergebnisse</German>
 				<Italian>Result</Italian>
 				<Polish>Result</Polish>
 				<Portuguese>Result</Portuguese>
@@ -1319,7 +1319,7 @@
 				<English>Expression</English>
 				<Czech>Expression</Czech>
 				<French>Expression</French>
-				<German>Expression</German>
+				<German>Ausruck</German>
 				<Italian>Expression</Italian>
 				<Polish>Expression</Polish>
 				<Portuguese>Expression</Portuguese>
@@ -1383,7 +1383,7 @@
 				<English>Apply</English>
 				<Czech>Apply</Czech>
 				<French>Apply</French>
-				<German>Apply</German>
+				<German>Speichern</German>
 				<Italian>Apply</Italian>
 				<Polish>Apply</Polish>
 				<Portuguese>Apply</Portuguese>
@@ -1399,7 +1399,7 @@
 				<English>Settings</English>
 				<Czech>Settings</Czech>
 				<French>Settings</French>
-				<German>Settings</German>
+				<German>Einstellungen</German>
 				<Italian>Settings</Italian>
 				<Polish>Settings</Polish>
 				<Portuguese>Settings</Portuguese>
@@ -1415,7 +1415,7 @@
 				<English>Color Picker</English>
 				<Czech>Color Picker</Czech>
 				<French>Color Picker</French>
-				<German>Color Picker</German>
+				<German>Farbauswahl</German>
 				<Italian>Color Picker</Italian>
 				<Polish>Color Picker</Polish>
 				<Portuguese>Color Picker</Portuguese>
@@ -1431,7 +1431,7 @@
 				<English>Ok</English>
 				<Czech>Ok</Czech>
 				<French>Ok</French>
-				<German>Ok</German>
+				<German>OK</German>
 				<Italian>Ok</Italian>
 				<Polish>Ok</Polish>
 				<Portuguese>Ok</Portuguese>
@@ -1447,7 +1447,7 @@
 				<English>Warning!</English>
 				<Czech>Warning!</Czech>
 				<French>Warning!</French>
-				<German>Warning!</German>
+				<German>Warnung!</German>
 				<Italian>Warning!</Italian>
 				<Polish>Warning!</Polish>
 				<Portuguese>Warning!</Portuguese>
@@ -1463,7 +1463,7 @@
 				<English>Translators</English>
 				<Czech>Translators</Czech>
 				<French>Translators</French>
-				<German>Translators</German>
+				<German>Übersetzen</German>
 				<Italian>Translators</Italian>
 				<Polish>Translators</Polish>
 				<Portuguese>Translators</Portuguese>
@@ -1479,7 +1479,7 @@
 				<English>Supporters</English>
 				<Czech>Supporters</Czech>
 				<French>Supporters</French>
-				<German>Supporters</German>
+				<German>Unterstützer</German>
 				<Italian>Supporters</Italian>
 				<Polish>Supporters</Polish>
 				<Portuguese>Supporters</Portuguese>
@@ -1495,7 +1495,7 @@
 				<English>External Links:</English>
 				<Czech>External Links:</Czech>
 				<French>External Links:</French>
-				<German>External Links:</German>
+				<German>Externe Links:</German>
 				<Italian>External Links:</Italian>
 				<Polish>External Links:</Polish>
 				<Portuguese>External Links:</Portuguese>
@@ -1511,7 +1511,7 @@
 				<English>Cancel</English>
 				<Czech>Cancel</Czech>
 				<French>Cancel</French>
-				<German>Cancel</German>
+				<German>Abbrechen</German>
 				<Italian>Cancel</Italian>
 				<Polish>Cancel</Polish>
 				<Portuguese>Cancel</Portuguese>
@@ -1527,7 +1527,7 @@
 				<English>Select</English>
 				<Czech>Select</Czech>
 				<French>Select</French>
-				<German>Select</German>
+				<German>Auswahl</German>
 				<Italian>Select</Italian>
 				<Polish>Select</Polish>
 				<Portuguese>Select</Portuguese>
@@ -1543,7 +1543,7 @@
 				<English>History</English>
 				<Czech>History</Czech>
 				<French>History</French>
-				<German>History</German>
+				<German>Historie</German>
 				<Italian>History</Italian>
 				<Polish>History</Polish>
 				<Portuguese>History</Portuguese>
@@ -1559,7 +1559,7 @@
 				<English>Expression:</English>
 				<Czech>Expression:</Czech>
 				<French>Expression:</French>
-				<German>Expression:</German>
+				<German>Ausruck:</German>
 				<Italian>Expression:</Italian>
 				<Polish>Expression:</Polish>
 				<Portuguese>Expression:</Portuguese>
@@ -1575,7 +1575,7 @@
 				<English>RemoteExec Target</English>
 				<Czech>RemoteExec Target</Czech>
 				<French>RemoteExec Target</French>
-				<German>RemoteExec Target</German>
+				<German>RemoteExec Ziel</German>
 				<Italian>RemoteExec Target</Italian>
 				<Polish>RemoteExec Target</Polish>
 				<Portuguese>RemoteExec Target</Portuguese>
@@ -1591,7 +1591,7 @@
 				<English>Search in Files</English>
 				<Czech>Search in Files</Czech>
 				<French>Search in Files</French>
-				<German>Search in Files</German>
+				<German>In Dateien suchen</German>
 				<Italian>Search in Files</Italian>
 				<Polish>Search in Files</Polish>
 				<Portuguese>Search in Files</Portuguese>
@@ -1607,7 +1607,7 @@
 				<English>Search in Addons/Functions</English>
 				<Czech>Search in Addons/Functions</Czech>
 				<French>Search in Addons/Functions</French>
-				<German>Search in Addons/Functions</German>
+				<German>Suche in Addons/Functionen</German>
 				<Italian>Search in Addons/Functions</Italian>
 				<Polish>Search in Addons/Functions</Polish>
 				<Portuguese>Search in Addons/Functions</Portuguese>
@@ -1623,7 +1623,7 @@
 				<English>Console</English>
 				<Czech>Console</Czech>
 				<French>Console</French>
-				<German>Console</German>
+				<German>Konsole</German>
 				<Italian>Console</Italian>
 				<Polish>Console</Polish>
 				<Portuguese>Console</Portuguese>
@@ -1639,7 +1639,7 @@
 				<English>Execution History</English>
 				<Czech>Execution History</Czech>
 				<French>Execution History</French>
-				<German>Execution History</German>
+				<German>Ausführungshistorie</German>
 				<Italian>Execution History</Italian>
 				<Polish>Execution History</Polish>
 				<Portuguese>Execution History</Portuguese>
@@ -1655,7 +1655,7 @@
 				<English>Export to Notepad++</English>
 				<Czech>Export to Notepad++</Czech>
 				<French>Export to Notepad++</French>
-				<German>Export to Notepad++</German>
+				<German>Zu Notepad++ exportieren</German>
 				<Italian>Export to Notepad++</Italian>
 				<Polish>Export to Notepad++</Polish>
 				<Portuguese>Export to Notepad++</Portuguese>
@@ -1687,7 +1687,7 @@
 				<English>Parents:</English>
 				<Czech>Parents:</Czech>
 				<French>Parents:</French>
-				<German>Parents:</German>
+				<German>Elternelement:</German>
 				<Italian>Parents:</Italian>
 				<Polish>Parents:</Polish>
 				<Portuguese>Parents:</Portuguese>
@@ -1703,7 +1703,7 @@
 				<English>Path:</English>
 				<Czech>Path:</Czech>
 				<French>Path:</French>
-				<German>Path:</German>
+				<German>Pfad:</German>
 				<Italian>Path:</Italian>
 				<Polish>Path:</Polish>
 				<Portuguese>Path:</Portuguese>
@@ -1751,7 +1751,7 @@
 				<English>Arma Discrod</English>
 				<Czech>Arma Discrod</Czech>
 				<French>Arma Discrod</French>
-				<German>Arma Discrod</German>
+				<German>Arma Discord</German>
 				<Italian>Arma Discrod</Italian>
 				<Polish>Arma Discrod</Polish>
 				<Portuguese>Arma Discrod</Portuguese>
@@ -1767,7 +1767,7 @@
 				<English>Bohemia Interactive Forums</English>
 				<Czech>Bohemia Interactive Forums</Czech>
 				<French>Bohemia Interactive Forums</French>
-				<German>Bohemia Interactive Forums</German>
+				<German>Bohemia Interactive Forum</German>
 				<Italian>Bohemia Interactive Forums</Italian>
 				<Polish>Bohemia Interactive Forums</Polish>
 				<Portuguese>Bohemia Interactive Forums</Portuguese>
@@ -1783,7 +1783,7 @@
 				<English>Scripting Commands for Arma 3</English>
 				<Czech>Scripting Commands for Arma 3</Czech>
 				<French>Scripting Commands for Arma 3</French>
-				<German>Scripting Commands for Arma 3</German>
+				<German>Scripting Kommandos für Arma 3</German>
 				<Italian>Scripting Commands for Arma 3</Italian>
 				<Polish>Scripting Commands for Arma 3</Polish>
 				<Portuguese>Scripting Commands for Arma 3</Portuguese>
@@ -1799,7 +1799,7 @@
 				<English>Introduction to Arma Scripting</English>
 				<Czech>Introduction to Arma Scripting</Czech>
 				<French>Introduction to Arma Scripting</French>
-				<German>Introduction to Arma Scripting</German>
+				<German>Einführung zum Arma Scripting (ENG)</German>
 				<Italian>Introduction to Arma Scripting</Italian>
 				<Polish>Introduction to Arma Scripting</Polish>
 				<Portuguese>Introduction to Arma Scripting</Portuguese>
@@ -1815,7 +1815,7 @@
 				<English>Export Config</English>
 				<Czech>Export Config</Czech>
 				<French>Export Config</French>
-				<German>Export Config</German>
+				<German>Konfiguration exportieren</German>
 				<Italian>Export Config</Italian>
 				<Polish>Export Config</Polish>
 				<Portuguese>Export Config</Portuguese>
@@ -1831,7 +1831,7 @@
 				<English>Preferences</English>
 				<Czech>Preferences</Czech>
 				<French>Preferences</French>
-				<German>Preferences</German>
+				<German>Voreinstellungen</German>
 				<Italian>Preferences</Italian>
 				<Polish>Preferences</Polish>
 				<Portuguese>Preferences</Portuguese>
@@ -1847,7 +1847,7 @@
 				<English>Utilities</English>
 				<Czech>Utilities</Czech>
 				<French>Utilities</French>
-				<German>Utilities</German>
+				<German>Dienstprogramme</German>
 				<Italian>Utilities</Italian>
 				<Polish>Utilities</Polish>
 				<Portuguese>Utilities</Portuguese>
@@ -1863,7 +1863,7 @@
 				<English>Splendid Camera</English>
 				<Czech>Splendid Camera</Czech>
 				<French>Splendid Camera</French>
-				<German>Splendid Camera</German>
+				<German>Splendid Kamera</German>
 				<Italian>Splendid Camera</Italian>
 				<Polish>Splendid Camera</Polish>
 				<Portuguese>Splendid Camera</Portuguese>
@@ -1879,7 +1879,7 @@
 				<English>Spectate</English>
 				<Czech>Spectate</Czech>
 				<French>Spectate</French>
-				<German>Spectate</German>
+				<German>Zuschauen</German>
 				<Italian>Spectate</Italian>
 				<Polish>Spectate</Polish>
 				<Portuguese>Spectate</Portuguese>
@@ -1927,7 +1927,7 @@
 				<English>Functions</English>
 				<Czech>Functions</Czech>
 				<French>Functions</French>
-				<German>Functions</German>
+				<German>Funktionen</German>
 				<Italian>Functions</Italian>
 				<Polish>Functions</Polish>
 				<Portuguese>Functions</Portuguese>
@@ -1959,7 +1959,7 @@
 				<English>Add Bookmark</English>
 				<Czech>Add Bookmark</Czech>
 				<French>Add Bookmark</French>
-				<German>Add Bookmark</German>
+				<German>Lesezeichen hinzufügen</German>
 				<Italian>Add Bookmark</Italian>
 				<Polish>Add Bookmark</Polish>
 				<Portuguese>Add Bookmark</Portuguese>
@@ -1975,7 +1975,7 @@
 				<English>Find</English>
 				<Czech>Find</Czech>
 				<French>Find</French>
-				<German>Find</German>
+				<German>Suchen</German>
 				<Italian>Find</Italian>
 				<Polish>Find</Polish>
 				<Portuguese>Find</Portuguese>
@@ -2007,7 +2007,7 @@
 				<English>Search in Values</English>
 				<Czech>Search in Values</Czech>
 				<French>Search in Values</French>
-				<German>Search in Values</German>
+				<German>In den Werten suchen</German>
 				<Italian>Search in Values</Italian>
 				<Polish>Search in Values</Polish>
 				<Portuguese>Search in Values</Portuguese>
@@ -2023,7 +2023,7 @@
 				<English>Search in Properties</English>
 				<Czech>Search in Properties</Czech>
 				<French>Search in Properties</French>
-				<German>Search in Properties</German>
+				<German>In Eigenschaften suchen</German>
 				<Italian>Search in Properties</Italian>
 				<Polish>Search in Properties</Polish>
 				<Portuguese>Search in Properties</Portuguese>
@@ -2039,7 +2039,7 @@
 				<English>Start from current class</English>
 				<Czech>Start from current class</Czech>
 				<French>Start from current class</French>
-				<German>Start from current class</German>
+				<German>Mit der aktuellen Klasse starten</German>
 				<Italian>Start from current class</Italian>
 				<Polish>Start from current class</Polish>
 				<Portuguese>Start from current class</Portuguese>
@@ -2055,7 +2055,7 @@
 				<English>Clear Search</English>
 				<Czech>Clear Search</Czech>
 				<French>Clear Search</French>
-				<German>Clear Search</German>
+				<German>Suche leeren</German>
 				<Italian>Clear Search</Italian>
 				<Polish>Clear Search</Polish>
 				<Portuguese>Clear Search</Portuguese>
@@ -2071,7 +2071,7 @@
 				<English>Stop Search</English>
 				<Czech>Stop Search</Czech>
 				<French>Stop Search</French>
-				<German>Stop Search</German>
+				<German>Suche stoppen</German>
 				<Italian>Stop Search</Italian>
 				<Polish>Stop Search</Polish>
 				<Portuguese>Stop Search</Portuguese>
@@ -2087,7 +2087,7 @@
 				<English>Find Next</English>
 				<Czech>Find Next</Czech>
 				<French>Find Next</French>
-				<German>Find Next</German>
+				<German>Nächstes Ergebnis</German>
 				<Italian>Find Next</Italian>
 				<Polish>Find Next</Polish>
 				<Portuguese>Find Next</Portuguese>
@@ -2103,7 +2103,7 @@
 				<English>Value :</English>
 				<Czech>Value :</Czech>
 				<French>Value :</French>
-				<German>Value :</German>
+				<German>Wert :</German>
 				<Italian>Value :</Italian>
 				<Polish>Value :</Polish>
 				<Portuguese>Value :</Portuguese>
@@ -2135,7 +2135,7 @@
 				<English>Config Search</English>
 				<Czech>Config Search</Czech>
 				<French>Config Search</French>
-				<German>Config Search</German>
+				<German>Konfigurationssuche</German>
 				<Italian>Config Search</Italian>
 				<Polish>Config Search</Polish>
 				<Portuguese>Config Search</Portuguese>
@@ -2151,7 +2151,7 @@
 				<English>Delete selected config path</English>
 				<Czech>Delete selected config path</Czech>
 				<French>Delete selected config path</French>
-				<German>Delete selected config path</German>
+				<German>Entferne die ausgewählten Konfigurationspfade</German>
 				<Italian>Delete selected config path</Italian>
 				<Polish>Delete selected config path</Polish>
 				<Portuguese>Delete selected config path</Portuguese>
@@ -2167,7 +2167,7 @@
 				<English>Bookmark current config path</English>
 				<Czech>Bookmark current config path</Czech>
 				<French>Bookmark current config path</French>
-				<German>Bookmark current config path</German>
+				<German>Aktuellen Konfigurationspfad als Lesezeichen speichern</German>
 				<Italian>Bookmark current config path</Italian>
 				<Polish>Bookmark current config path</Polish>
 				<Portuguese>Bookmark current config path</Portuguese>
@@ -2183,7 +2183,7 @@
 				<English>Go to selected config path</English>
 				<Czech>Go to selected config path</Czech>
 				<French>Go to selected config path</French>
-				<German>Go to selected config path</German>
+				<German>Zum ausgewählten Konfigurationspfad gehen</German>
 				<Italian>Go to selected config path</Italian>
 				<Polish>Go to selected config path</Polish>
 				<Portuguese>Go to selected config path</Portuguese>
@@ -2199,7 +2199,7 @@
 				<English>Bookmarks</English>
 				<Czech>Bookmarks</Czech>
 				<French>Bookmarks</French>
-				<German>Bookmarks</German>
+				<German>Lesezeichen</German>
 				<Italian>Bookmarks</Italian>
 				<Polish>Bookmarks</Polish>
 				<Portuguese>Bookmarks</Portuguese>
@@ -2215,7 +2215,7 @@
 				<English>Raw data (modifiable)</English>
 				<Czech>Raw data (modifiable)</Czech>
 				<French>Raw data (modifiable)</French>
-				<German>Raw data (modifiable)</German>
+				<German>Rohdaten (modifizierbar)</German>
 				<Italian>Raw data (modifiable)</Italian>
 				<Polish>Raw data (modifiable)</Polish>
 				<Portuguese>Raw data (modifiable)</Portuguese>
@@ -2231,7 +2231,7 @@
 				<English>Find in Config</English>
 				<Czech>Find in Config</Czech>
 				<French>Find in Config</French>
-				<German>Find in Config</German>
+				<German>In Konfiguration suchen</German>
 				<Italian>Find in Config</Italian>
 				<Polish>Find in Config</Polish>
 				<Portuguese>Find in Config</Portuguese>
@@ -2247,7 +2247,7 @@
 				<English>Add File Extension</English>
 				<Czech>Add File Extension</Czech>
 				<French>Add File Extension</French>
-				<German>Add File Extension</German>
+				<German>Dateierweiterung hinzufügen</German>
 				<Italian>Add File Extension</Italian>
 				<Polish>Add File Extension</Polish>
 				<Portuguese>Add File Extension</Portuguese>
@@ -2263,7 +2263,7 @@
 				<English>Object</English>
 				<Czech>Object</Czech>
 				<French>Object</French>
-				<German>Object</German>
+				<German>Objekt</German>
 				<Italian>Object</Italian>
 				<Polish>Object</Polish>
 				<Portuguese>Object</Portuguese>
@@ -2279,7 +2279,7 @@
 				<English>Model</English>
 				<Czech>Model</Czech>
 				<French>Model</French>
-				<German>Model</German>
+				<German>Modelle</German>
 				<Italian>Model</Italian>
 				<Polish>Model</Polish>
 				<Portuguese>Model</Portuguese>
@@ -2295,7 +2295,7 @@
 				<English>Sound</English>
 				<Czech>Sound</Czech>
 				<French>Sound</French>
-				<German>Sound</German>
+				<German>Sounds</German>
 				<Italian>Sound</Italian>
 				<Polish>Sound</Polish>
 				<Portuguese>Sound</Portuguese>
@@ -2311,7 +2311,7 @@
 				<English>Image</English>
 				<Czech>Image</Czech>
 				<French>Image</French>
-				<German>Image</German>
+				<German>Bilder</German>
 				<Italian>Image</Italian>
 				<Polish>Image</Polish>
 				<Portuguese>Image</Portuguese>
@@ -2359,7 +2359,7 @@
 				<English>Open As</English>
 				<Czech>Open As</Czech>
 				<French>Open As</French>
-				<German>Open As</German>
+				<German>Öffnen als</German>
 				<Italian>Open As</Italian>
 				<Polish>Open As</Polish>
 				<Portuguese>Open As</Portuguese>
@@ -2375,7 +2375,7 @@
 				<English>Data Viewer</English>
 				<Czech>Data Viewer</Czech>
 				<French>Data Viewer</French>
-				<German>Data Viewer</German>
+				<German>Daten Viewer</German>
 				<Italian>Data Viewer</Italian>
 				<Polish>Data Viewer</Polish>
 				<Portuguese>Data Viewer</Portuguese>
@@ -2391,7 +2391,7 @@
 				<English>Open</English>
 				<Czech>Open</Czech>
 				<French>Open</French>
-				<German>Open</German>
+				<German>Öffnen</German>
 				<Italian>Open</Italian>
 				<Polish>Open</Polish>
 				<Portuguese>Open</Portuguese>
@@ -2407,7 +2407,7 @@
 				<English>Close</English>
 				<Czech>Close</Czech>
 				<French>Close</French>
-				<German>Close</German>
+				<German>Schließen</German>
 				<Italian>Close</Italian>
 				<Polish>Close</Polish>
 				<Portuguese>Close</Portuguese>
@@ -2423,7 +2423,7 @@
 				<English>New</English>
 				<Czech>New</Czech>
 				<French>New</French>
-				<German>New</German>
+				<German>Neu</German>
 				<Italian>New</Italian>
 				<Polish>New</Polish>
 				<Portuguese>New</Portuguese>
@@ -2439,7 +2439,7 @@
 				<English>Save</English>
 				<Czech>Save</Czech>
 				<French>Save</French>
-				<German>Save</German>
+				<German>Speichern</German>
 				<Italian>Save</Italian>
 				<Polish>Save</Polish>
 				<Portuguese>Save</Portuguese>
@@ -2455,7 +2455,7 @@
 				<English>Save As</English>
 				<Czech>Save As</Czech>
 				<French>Save As</French>
-				<German>Save As</German>
+				<German>Speichern als</German>
 				<Italian>Save As</Italian>
 				<Polish>Save As</Polish>
 				<Portuguese>Save As</Portuguese>
@@ -2471,7 +2471,7 @@
 				<English>Reload</English>
 				<Czech>Reload</Czech>
 				<French>Reload</French>
-				<German>Reload</German>
+				<German>Neuladen</German>
 				<Italian>Reload</Italian>
 				<Polish>Reload</Polish>
 				<Portuguese>Reload</Portuguese>
@@ -2487,7 +2487,7 @@
 				<English>Exit</English>
 				<Czech>Exit</Czech>
 				<French>Exit</French>
-				<German>Exit</German>
+				<German>Schließen</German>
 				<Italian>Exit</Italian>
 				<Polish>Exit</Polish>
 				<Portuguese>Exit</Portuguese>
@@ -2503,7 +2503,7 @@
 				<English>Edit</English>
 				<Czech>Edit</Czech>
 				<French>Edit</French>
-				<German>Edit</German>
+				<German>Bearbeiten</German>
 				<Italian>Edit</Italian>
 				<Polish>Edit</Polish>
 				<Portuguese>Edit</Portuguese>
@@ -2519,7 +2519,7 @@
 				<English>Undo</English>
 				<Czech>Undo</Czech>
 				<French>Undo</French>
-				<German>Undo</German>
+				<German>Rückgängig machen</German>
 				<Italian>Undo</Italian>
 				<Polish>Undo</Polish>
 				<Portuguese>Undo</Portuguese>
@@ -2535,7 +2535,7 @@
 				<English>Redo</English>
 				<Czech>Redo</Czech>
 				<French>Redo</French>
-				<German>Redo</German>
+				<German>Wiederhohlen</German>
 				<Italian>Redo</Italian>
 				<Polish>Redo</Polish>
 				<Portuguese>Redo</Portuguese>
@@ -2551,7 +2551,7 @@
 				<English>Back</English>
 				<Czech>Back</Czech>
 				<French>Back</French>
-				<German>Back</German>
+				<German>Zurück</German>
 				<Italian>Back</Italian>
 				<Polish>Back</Polish>
 				<Portuguese>Back</Portuguese>
@@ -2567,7 +2567,7 @@
 				<English>Next</English>
 				<Czech>Next</Czech>
 				<French>Next</French>
-				<German>Next</German>
+				<German>Nächste</German>
 				<Italian>Next</Italian>
 				<Polish>Next</Polish>
 				<Portuguese>Next</Portuguese>
@@ -2583,7 +2583,7 @@
 				<English>Copy</English>
 				<Czech>Copy</Czech>
 				<French>Copy</French>
-				<German>Copy</German>
+				<German>Kopieren</German>
 				<Italian>Copy</Italian>
 				<Polish>Copy</Polish>
 				<Portuguese>Copy</Portuguese>
@@ -2599,7 +2599,7 @@
 				<English>Cut</English>
 				<Czech>Cut</Czech>
 				<French>Cut</French>
-				<German>Cut</German>
+				<German>Ausschneiden</German>
 				<Italian>Cut</Italian>
 				<Polish>Cut</Polish>
 				<Portuguese>Cut</Portuguese>
@@ -2615,7 +2615,7 @@
 				<English>Paste</English>
 				<Czech>Paste</Czech>
 				<French>Paste</French>
-				<German>Paste</German>
+				<German>Einfügen</German>
 				<Italian>Paste</Italian>
 				<Polish>Paste</Polish>
 				<Portuguese>Paste</Portuguese>
@@ -2631,7 +2631,7 @@
 				<English>Convert Case</English>
 				<Czech>Convert Case</Czech>
 				<French>Convert Case</French>
-				<German>Convert Case</German>
+				<German>Groß/Kleinschreibung ändern in</German>
 				<Italian>Convert Case</Italian>
 				<Polish>Convert Case</Polish>
 				<Portuguese>Convert Case</Portuguese>
@@ -2647,7 +2647,7 @@
 				<English>To Uppercase</English>
 				<Czech>To Uppercase</Czech>
 				<French>To Uppercase</French>
-				<German>To Uppercase</German>
+				<German>Großschreibung</German>
 				<Italian>To Uppercase</Italian>
 				<Polish>To Uppercase</Polish>
 				<Portuguese>To Uppercase</Portuguese>
@@ -2663,7 +2663,7 @@
 				<English>To Lowercase</English>
 				<Czech>To Lowercase</Czech>
 				<French>To Lowercase</French>
-				<German>To Lowercase</German>
+				<German>Kleinschreibung</German>
 				<Italian>To Lowercase</Italian>
 				<Polish>To Lowercase</Polish>
 				<Portuguese>To Lowercase</Portuguese>
@@ -2679,7 +2679,7 @@
 				<English>Find and Replace</English>
 				<Czech>Find and Replace</Czech>
 				<French>Find and Replace</French>
-				<German>Find and Replace</German>
+				<German>Suchen und ersetzen</German>
 				<Italian>Find and Replace</Italian>
 				<Polish>Find and Replace</Polish>
 				<Portuguese>Find and Replace</Portuguese>
