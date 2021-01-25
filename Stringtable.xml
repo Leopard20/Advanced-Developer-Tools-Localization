@@ -2,7 +2,7 @@
 <Project name="Advanced Debug Tools">
 	<Package name="Debug Console">
 		<Container name="Some Words">
-			<Key ID="STR_DBUG_FILE">
+			<Key ID="STR_TBUG_FILE">
 				<Original>File</Original>
 				<English>File</English>
 				<Czech>File</Czech>
@@ -18,7 +18,167 @@
                 <Chinesesimp>File</Chinesesimp>
                 <Chinese>File</Chinese>
 			</Key>
-			<Key ID="STR_DBUG_SET_RESIZE_WINS_HINT">
+			<Key ID="STR_TBUG_DEBUG_CONSOLE">
+				<Original>Debug Console</Original>
+				<English>Debug Console</English>
+				<Czech>Debug Console</Czech>
+				<French>Debug Console</French>
+				<German>Debug Console</German>
+				<Italian>Debug Console</Italian>
+				<Polish>Debug Console</Polish>
+				<Portuguese>Debug Console</Portuguese>
+				<Russian>Debug Console</Russian>
+				<Spanish>Debug Console</Spanish>
+				<Korean>Debug Console</Korean>
+				<Japanese>Debug Console</Japanese>
+                <Chinesesimp>Debug Console</Chinesesimp>
+                <Chinese>Debug Console</Chinese>
+			</Key>
+			<Key ID="STR_TBUG_SET_WIDTH_SCALE">
+				<Original>Console width scale (in docked mode)</Original>
+				<English>Console width scale (in docked mode)</English>
+				<Czech>Console width scale (in docked mode)</Czech>
+				<French>Console width scale (in docked mode)</French>
+				<German>Console width scale (in docked mode)</German>
+				<Italian>Console width scale (in docked mode)</Italian>
+				<Polish>Console width scale (in docked mode)</Polish>
+				<Portuguese>Console width scale (in docked mode)</Portuguese>
+				<Russian>Console width scale (in docked mode)</Russian>
+				<Spanish>Console width scale (in docked mode)</Spanish>
+				<Korean>Console width scale (in docked mode)</Korean>
+				<Japanese>Console width scale (in docked mode)</Japanese>
+                <Chinesesimp>Console width scale (in docked mode)</Chinesesimp>
+                <Chinese>Console width scale (in docked mode)</Chinese>
+			</Key>
+			<Key ID="STR_TBUG_SET_REPLACE_FUNCV">
+				<Original>Replace vanilla Function Viewer</Original>
+				<English>Replace vanilla Function Viewer</English>
+				<Czech>Replace vanilla Function Viewer</Czech>
+				<French>Replace vanilla Function Viewer</French>
+				<German>Replace vanilla Function Viewer</German>
+				<Italian>Replace vanilla Function Viewer</Italian>
+				<Polish>Replace vanilla Function Viewer</Polish>
+				<Portuguese>Replace vanilla Function Viewer</Portuguese>
+				<Russian>Replace vanilla Function Viewer</Russian>
+				<Spanish>Replace vanilla Function Viewer</Spanish>
+				<Korean>Replace vanilla Function Viewer</Korean>
+				<Japanese>Replace vanilla Function Viewer</Japanese>
+                <Chinesesimp>Replace vanilla Function Viewer</Chinesesimp>
+                <Chinese>Replace vanilla Function Viewer</Chinese>
+			</Key>
+			<Key ID="STR_TBUG_SET_REPLACE_CV_3DEN">
+				<Original>Replace Config Viewer in 3DEN context menu</Original>
+				<English>Replace Config Viewer in 3DEN context menu</English>
+				<Czech>Replace Config Viewer in 3DEN context menu</Czech>
+				<French>Replace Config Viewer in 3DEN context menu</French>
+				<German>Replace Config Viewer in 3DEN context menu</German>
+				<Italian>Replace Config Viewer in 3DEN context menu</Italian>
+				<Polish>Replace Config Viewer in 3DEN context menu</Polish>
+				<Portuguese>Replace Config Viewer in 3DEN context menu</Portuguese>
+				<Russian>Replace Config Viewer in 3DEN context menu</Russian>
+				<Spanish>Replace Config Viewer in 3DEN context menu</Spanish>
+				<Korean>Replace Config Viewer in 3DEN context menu</Korean>
+				<Japanese>Replace Config Viewer in 3DEN context menu</Japanese>
+                <Chinesesimp>Replace Config Viewer in 3DEN context menu</Chinesesimp>
+                <Chinese>Replace Config Viewer in 3DEN context menu</Chinese>
+			</Key>
+			<Key ID="STR_TBUG_RECOMPILE_SUBCLASS">
+				<Original>Recompile Sub-classes</Original>
+				<English>Recompile Sub-classes</English>
+				<Czech>Recompile Sub-classes</Czech>
+				<French>Recompile Sub-classes</French>
+				<German>Recompile Sub-classes</German>
+				<Italian>Recompile Sub-classes</Italian>
+				<Polish>Recompile Sub-classes</Polish>
+				<Portuguese>Recompile Sub-classes</Portuguese>
+				<Russian>Recompile Sub-classes</Russian>
+				<Spanish>Recompile Sub-classes</Spanish>
+				<Korean>Recompile Sub-classes</Korean>
+				<Japanese>Recompile Sub-classes</Japanese>
+                <Chinesesimp>Recompile Sub-classes</Chinesesimp>
+                <Chinese>Recompile Sub-classes</Chinese>
+			</Key>
+			<Key ID="STR_TBUG_FUNCTION_VIEWER">
+				<Original>Function Viewer</Original>
+				<English>Function Viewer</English>
+				<Czech>Function Viewer</Czech>
+				<French>Function Viewer</French>
+				<German>Function Viewer</German>
+				<Italian>Function Viewer</Italian>
+				<Polish>Function Viewer</Polish>
+				<Portuguese>Function Viewer</Portuguese>
+				<Russian>Function Viewer</Russian>
+				<Spanish>Function Viewer</Spanish>
+				<Korean>Function Viewer</Korean>
+				<Japanese>Function Viewer</Japanese>
+                <Chinesesimp>Function Viewer</Chinesesimp>
+                <Chinese>Function Viewer</Chinese>
+			</Key>
+			<Key ID="STR_TBUG_FUNCTION_NAME">
+				<Original>Function Name</Original>
+				<English>Function Name</English>
+				<Czech>Function Name</Czech>
+				<French>Function Name</French>
+				<German>Function Name</German>
+				<Italian>Function Name</Italian>
+				<Polish>Function Name</Polish>
+				<Portuguese>Function Name</Portuguese>
+				<Russian>Function Name</Russian>
+				<Spanish>Function Name</Spanish>
+				<Korean>Function Name</Korean>
+				<Japanese>Function Name</Japanese>
+                <Chinesesimp>Function Name</Chinesesimp>
+                <Chinese>Function Name</Chinese>
+			</Key>
+			<Key ID="STR_TBUG_SEARCH_FNCS">
+				<Original>Search in Functions</Original>
+				<English>Search in Functions</English>
+				<Czech>Search in Functions</Czech>
+				<French>Search in Functions</French>
+				<German>Search in Functions</German>
+				<Italian>Search in Functions</Italian>
+				<Polish>Search in Functions</Polish>
+				<Portuguese>Search in Functions</Portuguese>
+				<Russian>Search in Functions</Russian>
+				<Spanish>Search in Functions</Spanish>
+				<Korean>Search in Functions</Korean>
+				<Japanese>Search in Functions</Japanese>
+                <Chinesesimp>Search in Functions</Chinesesimp>
+                <Chinese>Search in Functions</Chinese>
+			</Key>
+			<Key ID="STR_TBUG_RECOMPILE">
+				<Original>Recompile</Original>
+				<English>Recompile</English>
+				<Czech>Recompile</Czech>
+				<French>Recompile</French>
+				<German>Recompile</German>
+				<Italian>Recompile</Italian>
+				<Polish>Recompile</Polish>
+				<Portuguese>Recompile</Portuguese>
+				<Russian>Recompile</Russian>
+				<Spanish>Recompile</Spanish>
+				<Korean>Recompile</Korean>
+				<Japanese>Recompile</Japanese>
+                <Chinesesimp>Recompile</Chinesesimp>
+                <Chinese>Recompile</Chinese>
+			</Key>
+			<Key ID="STR_TBUG_RECOMPILE_ALL">
+				<Original>Recompile All</Original>
+				<English>Recompile All</English>
+				<Czech>Recompile All</Czech>
+				<French>Recompile All</French>
+				<German>Recompile All</German>
+				<Italian>Recompile All</Italian>
+				<Polish>Recompile All</Polish>
+				<Portuguese>Recompile All</Portuguese>
+				<Russian>Recompile All</Russian>
+				<Spanish>Recompile All</Spanish>
+				<Korean>Recompile All</Korean>
+				<Japanese>Recompile All</Japanese>
+                <Chinesesimp>Recompile All</Chinesesimp>
+                <Chinese>Recompile All</Chinese>
+			</Key>
+			<Key ID="STR_TBUG_SET_RESIZE_WINS_HINT">
 				<Original>It's for debugging purposes. Don't use it.</Original>
 				<English>It's for debugging purposes. Don't use it.</English>
 				<Czech>It's for debugging purposes. Don't use it.</Czech>
