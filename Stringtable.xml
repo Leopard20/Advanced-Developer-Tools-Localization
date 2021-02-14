@@ -55,7 +55,7 @@
 				<English>Replace vanilla Function Viewer</English>
 				<Czech>Replace vanilla Function Viewer</Czech>
 				<French>Replace vanilla Function Viewer</French>
-				<German>Replace vanilla Function Viewer</German>
+				<German>Ersetzt vanilla Funktionsansicht</German>
 				<Italian>Replace vanilla Function Viewer</Italian>
 				<Polish>Replace vanilla Function Viewer</Polish>
 				<Portuguese>Replace vanilla Function Viewer</Portuguese>
@@ -71,7 +71,7 @@
 				<English>Replace Config Viewer in 3DEN context menu</English>
 				<Czech>Replace Config Viewer in 3DEN context menu</Czech>
 				<French>Replace Config Viewer in 3DEN context menu</French>
-				<German>Replace Config Viewer in 3DEN context menu</German>
+				<German>Ersetzt Config Viewer in 3DEN Kontextmenü</German>
 				<Italian>Replace Config Viewer in 3DEN context menu</Italian>
 				<Polish>Replace Config Viewer in 3DEN context menu</Polish>
 				<Portuguese>Replace Config Viewer in 3DEN context menu</Portuguese>
@@ -87,7 +87,7 @@
 				<English>Recompile Sub-classes</English>
 				<Czech>Recompile Sub-classes</Czech>
 				<French>Recompile Sub-classes</French>
-				<German>Recompile Sub-classes</German>
+				<German>Unterklassen neu kompilieren</German>
 				<Italian>Recompile Sub-classes</Italian>
 				<Polish>Recompile Sub-classes</Polish>
 				<Portuguese>Recompile Sub-classes</Portuguese>
@@ -103,7 +103,7 @@
 				<English>Function Viewer</English>
 				<Czech>Function Viewer</Czech>
 				<French>Function Viewer</French>
-				<German>Function Viewer</German>
+				<German>Funktionsansicht</German>
 				<Italian>Function Viewer</Italian>
 				<Polish>Function Viewer</Polish>
 				<Portuguese>Function Viewer</Portuguese>
@@ -119,7 +119,7 @@
 				<English>Function Name</English>
 				<Czech>Function Name</Czech>
 				<French>Function Name</French>
-				<German>Function Name</German>
+				<German>Funktionsname</German>
 				<Italian>Function Name</Italian>
 				<Polish>Function Name</Polish>
 				<Portuguese>Function Name</Portuguese>
@@ -135,7 +135,7 @@
 				<English>Search in Functions</English>
 				<Czech>Search in Functions</Czech>
 				<French>Search in Functions</French>
-				<German>Search in Functions</German>
+				<German>Suche in Funktionen</German>
 				<Italian>Search in Functions</Italian>
 				<Polish>Search in Functions</Polish>
 				<Portuguese>Search in Functions</Portuguese>
@@ -151,7 +151,7 @@
 				<English>Recompile</English>
 				<Czech>Recompile</Czech>
 				<French>Recompile</French>
-				<German>Recompile</German>
+				<German>Neu kompilieren</German>
 				<Italian>Recompile</Italian>
 				<Polish>Recompile</Polish>
 				<Portuguese>Recompile</Portuguese>
@@ -167,7 +167,7 @@
 				<English>Recompile All</English>
 				<Czech>Recompile All</Czech>
 				<French>Recompile All</French>
-				<German>Recompile All</German>
+				<German>Alle neu kompilieren</German>
 				<Italian>Recompile All</Italian>
 				<Polish>Recompile All</Polish>
 				<Portuguese>Recompile All</Portuguese>
@@ -215,7 +215,7 @@
 				<English>Works similar to anti-aliasing (for text)</English>
 				<Czech>Works similar to anti-aliasing (for text)</Czech>
 				<French>Works similar to anti-aliasing (for text)</French>
-				<German>Works similar to anti-aliasing (for text)</German>
+				<German>Funktioniert ähnlich wie anti-aliasing (for text)</German>
 				<Italian>Works similar to anti-aliasing (for text)</Italian>
 				<Polish>Works similar to anti-aliasing (for text)</Polish>
 				<Portuguese>Works similar to anti-aliasing (for text)</Portuguese>
@@ -247,7 +247,7 @@
 				<English>Removes other MouseButtonDown event handlers created by other mods to minimize intervention.</English>
 				<Czech>Removes other MouseButtonDown event handlers created by other mods to minimize intervention.</Czech>
 				<French>Removes other MouseButtonDown event handlers created by other mods to minimize intervention.</French>
-				<German>Removes other MouseButtonDown event handlers created by other mods to minimize intervention.</German>
+				<German>Entfernt andere MouseButtonDown event handlers die von anderen Mods erstellt wurden um Komplikationen zu minimieren.</German>
 				<Italian>Removes other MouseButtonDown event handlers created by other mods to minimize intervention.</Italian>
 				<Polish>Removes other MouseButtonDown event handlers created by other mods to minimize intervention.</Polish>
 				<Portuguese>Removes other MouseButtonDown event handlers created by other mods to minimize intervention.</Portuguese>
@@ -279,7 +279,7 @@
 				<English>Typing this word into most edit boxes will open the debug console</English>
 				<Czech>Typing this word into most edit boxes will open the debug console</Czech>
 				<French>Typing this word into most edit boxes will open the debug console</French>
-				<German>Typing this word into most edit boxes will open the debug console</German>
+				<German>Dieses Wort öffnet meistens die Debug-Konsole, wenn es in Bearbeitungsfeldern eingegeben wird</German>
 				<Italian>Typing this word into most edit boxes will open the debug console</Italian>
 				<Polish>Typing this word into most edit boxes will open the debug console</Polish>
 				<Portuguese>Typing this word into most edit boxes will open the debug console</Portuguese>
@@ -439,7 +439,7 @@
 				<English>Preprocessor Commands</English>
 				<Czech>Preprocessor Commands</Czech>
 				<French>Preprocessor Commands</French>
-				<German>Preprocessor Kommandos</German>
+				<German>Preprocessor Befehle</German>
 				<Italian>Preprocessor Commands</Italian>
 				<Polish>Preprocessor Commands</Polish>
 				<Portuguese>Preprocessor Commands</Portuguese>
@@ -503,7 +503,7 @@
 				<English>Control flow / Special Commands</English>
 				<Czech>Control flow / Special Commands</Czech>
 				<French>Control flow / Special Commands</French>
-				<German>Kontrollstruktur / Spezielle Kommandos</German>
+				<German>Kontrollstruktur / Spezielle Befehle</German>
 				<Italian>Control flow / Special Commands</Italian>
 				<Polish>Control flow / Special Commands</Polish>
 				<Portuguese>Control flow / Special Commands</Portuguese>
@@ -519,7 +519,7 @@
 				<English>Commands</English>
 				<Czech>Commands</Czech>
 				<French>Commands</French>
-				<German>Kommandos</German>
+				<German>Befehle</German>
 				<Italian>Commands</Italian>
 				<Polish>Commands</Polish>
 				<Portuguese>Commands</Portuguese>
@@ -887,7 +887,7 @@
 				<English>Init commands at startup</English>
 				<Czech>Init commands at startup</Czech>
 				<French>Init commands at startup</French>
-				<German>Init Komandos beim Starten</German>
+				<German>Init Befehle beim Starten</German>
 				<Italian>Init commands at startup</Italian>
 				<Polish>Init commands at startup</Polish>
 				<Portuguese>Init commands at startup</Portuguese>
@@ -935,7 +935,7 @@
 				<English>Must be separated by space or , (comma) or ; (semicolon)</English>
 				<Czech>Must be separated by space or , (comma) or ; (semicolon)</Czech>
 				<French>Must be separated by space or , (comma) or ; (semicolon)</French>
-				<German>Muss von Leerzeichen, Kommata (,) oder Semikolons (;) separaiert sein</German>
+				<German>Muss von Leerzeichen, Kommata (,) oder Semikolons (;) separiert sein</German>
 				<Italian>Must be separated by space or , (comma) or ; (semicolon)</Italian>
 				<Polish>Must be separated by space or , (comma) or ; (semicolon)</Polish>
 				<Portuguese>Must be separated by space or , (comma) or ; (semicolon)</Portuguese>
@@ -951,7 +951,7 @@
 				<English>Commands to use Special Color</English>
 				<Czech>Commands to use Special Color</Czech>
 				<French>Commands to use Special Color</French>
-				<German>Komandos um eine spezielle Farbe zu nutzen</German>
+				<German>Befehle um eine spezielle Farbe zu nutzen</German>
 				<Italian>Commands to use Special Color</Italian>
 				<Polish>Commands to use Special Color</Polish>
 				<Portuguese>Commands to use Special Color</Portuguese>
@@ -983,7 +983,7 @@
 				<English>Function Auto-completion</English>
 				<Czech>Function Auto-completion</Czech>
 				<French>Function Auto-completion</French>
-				<German>Auto-Vervollständigungs Funktion</German>
+				<German>Auto-Vervollständigungs-Funktion</German>
 				<Italian>Function Auto-completion</Italian>
 				<Polish>Function Auto-completion</Polish>
 				<Portuguese>Function Auto-completion</Portuguese>
@@ -2535,7 +2535,7 @@
 				<English>Data Viewer</English>
 				<Czech>Data Viewer</Czech>
 				<French>Data Viewer</French>
-				<German>Daten Viewer</German>
+				<German>Datenansicht</German>
 				<Italian>Data Viewer</Italian>
 				<Polish>Data Viewer</Polish>
 				<Portuguese>Data Viewer</Portuguese>
