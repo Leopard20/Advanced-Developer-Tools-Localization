@@ -2,7 +2,7 @@
 <Project name="Advanced Developer Tools">
   <Package name="Advanced Developer Tools">
     <Container name="Translations">
-      <Key ID="STR_TBUG_FILE">
+      <Key ID="STR_DBUG_FILE">
         <Original>File</Original>
         <English>File</English>
         <Czech>File</Czech>
@@ -15,10 +15,410 @@
         <Spanish>File</Spanish>
         <Korean>File</Korean>
         <Japanese>File</Japanese>
-        <Chinesesimp>File</Chinesesimp>
+        <Chinesesimp>文件</Chinesesimp>
         <Chinese>File</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_COMP_SEARCH_CFG">
+	  <Key ID="STR_DBUG_SET_INTELLISYS_CACHE">
+        <Original>Enable IntelliSys Caching (Experimental)</Original>
+        <English>Enable IntelliSys Caching (Experimental)</English>
+        <Czech>Enable IntelliSys Caching (Experimental)</Czech>
+        <French>Enable IntelliSys Caching (Experimental)</French>
+        <German>Enable IntelliSys Caching (Experimental)</German>
+        <Italian>Enable IntelliSys Caching (Experimental)</Italian>
+        <Polish>Enable IntelliSys Caching (Experimental)</Polish>
+        <Portuguese>Enable IntelliSys Caching (Experimental)</Portuguese>
+        <Russian>Enable IntelliSys Caching (Experimental)</Russian>
+        <Spanish>Enable IntelliSys Caching (Experimental)</Spanish>
+        <Korean>Enable IntelliSys Caching (Experimental)</Korean>
+        <Japanese>Enable IntelliSys Caching (Experimental)</Japanese>
+        <Chinesesimp>启用IntelliSys缓存(实验性)</Chinesesimp>
+        <Chinese>Enable IntelliSys Caching (Experimental)</Chinese>
+      </Key>
+	  <Key ID="STR_DBUG_SET_BRAC_AUTOCOMP">
+        <Original>Auto-complete brackets</Original>
+        <English>Auto-complete brackets</English>
+        <Czech>Auto-complete brackets</Czech>
+        <French>Auto-complete brackets</French>
+        <German>Auto-complete brackets</German>
+        <Italian>Auto-complete brackets</Italian>
+        <Polish>Auto-complete brackets</Polish>
+        <Portuguese>Auto-complete brackets</Portuguese>
+        <Russian>Auto-complete brackets</Russian>
+        <Spanish>Auto-complete brackets</Spanish>
+        <Korean>Auto-complete brackets</Korean>
+        <Japanese>Auto-complete brackets</Japanese>
+        <Chinesesimp>自动补全括号</Chinesesimp>
+        <Chinese>Auto-complete brackets</Chinese>
+      </Key>
+	  <Key ID="STR_DBUG_SET_INTELLISYS_ON">
+        <Original>Enable IntelliSys Engine (Experimental)</Original>
+        <English>Enable IntelliSys Engine (Experimental)</English>
+        <Czech>Enable IntelliSys Engine (Experimental)</Czech>
+        <French>Enable IntelliSys Engine (Experimental)</French>
+        <German>Enable IntelliSys Engine (Experimental)</German>
+        <Italian>Enable IntelliSys Engine (Experimental)</Italian>
+        <Polish>Enable IntelliSys Engine (Experimental)</Polish>
+        <Portuguese>Enable IntelliSys Engine (Experimental)</Portuguese>
+        <Russian>Enable IntelliSys Engine (Experimental)</Russian>
+        <Spanish>Enable IntelliSys Engine (Experimental)</Spanish>
+        <Korean>Enable IntelliSys Engine (Experimental)</Korean>
+        <Japanese>Enable IntelliSys Engine (Experimental)</Japanese>
+        <Chinesesimp>启用IntelliSys引擎(实验性)</Chinesesimp>
+        <Chinese>Enable IntelliSys Engine (Experimental)</Chinese>
+      </Key>
+	  <Key ID="STR_DBUG_SET_COLOR_MBRACKETS">
+        <Original>Matched Brackets</Original>
+        <English>Matched Brackets</English>
+        <Czech>Matched Brackets</Czech>
+        <French>Matched Brackets</French>
+        <German>Matched Brackets</German>
+        <Italian>Matched Brackets</Italian>
+        <Polish>Matched Brackets</Polish>
+        <Portuguese>Matched Brackets</Portuguese>
+        <Russian>Matched Brackets</Russian>
+        <Spanish>Matched Brackets</Spanish>
+        <Korean>Matched Brackets</Korean>
+        <Japanese>Matched Brackets</Japanese>
+        <Chinesesimp>匹配的括号</Chinesesimp>
+        <Chinese>Matched Brackets</Chinese>
+      </Key>
+	  <Key ID="STR_DBUG_SET_COLOR_UMBRACKETS">
+        <Original>Unmatched Brackets</Original>
+        <English>Unmatched Brackets</English>
+        <Czech>Unmatched Brackets</Czech>
+        <French>Unmatched Brackets</French>
+        <German>Unmatched Brackets</German>
+        <Italian>Unmatched Brackets</Italian>
+        <Polish>Unmatched Brackets</Polish>
+        <Portuguese>Unmatched Brackets</Portuguese>
+        <Russian>Unmatched Brackets</Russian>
+        <Spanish>Unmatched Brackets</Spanish>
+        <Korean>Unmatched Brackets</Korean>
+        <Japanese>Unmatched Brackets</Japanese>
+        <Chinesesimp>不匹配的括号</Chinesesimp>
+        <Chinese>Unmatched Brackets</Chinese>
+      </Key>
+	  <Key ID="STR_DBUG_COLOR_LINENUMS">
+        <Original>Line Numbers</Original>
+        <English>Line Numbers</English>
+        <Czech>Line Numbers</Czech>
+        <French>Line Numbers</French>
+        <German>Line Numbers</German>
+        <Italian>Line Numbers</Italian>
+        <Polish>Line Numbers</Polish>
+        <Portuguese>Line Numbers</Portuguese>
+        <Russian>Line Numbers</Russian>
+        <Spanish>Line Numbers</Spanish>
+        <Korean>Line Numbers</Korean>
+        <Japanese>Line Numbers</Japanese>
+        <Chinesesimp>行数</Chinesesimp>
+        <Chinese>Line Numbers</Chinese>
+      </Key>
+	  <Key ID="STR_DBUG_SEARCH">
+        <Original>Search</Original>
+        <English>Search</English>
+        <Czech>Search</Czech>
+        <French>Search</French>
+        <German>Search</German>
+        <Italian>Search</Italian>
+        <Polish>Search</Polish>
+        <Portuguese>Search</Portuguese>
+        <Russian>Search</Russian>
+        <Spanish>Search</Spanish>
+        <Korean>Search</Korean>
+        <Japanese>Search</Japanese>
+        <Chinesesimp>搜索</Chinesesimp>
+        <Chinese>Search</Chinese>
+      </Key>
+	  <Key ID="STR_DBUG_CFG_CHILD_FIRST_HINT">
+        <Original>Search children (sub-classes) before siblings</Original>
+        <English>Search children (sub-classes) before siblings</English>
+        <Czech>Search children (sub-classes) before siblings</Czech>
+        <French>Search children (sub-classes) before siblings</French>
+        <German>Search children (sub-classes) before siblings</German>
+        <Italian>Search children (sub-classes) before siblings</Italian>
+        <Polish>Search children (sub-classes) before siblings</Polish>
+        <Portuguese>Search children (sub-classes) before siblings</Portuguese>
+        <Russian>Search children (sub-classes) before siblings</Russian>
+        <Spanish>Search children (sub-classes) before siblings</Spanish>
+        <Korean>Search children (sub-classes) before siblings</Korean>
+        <Japanese>Search children (sub-classes) before siblings</Japanese>
+        <Chinesesimp>先搜索子类(sub-classes)，再搜索同类</Chinesesimp>
+        <Chinese>Search children (sub-classes) before siblings</Chinese>
+      </Key>
+	  <Key ID="STR_DBUG_CFG_SIB_FIRST_HINT">
+        <Original>Search siblings (classes coming from the same parent) before children (sub-classes)</Original>
+        <English>Search siblings (classes coming from the same parent) before children (sub-classes)</English>
+        <Czech>Search siblings (classes coming from the same parent) before children (sub-classes)</Czech>
+        <French>Search siblings (classes coming from the same parent) before children (sub-classes)</French>
+        <German>Search siblings (classes coming from the same parent) before children (sub-classes)</German>
+        <Italian>Search siblings (classes coming from the same parent) before children (sub-classes)</Italian>
+        <Polish>Search siblings (classes coming from the same parent) before children (sub-classes)</Polish>
+        <Portuguese>Search siblings (classes coming from the same parent) before children (sub-classes)</Portuguese>
+        <Russian>Search siblings (classes coming from the same parent) before children (sub-classes)</Russian>
+        <Spanish>Search siblings (classes coming from the same parent) before children (sub-classes)</Spanish>
+        <Korean>Search siblings (classes coming from the same parent) before children (sub-classes)</Korean>
+        <Japanese>Search siblings (classes coming from the same parent) before children (sub-classes)</Japanese>
+        <Chinesesimp>在子类(sub-classes)之前搜索同类(classes来自同一个父类)</Chinesesimp>
+        <Chinese>Search siblings (classes coming from the same parent) before children (sub-classes)</Chinese>
+      </Key>
+	  <Key ID="STR_DBUG_CFG_CHILD_FIRST">
+        <Original>Children first</Original>
+        <English>Children first</English>
+        <Czech>Children first</Czech>
+        <French>Children first</French>
+        <German>Children first</German>
+        <Italian>Children first</Italian>
+        <Polish>Children first</Polish>
+        <Portuguese>Children first</Portuguese>
+        <Russian>Children first</Russian>
+        <Spanish>Children first</Spanish>
+        <Korean>Children first</Korean>
+        <Japanese>Children first</Japanese>
+        <Chinesesimp>优先子类</Chinesesimp>
+        <Chinese>Children first</Chinese>
+      </Key>
+	  <Key ID="STR_DBUG_CFG_SIB_FIRST">
+        <Original>Siblings first</Original>
+        <English>Siblings first</English>
+        <Czech>Siblings first</Czech>
+        <French>Siblings first</French>
+        <German>Siblings first</German>
+        <Italian>Siblings first</Italian>
+        <Polish>Siblings first</Polish>
+        <Portuguese>Siblings first</Portuguese>
+        <Russian>Siblings first</Russian>
+        <Spanish>Siblings first</Spanish>
+        <Korean>Siblings first</Korean>
+        <Japanese>Siblings first</Japanese>
+        <Chinesesimp>优先同类</Chinesesimp>
+        <Chinese>Siblings first</Chinese>
+      </Key>
+	  <Key ID="STR_DBUG_GEN_ADDON_LIST">
+        <Original>Show Addons</Original>
+        <English>Show Addons</English>
+        <Czech>Show Addons</Czech>
+        <French>Show Addons</French>
+        <German>Show Addons</German>
+        <Italian>Show Addons</Italian>
+        <Polish>Show Addons</Polish>
+        <Portuguese>Show Addons</Portuguese>
+        <Russian>Show Addons</Russian>
+        <Spanish>Show Addons</Spanish>
+        <Korean>Show Addons</Korean>
+        <Japanese>Show Addons</Japanese>
+        <Chinesesimp>显示Addons</Chinesesimp>
+        <Chinese>Show Addons</Chinese>
+      </Key>
+	  <Key ID="STR_DBUG_GEN_INHERIT">
+        <Original>Show Inheritance</Original>
+        <English>Show Inheritance</English>
+        <Czech>Show Inheritance</Czech>
+        <French>Show Inheritance</French>
+        <German>Show Inheritance</German>
+        <Italian>Show Inheritance</Italian>
+        <Polish>Show Inheritance</Polish>
+        <Portuguese>Show Inheritance</Portuguese>
+        <Russian>Show Inheritance</Russian>
+        <Spanish>Show Inheritance</Spanish>
+        <Korean>Show Inheritance</Korean>
+        <Japanese>Show Inheritance</Japanese>
+        <Chinesesimp>显示继承关系</Chinesesimp>
+        <Chinese>Show Inheritance</Chinese>
+      </Key>
+	  <Key ID="STR_DBUG_GEN_INHERIT_PROP">
+        <Original>Include Properties</Original>
+        <English>Include Properties</English>
+        <Czech>Include Properties</Czech>
+        <French>Include Properties</French>
+        <German>Include Properties</German>
+        <Italian>Include Properties</Italian>
+        <Polish>Include Properties</Polish>
+        <Portuguese>Include Properties</Portuguese>
+        <Russian>Include Properties</Russian>
+        <Spanish>Include Properties</Spanish>
+        <Korean>Include Properties</Korean>
+        <Japanese>Include Properties</Japanese>
+        <Chinesesimp>包括属性</Chinesesimp>
+        <Chinese>Include Properties</Chinese>
+      </Key>
+	  <Key ID="STR_DBUG_HIERARCHY_VIEWER">
+        <Original>Hierarchy Viewer</Original>
+        <English>Hierarchy Viewer</English>
+        <Czech>Hierarchy Viewer</Czech>
+        <French>Hierarchy Viewer</French>
+        <German>Hierarchy Viewer</German>
+        <Italian>Hierarchy Viewer</Italian>
+        <Polish>Hierarchy Viewer</Polish>
+        <Portuguese>Hierarchy Viewer</Portuguese>
+        <Russian>Hierarchy Viewer</Russian>
+        <Spanish>Hierarchy Viewer</Spanish>
+        <Korean>Hierarchy Viewer</Korean>
+        <Japanese>Hierarchy Viewer</Japanese>
+        <Chinesesimp>层次结构浏览器</Chinesesimp>
+        <Chinese>Hierarchy Viewer</Chinese>
+      </Key>
+	  <Key ID="STR_DBUG_SEARCH_CLASSES">
+        <Original>Search in Classes</Original>
+        <English>Search in Classes</English>
+        <Czech>Search in Classes</Czech>
+        <French>Search in Classes</French>
+        <German>Search in Classes</German>
+        <Italian>Search in Classes</Italian>
+        <Polish>Search in Classes</Polish>
+        <Portuguese>Search in Classes</Portuguese>
+        <Russian>Search in Classes</Russian>
+        <Spanish>Search in Classes</Spanish>
+        <Korean>Search in Classes</Korean>
+        <Japanese>Search in Classes</Japanese>
+        <Chinesesimp>在Classes中搜索</Chinesesimp>
+        <Chinese>Search in Classes</Chinese>
+      </Key>
+	  <Key ID="STR_DBUG_SET_REM_LAST_POS">
+        <Original>Remember last window position</Original>
+        <English>Remember last window position</English>
+        <Czech>Remember last window position</Czech>
+        <French>Remember last window position</French>
+        <German>Remember last window position</German>
+        <Italian>Remember last window position</Italian>
+        <Polish>Remember last window position</Polish>
+        <Portuguese>Remember last window position</Portuguese>
+        <Russian>Remember last window position</Russian>
+        <Spanish>Remember last window position</Spanish>
+        <Korean>Remember last window position</Korean>
+        <Japanese>Remember last window position</Japanese>
+        <Chinesesimp>记住最后的窗口位置</Chinesesimp>
+        <Chinese>Remember last window position</Chinese>
+      </Key>
+	  <Key ID="STR_DBUG_SET_USE_NAMESPACE">
+        <Original>Scan missionNamespace for functions</Original>
+        <English>Scan missionNamespace for functions</English>
+        <Czech>Scan missionNamespace for functions</Czech>
+        <French>Scan missionNamespace for functions</French>
+        <German>Scan missionNamespace for functions</German>
+        <Italian>Scan missionNamespace for functions</Italian>
+        <Polish>Scan missionNamespace for functions</Polish>
+        <Portuguese>Scan missionNamespace for functions</Portuguese>
+        <Russian>Scan missionNamespace for functions</Russian>
+        <Spanish>Scan missionNamespace for functions</Spanish>
+        <Korean>Scan missionNamespace for functions</Korean>
+        <Japanese>Scan missionNamespace for functions</Japanese>
+        <Chinesesimp>扫描 missionNamespace的functions</Chinesesimp>
+        <Chinese>Scan missionNamespace for functions</Chinese>
+      </Key>
+	  <Key ID="STR_DBUG_RENAME">
+        <Original>Rename</Original>
+        <English>Rename</English>
+        <Czech>Rename</Czech>
+        <French>Rename</French>
+        <German>Rename</German>
+        <Italian>Rename</Italian>
+        <Polish>Rename</Polish>
+        <Portuguese>Rename</Portuguese>
+        <Russian>Rename</Russian>
+        <Spanish>Rename</Spanish>
+        <Korean>Rename</Korean>
+        <Japanese>Rename</Japanese>
+        <Chinesesimp>重命名</Chinesesimp>
+        <Chinese>Rename</Chinese>
+      </Key>
+	  <Key ID="STR_DBUG_TAB2SPACE">
+        <Original>Tab -&gt; Space</Original>
+        <English>Tab -&gt; Space</English>
+        <Czech>Tab -&gt; Space</Czech>
+        <French>Tab -&gt; Space</French>
+        <German>Tab -&gt; Space</German>
+        <Italian>Tab -&gt; Space</Italian>
+        <Polish>Tab -&gt; Space</Polish>
+        <Portuguese>Tab -&gt; Space</Portuguese>
+        <Russian>Tab -&gt; Space</Russian>
+        <Spanish>Tab -&gt; Space</Spanish>
+        <Korean>Tab -&gt; Space</Korean>
+        <Japanese>Tab -&gt; Space</Japanese>
+        <Chinesesimp>Tab -&gt; Space</Chinesesimp>
+        <Chinese>Tab -&gt; Space</Chinese>
+      </Key>
+	  <Key ID="STR_DBUG_SPACE2TAB">
+        <Original>Space -&gt; Tab</Original>
+        <English>Space -&gt; Tab</English>
+        <Czech>Space -&gt; Tab</Czech>
+        <French>Space -&gt; Tab</French>
+        <German>Space -&gt; Tab</German>
+        <Italian>Space -&gt; Tab</Italian>
+        <Polish>Space -&gt; Tab</Polish>
+        <Portuguese>Space -&gt; Tab</Portuguese>
+        <Russian>Space -&gt; Tab</Russian>
+        <Spanish>Space -&gt; Tab</Spanish>
+        <Korean>Space -&gt; Tab</Korean>
+        <Japanese>Space -&gt; Tab</Japanese>
+        <Chinesesimp>Space -&gt; Tab</Chinesesimp>
+        <Chinese>Space -&gt; Tab</Chinese>
+      </Key>
+	  <Key ID="STR_DBUG_TAB2SPACES">
+        <Original>Tab &lt;=&gt; Space</Original>
+        <English>Tab &lt;=&gt; Space</English>
+        <Czech>Tab &lt;=&gt; Space</Czech>
+        <French>Tab &lt;=&gt; Space</French>
+        <German>Tab &lt;=&gt; Space</German>
+        <Italian>Tab &lt;=&gt; Space</Italian>
+        <Polish>Tab &lt;=&gt; Space</Polish>
+        <Portuguese>Tab &lt;=&gt; Space</Portuguese>
+        <Russian>Tab &lt;=&gt; Space</Russian>
+        <Spanish>Tab &lt;=&gt; Space</Spanish>
+        <Korean>Tab &lt;=&gt; Space</Korean>
+        <Japanese>Tab &lt;=&gt; Space</Japanese>
+        <Chinesesimp>Tab &lt;=&gt; Space</Chinesesimp>
+        <Chinese>Tab &lt;=&gt; Space</Chinese>
+      </Key>
+	  <Key ID="STR_DBUG_SET_ENTER_EXEC_HINT">
+        <Original>If unchecked, you can go to next line using Enter, and exec using F5</Original>
+        <English>If unchecked, you can go to next line using Enter, and exec using F5</English>
+        <Czech>If unchecked, you can go to next line using Enter, and exec using F5</Czech>
+        <French>If unchecked, you can go to next line using Enter, and exec using F5</French>
+        <German>If unchecked, you can go to next line using Enter, and exec using F5</German>
+        <Italian>If unchecked, you can go to next line using Enter, and exec using F5</Italian>
+        <Polish>If unchecked, you can go to next line using Enter, and exec using F5</Polish>
+        <Portuguese>If unchecked, you can go to next line using Enter, and exec using F5</Portuguese>
+        <Russian>If unchecked, you can go to next line using Enter, and exec using F5</Russian>
+        <Spanish>If unchecked, you can go to next line using Enter, and exec using F5</Spanish>
+        <Korean>If unchecked, you can go to next line using Enter, and exec using F5</Korean>
+        <Japanese>If unchecked, you can go to next line using Enter, and exec using F5</Japanese>
+        <Chinesesimp>如果未选中，可以使用回车键转到下一行，并使用F5执行</Chinesesimp>
+        <Chinese>If unchecked, you can go to next line using Enter, and exec using F5</Chinese>
+      </Key>
+	  <Key ID="STR_DBUG_SET_ENTER_EXEC">
+        <Original>Use Enter to execute</Original>
+        <English>Use Enter to execute</English>
+        <Czech>Use Enter to execute</Czech>
+        <French>Use Enter to execute</French>
+        <German>Use Enter to execute</German>
+        <Italian>Use Enter to execute</Italian>
+        <Polish>Use Enter to execute</Polish>
+        <Portuguese>Use Enter to execute</Portuguese>
+        <Russian>Use Enter to execute</Russian>
+        <Spanish>Use Enter to execute</Spanish>
+        <Korean>Use Enter to execute</Korean>
+        <Japanese>Use Enter to execute</Japanese>
+        <Chinesesimp>使用回车键执行</Chinesesimp>
+        <Chinese>Use Enter to execute</Chinese>
+      </Key>
+	  <Key ID="STR_DBUG_SET_WRAP_LINES">
+        <Original>Wrap lines</Original>
+        <English>Wrap lines</English>
+        <Czech>Wrap lines</Czech>
+        <French>Wrap lines</French>
+        <German>Wrap lines</German>
+        <Italian>Wrap lines</Italian>
+        <Polish>Wrap lines</Polish>
+        <Portuguese>Wrap lines</Portuguese>
+        <Russian>Wrap lines</Russian>
+        <Spanish>Wrap lines</Spanish>
+        <Korean>Wrap lines</Korean>
+        <Japanese>Wrap lines</Japanese>
+        <Chinesesimp>换行</Chinesesimp>
+        <Chinese>Wrap lines</Chinese>
+      </Key>
+      <Key ID="STR_DBUG_SET_COMP_SEARCH_CFG">
         <Original>Quick Search: Search all scanned configs</Original>
         <English>Quick Search: Search all scanned configs</English>
         <Czech>Quick Search: Search all scanned configs</Czech>
@@ -31,10 +431,10 @@
         <Spanish>Quick Search: Search all scanned configs</Spanish>
         <Korean>Quick Search: Search all scanned configs</Korean>
         <Japanese>Quick Search: Search all scanned configs</Japanese>
-        <Chinesesimp>Quick Search: Search all scanned configs</Chinesesimp>
+        <Chinesesimp>快速搜索: 搜索所有扫描的config</Chinesesimp>
         <Chinese>Quick Search: Search all scanned configs</Chinese>
       </Key>
-      <Key ID="STR_TBUG_EXPORT_NPP_STEP5">
+      <Key ID="STR_DBUG_EXPORT_NPP_STEP5">
         <Original>Replace the contents of the file with:</Original>
         <English>Replace the contents of the file with:</English>
         <Czech>Replace the contents of the file with:</Czech>
@@ -47,10 +447,10 @@
         <Spanish>Replace the contents of the file with:</Spanish>
         <Korean>Replace the contents of the file with:</Korean>
         <Japanese>Replace the contents of the file with:</Japanese>
-        <Chinesesimp>Replace the contents of the file with:</Chinesesimp>
+        <Chinesesimp>将文件内容替换为:</Chinesesimp>
         <Chinese>Replace the contents of the file with:</Chinese>
       </Key>
-      <Key ID="STR_TBUG_EXPORT_NPP_STEP4">
+      <Key ID="STR_DBUG_EXPORT_NPP_STEP4">
         <Original>Create a file named SQF.xml in '%npp_install_dir%\autoCompletion'.</Original>
         <English>Create a file named SQF.xml in '%npp_install_dir%\autoCompletion'.</English>
         <Czech>Create a file named SQF.xml in '%npp_install_dir%\autoCompletion'.</Czech>
@@ -63,10 +463,10 @@
         <Spanish>Create a file named SQF.xml in '%npp_install_dir%\autoCompletion'.</Spanish>
         <Korean>Create a file named SQF.xml in '%npp_install_dir%\autoCompletion'.</Korean>
         <Japanese>Create a file named SQF.xml in '%npp_install_dir%\autoCompletion'.</Japanese>
-        <Chinesesimp>Create a file named SQF.xml in '%npp_install_dir%\autoCompletion'.</Chinesesimp>
+        <Chinesesimp>在'%npp_install_dir%/autoCompletion'创建一个名为SQF.xml的文件。</Chinesesimp>
         <Chinese>Create a file named SQF.xml in '%npp_install_dir%\autoCompletion'.</Chinese>
       </Key>
-      <Key ID="STR_TBUG_EXPORT_NPP_STEP3">
+      <Key ID="STR_DBUG_EXPORT_NPP_STEP3">
         <Original>In userDefineLang.xml, replace everything in "KeywordLists" with:</Original>
         <English>In userDefineLang.xml, replace everything in "KeywordLists" with:</English>
         <Czech>In userDefineLang.xml, replace everything in "KeywordLists" with:</Czech>
@@ -79,10 +479,10 @@
         <Spanish>In userDefineLang.xml, replace everything in "KeywordLists" with:</Spanish>
         <Korean>In userDefineLang.xml, replace everything in "KeywordLists" with:</Korean>
         <Japanese>In userDefineLang.xml, replace everything in "KeywordLists" with:</Japanese>
-        <Chinesesimp>In userDefineLang.xml, replace everything in "KeywordLists" with:</Chinesesimp>
+        <Chinesesimp>在userDefineLang.xml中，将"KeywordLists(关键词列表)"中的所有内容替换为:</Chinesesimp>
         <Chinese>In userDefineLang.xml, replace everything in "KeywordLists" with:</Chinese>
       </Key>
-      <Key ID="STR_TBUG_EXPORT_NPP_STEP2">
+      <Key ID="STR_DBUG_EXPORT_NPP_STEP2">
         <Original>Execute this in Run:</Original>
         <English>Execute this in Run:</English>
         <Czech>Execute this in Run:</Czech>
@@ -95,10 +495,10 @@
         <Spanish>Execute this in Run:</Spanish>
         <Korean>Execute this in Run:</Korean>
         <Japanese>Execute this in Run:</Japanese>
-        <Chinesesimp>Execute this in Run:</Chinesesimp>
+        <Chinesesimp>在运行中执行此操作:</Chinesesimp>
         <Chinese>Execute this in Run:</Chinese>
       </Key>
-      <Key ID="STR_TBUG_EXPORT_NPP_STEP1">
+      <Key ID="STR_DBUG_EXPORT_NPP_STEP1">
         <Original>Create a new UDL named 'SQF' in Notepad++.</Original>
         <English>Create a new UDL named 'SQF' in Notepad++.</English>
         <Czech>Create a new UDL named 'SQF' in Notepad++.</Czech>
@@ -111,10 +511,10 @@
         <Spanish>Create a new UDL named 'SQF' in Notepad++.</Spanish>
         <Korean>Create a new UDL named 'SQF' in Notepad++.</Korean>
         <Japanese>Create a new UDL named 'SQF' in Notepad++.</Japanese>
-        <Chinesesimp>Create a new UDL named 'SQF' in Notepad++.</Chinesesimp>
+        <Chinesesimp>在Notepad++中创建一个名为'SQF'的新UDL。</Chinesesimp>
         <Chinese>Create a new UDL named 'SQF' in Notepad++.</Chinese>
       </Key>
-      <Key ID="STR_TBUG_DEBUG_CONSOLE">
+      <Key ID="STR_DBUG_DEBUG_CONSOLE">
         <Original>Debug Console</Original>
         <English>Debug Console</English>
         <Czech>Debug Console</Czech>
@@ -127,10 +527,10 @@
         <Spanish>Debug Console</Spanish>
         <Korean>Debug Console</Korean>
         <Japanese>Debug Console</Japanese>
-        <Chinesesimp>Debug Console</Chinesesimp>
+        <Chinesesimp>调试控制台</Chinesesimp>
         <Chinese>Debug Console</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_HEIGHT_SCALE">
+      <Key ID="STR_DBUG_SET_HEIGHT_SCALE">
         <Original>Watch height scale</Original>
         <English>Watch height scale</English>
         <Czech>Watch height scale</Czech>
@@ -143,10 +543,10 @@
         <Spanish>Watch height scale</Spanish>
         <Korean>Watch height scale</Korean>
         <Japanese>Watch height scale</Japanese>
-        <Chinesesimp>Watch height scale</Chinesesimp>
+        <Chinesesimp>手表高度刻度</Chinesesimp>
         <Chinese>Watch height scale</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_WIDTH_SCALE">
+      <Key ID="STR_DBUG_SET_WIDTH_SCALE">
         <Original>Watch width scale</Original>
         <English>Watch width scale</English>
         <Czech>Watch width scale</Czech>
@@ -159,10 +559,10 @@
         <Spanish>Watch width scale</Spanish>
         <Korean>Watch width scale</Korean>
         <Japanese>Watch width scale</Japanese>
-        <Chinesesimp>Watch width scale</Chinesesimp>
+        <Chinesesimp>手表宽度刻度</Chinesesimp>
         <Chinese>Watch width scale</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_REPLACE_FUNCV">
+      <Key ID="STR_DBUG_SET_REPLACE_FUNCV">
         <Original>Replace vanilla Function Viewer</Original>
         <English>Replace vanilla Function Viewer</English>
         <Czech>Replace vanilla Function Viewer</Czech>
@@ -175,10 +575,10 @@
         <Spanish>Replace vanilla Function Viewer</Spanish>
         <Korean>Replace vanilla Function Viewer</Korean>
         <Japanese>Replace vanilla Function Viewer</Japanese>
-        <Chinesesimp>Replace vanilla Function Viewer</Chinesesimp>
+        <Chinesesimp>替换原版Function查看器</Chinesesimp>
         <Chinese>Replace vanilla Function Viewer</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_REPLACE_CV_3DEN">
+      <Key ID="STR_DBUG_SET_REPLACE_CV_3DEN">
         <Original>Replace Config Viewer in 3DEN context menu</Original>
         <English>Replace Config Viewer in 3DEN context menu</English>
         <Czech>Replace Config Viewer in 3DEN context menu</Czech>
@@ -191,10 +591,10 @@
         <Spanish>Replace Config Viewer in 3DEN context menu</Spanish>
         <Korean>Replace Config Viewer in 3DEN context menu</Korean>
         <Japanese>Replace Config Viewer in 3DEN context menu</Japanese>
-        <Chinesesimp>Replace Config Viewer in 3DEN context menu</Chinesesimp>
+        <Chinesesimp>替换3DEN滚轮菜单中的Config浏览器</Chinesesimp>
         <Chinese>Replace Config Viewer in 3DEN context menu</Chinese>
       </Key>
-      <Key ID="STR_TBUG_RECOMPILE_SUBCLASS">
+      <Key ID="STR_DBUG_RECOMPILE_SUBCLASS">
         <Original>Recompile Sub-classes</Original>
         <English>Recompile Sub-classes</English>
         <Czech>Recompile Sub-classes</Czech>
@@ -207,10 +607,10 @@
         <Spanish>Recompile Sub-classes</Spanish>
         <Korean>Recompile Sub-classes</Korean>
         <Japanese>Recompile Sub-classes</Japanese>
-        <Chinesesimp>Recompile Sub-classes</Chinesesimp>
+        <Chinesesimp>重新编译Sub-classes(子类)</Chinesesimp>
         <Chinese>Recompile Sub-classes</Chinese>
       </Key>
-      <Key ID="STR_TBUG_FUNCTION_VIEWER">
+      <Key ID="STR_DBUG_FUNCTION_VIEWER">
         <Original>Function Viewer</Original>
         <English>Function Viewer</English>
         <Czech>Function Viewer</Czech>
@@ -223,10 +623,10 @@
         <Spanish>Function Viewer</Spanish>
         <Korean>Function Viewer</Korean>
         <Japanese>Function Viewer</Japanese>
-        <Chinesesimp>Function Viewer</Chinesesimp>
+        <Chinesesimp>Function浏览器</Chinesesimp>
         <Chinese>Function Viewer</Chinese>
       </Key>
-      <Key ID="STR_TBUG_FUNCTION_NAME">
+      <Key ID="STR_DBUG_FUNCTION_NAME">
         <Original>Function Name</Original>
         <English>Function Name</English>
         <Czech>Function Name</Czech>
@@ -239,10 +639,10 @@
         <Spanish>Function Name</Spanish>
         <Korean>Function Name</Korean>
         <Japanese>Function Name</Japanese>
-        <Chinesesimp>Function Name</Chinesesimp>
+        <Chinesesimp>Function名称</Chinesesimp>
         <Chinese>Function Name</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SEARCH_FNCS">
+      <Key ID="STR_DBUG_SEARCH_FNCS">
         <Original>Search in Functions</Original>
         <English>Search in Functions</English>
         <Czech>Search in Functions</Czech>
@@ -255,10 +655,10 @@
         <Spanish>Search in Functions</Spanish>
         <Korean>Search in Functions</Korean>
         <Japanese>Search in Functions</Japanese>
-        <Chinesesimp>Search in Functions</Chinesesimp>
+        <Chinesesimp>在Functions中搜索</Chinesesimp>
         <Chinese>Search in Functions</Chinese>
       </Key>
-      <Key ID="STR_TBUG_RECOMPILE">
+      <Key ID="STR_DBUG_RECOMPILE">
         <Original>Recompile</Original>
         <English>Recompile</English>
         <Czech>Recompile</Czech>
@@ -271,10 +671,10 @@
         <Spanish>Recompile</Spanish>
         <Korean>Recompile</Korean>
         <Japanese>Recompile</Japanese>
-        <Chinesesimp>Recompile</Chinesesimp>
+        <Chinesesimp>重新编译</Chinesesimp>
         <Chinese>Recompile</Chinese>
       </Key>
-      <Key ID="STR_TBUG_RECOMPILE_ALL">
+      <Key ID="STR_DBUG_RECOMPILE_ALL">
         <Original>Recompile All</Original>
         <English>Recompile All</English>
         <Czech>Recompile All</Czech>
@@ -287,10 +687,10 @@
         <Spanish>Recompile All</Spanish>
         <Korean>Recompile All</Korean>
         <Japanese>Recompile All</Japanese>
-        <Chinesesimp>Recompile All</Chinesesimp>
+        <Chinesesimp>全部重新编译</Chinesesimp>
         <Chinese>Recompile All</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_RESIZE_WINS_HINT">
+      <Key ID="STR_DBUG_SET_RESIZE_WINS_HINT">
         <Original>It's for debugging purposes. Don't use it.</Original>
         <English>It's for debugging purposes. Don't use it.</English>
         <Czech>It's for debugging purposes. Don't use it.</Czech>
@@ -303,10 +703,10 @@
         <Spanish>It's for debugging purposes. Don't use it.</Spanish>
         <Korean>It's for debugging purposes. Don't use it.</Korean>
         <Japanese>It's for debugging purposes. Don't use it.</Japanese>
-        <Chinesesimp>It's for debugging purposes. Don't use it.</Chinesesimp>
+        <Chinesesimp>这是调试用的，不要使用它！</Chinesesimp>
         <Chinese>It's for debugging purposes. Don't use it.</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_RESIZE_WINS">
+      <Key ID="STR_DBUG_SET_RESIZE_WINS">
         <Original>Make all windows resizable</Original>
         <English>Make all windows resizable</English>
         <Czech>Make all windows resizable</Czech>
@@ -319,10 +719,10 @@
         <Spanish>Make all windows resizable</Spanish>
         <Korean>Make all windows resizable</Korean>
         <Japanese>Make all windows resizable</Japanese>
-        <Chinesesimp>Make all windows resizable</Chinesesimp>
+        <Chinesesimp>调整所有窗口的大小</Chinesesimp>
         <Chinese>Make all windows resizable</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_PIXEL_PREC_HINT">
+      <Key ID="STR_DBUG_SET_PIXEL_PREC_HINT">
         <Original>Works similar to anti-aliasing (for text)</Original>
         <English>Works similar to anti-aliasing (for text)</English>
         <Czech>Works similar to anti-aliasing (for text)</Czech>
@@ -335,10 +735,10 @@
         <Spanish>Works similar to anti-aliasing (for text)</Spanish>
         <Korean>Works similar to anti-aliasing (for text)</Korean>
         <Japanese>Works similar to anti-aliasing (for text)</Japanese>
-        <Chinesesimp>Works similar to anti-aliasing (for text)</Chinesesimp>
+        <Chinesesimp>工作原理类似于抗锯齿（针对文本）。</Chinesesimp>
         <Chinese>Works similar to anti-aliasing (for text)</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_PIXEL_PREC">
+      <Key ID="STR_DBUG_SET_PIXEL_PREC">
         <Original>Pixel Precision</Original>
         <English>Pixel Precision</English>
         <Czech>Pixel Precision</Czech>
@@ -351,10 +751,10 @@
         <Spanish>Pixel Precision</Spanish>
         <Korean>Pixel Precision</Korean>
         <Japanese>Pixel Precision</Japanese>
-        <Chinesesimp>Pixel Precision</Chinesesimp>
+        <Chinesesimp>像素精度</Chinesesimp>
         <Chinese>Pixel Precision</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_DEL_KD_EHS_HINT">
+      <Key ID="STR_DBUG_SET_DEL_KD_EHS_HINT">
         <Original>Removes other MouseButtonDown event handlers created by other mods to minimize intervention.</Original>
         <English>Removes other MouseButtonDown event handlers created by other mods to minimize intervention.</English>
         <Czech>Removes other MouseButtonDown event handlers created by other mods to minimize intervention.</Czech>
@@ -367,10 +767,10 @@
         <Spanish>Removes other MouseButtonDown event handlers created by other mods to minimize intervention.</Spanish>
         <Korean>Removes other MouseButtonDown event handlers created by other mods to minimize intervention.</Korean>
         <Japanese>Removes other MouseButtonDown event handlers created by other mods to minimize intervention.</Japanese>
-        <Chinesesimp>Removes other MouseButtonDown event handlers created by other mods to minimize intervention.</Chinesesimp>
+        <Chinesesimp>删除其他Mod创建的MouseButtonDown事件处理程序，以减少干涉。</Chinesesimp>
         <Chinese>Removes other MouseButtonDown event handlers created by other mods to minimize intervention.</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_DEL_KD_EHS">
+      <Key ID="STR_DBUG_SET_DEL_KD_EHS">
         <Original>Remove all MouseButtonDown Event Handlers</Original>
         <English>Remove all MouseButtonDown Event Handlers</English>
         <Czech>Remove all MouseButtonDown Event Handlers</Czech>
@@ -383,10 +783,10 @@
         <Spanish>Remove all MouseButtonDown Event Handlers</Spanish>
         <Korean>Remove all MouseButtonDown Event Handlers</Korean>
         <Japanese>Remove all MouseButtonDown Event Handlers</Japanese>
-        <Chinesesimp>Remove all MouseButtonDown Event Handlers</Chinesesimp>
+        <Chinesesimp>删除所有 MouseButtonDown 事件处理程序</Chinesesimp>
         <Chinese>Remove all MouseButtonDown Event Handlers</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_MAGIC_WORD_HINT">
+      <Key ID="STR_DBUG_SET_MAGIC_WORD_HINT">
         <Original>Typing this word into most edit boxes will open the debug console</Original>
         <English>Typing this word into most edit boxes will open the debug console</English>
         <Czech>Typing this word into most edit boxes will open the debug console</Czech>
@@ -399,10 +799,10 @@
         <Spanish>Typing this word into most edit boxes will open the debug console</Spanish>
         <Korean>Typing this word into most edit boxes will open the debug console</Korean>
         <Japanese>Typing this word into most edit boxes will open the debug console</Japanese>
-        <Chinesesimp>Typing this word into most edit boxes will open the debug console</Chinesesimp>
+        <Chinesesimp>在大多数编辑框中输入这个单词/字将打开调试控制台</Chinesesimp>
         <Chinese>Typing this word into most edit boxes will open the debug console</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_MAGIC_WORD">
+      <Key ID="STR_DBUG_SET_MAGIC_WORD">
         <Original>Magic Word</Original>
         <English>Magic Word</English>
         <Czech>Magic Word</Czech>
@@ -411,14 +811,14 @@
         <Italian>Magic Word</Italian>
         <Polish>Magic Word</Polish>
         <Portuguese>Magic Word</Portuguese>
-        <Russian>Magic Word (opens Debug Console)</Russian>
+        <Russian>Magic Word</Russian>
         <Spanish>Magic Word</Spanish>
         <Korean>Magic Word</Korean>
         <Japanese>Magic Word</Japanese>
-        <Chinesesimp>Magic Word</Chinesesimp>
+        <Chinesesimp>快捷调试词/字</Chinesesimp>
         <Chinese>Magic Word</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_SHORTCUT">
+      <Key ID="STR_DBUG_SET_SHORTCUT">
         <Original>Console shortcut key</Original>
         <English>Console shortcut key</English>
         <Czech>Console shortcut key</Czech>
@@ -431,10 +831,10 @@
         <Spanish>Console shortcut key</Spanish>
         <Korean>Console shortcut key</Korean>
         <Japanese>Console shortcut key</Japanese>
-        <Chinesesimp>Console shortcut key</Chinesesimp>
+        <Chinesesimp>控制台快捷键</Chinesesimp>
         <Chinese>Console shortcut key</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_RESET_MOD">
+      <Key ID="STR_DBUG_SET_RESET_MOD">
         <Original>Reset mod settings</Original>
         <English>Reset mod settings</English>
         <Czech>Reset mod settings</Czech>
@@ -447,10 +847,10 @@
         <Spanish>Reset mod settings</Spanish>
         <Korean>Reset mod settings</Korean>
         <Japanese>Reset mod settings</Japanese>
-        <Chinesesimp>Reset mod settings</Chinesesimp>
+        <Chinesesimp>重置MOD设置</Chinesesimp>
         <Chinese>Reset mod settings</Chinese>
       </Key>
-      <Key ID="STR_TBUG_ADVANCED">
+      <Key ID="STR_DBUG_ADVANCED">
         <Original>Advanced</Original>
         <English>Advanced</English>
         <Czech>Advanced</Czech>
@@ -463,10 +863,10 @@
         <Spanish>Advanced</Spanish>
         <Korean>Advanced</Korean>
         <Japanese>Advanced</Japanese>
-        <Chinesesimp>Advanced</Chinesesimp>
+        <Chinesesimp>进阶</Chinesesimp>
         <Chinese>Advanced</Chinese>
       </Key>
-      <Key ID="STR_TBUG_CFG">
+      <Key ID="STR_DBUG_CFG">
         <Original>Config</Original>
         <English>Config</English>
         <Czech>Config</Czech>
@@ -479,10 +879,10 @@
         <Spanish>Config</Spanish>
         <Korean>Config</Korean>
         <Japanese>Config</Japanese>
-        <Chinesesimp>Config</Chinesesimp>
+        <Chinesesimp>Config(配置)</Chinesesimp>
         <Chinese>Config</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_COLOR_SYMB">
+      <Key ID="STR_DBUG_SET_COLOR_SYMB">
         <Original>Symbols/Operators</Original>
         <English>Symbols/Operators</English>
         <Czech>Symbols/Operators</Czech>
@@ -495,10 +895,10 @@
         <Spanish>Symbols/Operators</Spanish>
         <Korean>Symbols/Operators</Korean>
         <Japanese>Symbols/Operators</Japanese>
-        <Chinesesimp>Symbols/Operators</Chinesesimp>
+        <Chinesesimp>符号/运算符</Chinesesimp>
         <Chinese>Symbols/Operators</Chinese>
       </Key>
-      <Key ID="STR_TBUG_COMMENTS">
+      <Key ID="STR_DBUG_COMMENTS">
         <Original>Comments</Original>
         <English>Comments</English>
         <Czech>Comments</Czech>
@@ -511,10 +911,10 @@
         <Spanish>Comments</Spanish>
         <Korean>Comments</Korean>
         <Japanese>Comments</Japanese>
-        <Chinesesimp>Comments</Chinesesimp>
+        <Chinesesimp>评论</Chinesesimp>
         <Chinese>Comments</Chinese>
       </Key>
-      <Key ID="STR_TBUG_NUMBERS">
+      <Key ID="STR_DBUG_NUMBERS">
         <Original>Numbers</Original>
         <English>Numbers</English>
         <Czech>Numbers</Czech>
@@ -527,10 +927,10 @@
         <Spanish>Numbers</Spanish>
         <Korean>Numbers</Korean>
         <Japanese>Numbers</Japanese>
-        <Chinesesimp>Numbers</Chinesesimp>
+        <Chinesesimp>数字</Chinesesimp>
         <Chinese>Numbers</Chinese>
       </Key>
-      <Key ID="STR_TBUG_STRINGS">
+      <Key ID="STR_DBUG_STRINGS">
         <Original>Strings</Original>
         <English>Strings</English>
         <Czech>Strings</Czech>
@@ -543,10 +943,10 @@
         <Spanish>Strings</Spanish>
         <Korean>Strings</Korean>
         <Japanese>Strings</Japanese>
-        <Chinesesimp>Strings</Chinesesimp>
+        <Chinesesimp>Strings(字符串)</Chinesesimp>
         <Chinese>Strings</Chinese>
       </Key>
-      <Key ID="STR_TBUG_PREP_CMDS">
+      <Key ID="STR_DBUG_PREP_CMDS">
         <Original>Preprocessor Commands</Original>
         <English>Preprocessor Commands</English>
         <Czech>Preprocessor Commands</Czech>
@@ -559,10 +959,10 @@
         <Spanish>Preprocessor Commands</Spanish>
         <Korean>Preprocessor Commands</Korean>
         <Japanese>Preprocessor Commands</Japanese>
-        <Chinesesimp>Preprocessor Commands</Chinesesimp>
+        <Chinesesimp>预处理程序命令</Chinesesimp>
         <Chinese>Preprocessor Commands</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_COLOR_MAGIC">
+      <Key ID="STR_DBUG_SET_COLOR_MAGIC">
         <Original>Magic Variables/Enums</Original>
         <English>Magic Variables/Enums</English>
         <Czech>Magic Variables/Enums</Czech>
@@ -578,7 +978,7 @@
         <Chinesesimp>Magic Variables/Enums</Chinesesimp>
         <Chinese>Magic Variables/Enums</Chinese>
       </Key>
-      <Key ID="STR_TBUG_LVAR">
+      <Key ID="STR_DBUG_LVAR">
         <Original>Local Variables</Original>
         <English>Local Variables</English>
         <Czech>Local Variables</Czech>
@@ -591,10 +991,10 @@
         <Spanish>Local Variables</Spanish>
         <Korean>Local Variables</Korean>
         <Japanese>Local Variables</Japanese>
-        <Chinesesimp>Local Variables</Chinesesimp>
+        <Chinesesimp>本地变量</Chinesesimp>
         <Chinese>Local Variables</Chinese>
       </Key>
-      <Key ID="STR_TBUG_GVAR">
+      <Key ID="STR_DBUG_GVAR">
         <Original>Global Variables</Original>
         <English>Global Variables</English>
         <Czech>Global Variables</Czech>
@@ -607,10 +1007,10 @@
         <Spanish>Global Variables</Spanish>
         <Korean>Global Variables</Korean>
         <Japanese>Global Variables</Japanese>
-        <Chinesesimp>Global Variables</Chinesesimp>
+        <Chinesesimp>全局变量</Chinesesimp>
         <Chinese>Global Variables</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_COLOR_SPEC">
+      <Key ID="STR_DBUG_SET_COLOR_SPEC">
         <Original>Control flow / Special Commands</Original>
         <English>Control flow / Special Commands</English>
         <Czech>Control flow / Special Commands</Czech>
@@ -623,10 +1023,10 @@
         <Spanish>Control flow / Special Commands</Spanish>
         <Korean>Control flow / Special Commands</Korean>
         <Japanese>Control flow / Special Commands</Japanese>
-        <Chinesesimp>Control flow / Special Commands</Chinesesimp>
+        <Chinesesimp>控制流/特殊命令</Chinesesimp>
         <Chinese>Control flow / Special Commands</Chinese>
       </Key>
-      <Key ID="STR_TBUG_COMMANDS">
+      <Key ID="STR_DBUG_COMMANDS">
         <Original>Commands</Original>
         <English>Commands</English>
         <Czech>Commands</Czech>
@@ -639,10 +1039,10 @@
         <Spanish>Commands</Spanish>
         <Korean>Commands</Korean>
         <Japanese>Commands</Japanese>
-        <Chinesesimp>Commands</Chinesesimp>
+        <Chinesesimp>命令</Chinesesimp>
         <Chinese>Commands</Chinese>
       </Key>
-      <Key ID="STR_TBUG_EDITOR_BG">
+      <Key ID="STR_DBUG_EDITOR_BG">
         <Original>Editor Background</Original>
         <English>Editor Background</English>
         <Czech>Editor Background</Czech>
@@ -655,10 +1055,10 @@
         <Spanish>Editor Background</Spanish>
         <Korean>Editor Background</Korean>
         <Japanese>Editor Background</Japanese>
-        <Chinesesimp>Editor Background</Chinesesimp>
+        <Chinesesimp>编辑背景</Chinesesimp>
         <Chinese>Editor Background</Chinese>
       </Key>
-      <Key ID="STR_TBUG_THEME">
+      <Key ID="STR_DBUG_THEME">
         <Original>Theme</Original>
         <English>Theme</English>
         <Czech>Theme</Czech>
@@ -671,10 +1071,10 @@
         <Spanish>Theme</Spanish>
         <Korean>Theme</Korean>
         <Japanese>Theme</Japanese>
-        <Chinesesimp>Theme</Chinesesimp>
+        <Chinesesimp>主题</Chinesesimp>
         <Chinese>Theme</Chinese>
       </Key>
-      <Key ID="STR_TBUG_CTRL_BG">
+      <Key ID="STR_DBUG_CTRL_BG">
         <Original>Control Background</Original>
         <English>Control Background</English>
         <Czech>Control Background</Czech>
@@ -687,10 +1087,10 @@
         <Spanish>Control Background</Spanish>
         <Korean>Control Background</Korean>
         <Japanese>Control Background</Japanese>
-        <Chinesesimp>Control Background</Chinesesimp>
+        <Chinesesimp>控制背景</Chinesesimp>
         <Chinese>Control Background</Chinese>
       </Key>
-      <Key ID="STR_TBUG_WIN_BG">
+      <Key ID="STR_DBUG_WIN_BG">
         <Original>Window Background</Original>
         <English>Window Background</English>
         <Czech>Window Background</Czech>
@@ -703,10 +1103,10 @@
         <Spanish>Window Background</Spanish>
         <Korean>Window Background</Korean>
         <Japanese>Window Background</Japanese>
-        <Chinesesimp>Window Background</Chinesesimp>
+        <Chinesesimp>窗口背景</Chinesesimp>
         <Chinese>Window Background</Chinese>
       </Key>
-      <Key ID="STR_TBUG_WIN_BORDER">
+      <Key ID="STR_DBUG_WIN_BORDER">
         <Original>Window Border</Original>
         <English>Window Border</English>
         <Czech>Window Border</Czech>
@@ -719,10 +1119,10 @@
         <Spanish>Window Border</Spanish>
         <Korean>Window Border</Korean>
         <Japanese>Window Border</Japanese>
-        <Chinesesimp>Window Border</Chinesesimp>
+        <Chinesesimp>窗口边框</Chinesesimp>
         <Chinese>Window Border</Chinese>
       </Key>
-      <Key ID="STR_TBUG_GENERAL">
+      <Key ID="STR_DBUG_GENERAL">
         <Original>General</Original>
         <English>General</English>
         <Czech>General</Czech>
@@ -735,10 +1135,10 @@
         <Spanish>General</Spanish>
         <Korean>General</Korean>
         <Japanese>General</Japanese>
-        <Chinesesimp>General</Chinesesimp>
+        <Chinesesimp>一般</Chinesesimp>
         <Chinese>General</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_OBJ_CLEANUP_HINT">
+      <Key ID="STR_DBUG_SET_OBJ_CLEANUP_HINT">
         <Original>Not recommended if the number of points is expected to vary too fast</Original>
         <English>Not recommended if the number of points is expected to vary too fast</English>
         <Czech>Not recommended if the number of points is expected to vary too fast</Czech>
@@ -751,10 +1151,10 @@
         <Spanish>Not recommended if the number of points is expected to vary too fast</Spanish>
         <Korean>Not recommended if the number of points is expected to vary too fast</Korean>
         <Japanese>Not recommended if the number of points is expected to vary too fast</Japanese>
-        <Chinesesimp>Not recommended if the number of points is expected to vary too fast</Chinesesimp>
+        <Chinesesimp>如果分数预计变化太快，不推荐使用</Chinesesimp>
         <Chinese>Not recommended if the number of points is expected to vary too fast</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_OBJ_CLEANUP">
+      <Key ID="STR_DBUG_SET_OBJ_CLEANUP">
         <Original>Clean up unused objects (for object draw)</Original>
         <English>Clean up unused objects (for object draw)</English>
         <Czech>Clean up unused objects (for object draw)</Czech>
@@ -767,10 +1167,10 @@
         <Spanish>Clean up unused objects (for object draw)</Spanish>
         <Korean>Clean up unused objects (for object draw)</Korean>
         <Japanese>Clean up unused objects (for object draw)</Japanese>
-        <Chinesesimp>Clean up unused objects (for object draw)</Chinesesimp>
+        <Chinesesimp>清理未使用的对象(用于绘制对象)</Chinesesimp>
         <Chinese>Clean up unused objects (for object draw)</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_ICON_SCALE_HINT">
+      <Key ID="STR_DBUG_SET_ICON_SCALE_HINT">
         <Original>Value between 0.1 and 3</Original>
         <English>Value between 0.1 and 3</English>
         <Czech>Value between 0.1 and 3</Czech>
@@ -783,10 +1183,10 @@
         <Spanish>Value between 0.1 and 3</Spanish>
         <Korean>Value between 0.1 and 3</Korean>
         <Japanese>Value between 0.1 and 3</Japanese>
-        <Chinesesimp>Value between 0.1 and 3</Chinesesimp>
+        <Chinesesimp>值介于0.1和3之间</Chinesesimp>
         <Chinese>Value between 0.1 and 3</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_ICON_SCALE">
+      <Key ID="STR_DBUG_SET_ICON_SCALE">
         <Original>Icon scale factor</Original>
         <English>Icon scale factor</English>
         <Czech>Icon scale factor</Czech>
@@ -799,10 +1199,10 @@
         <Spanish>Icon scale factor</Spanish>
         <Korean>Icon scale factor</Korean>
         <Japanese>Icon scale factor</Japanese>
-        <Chinesesimp>Icon scale factor</Chinesesimp>
+        <Chinesesimp>图标比例系数</Chinesesimp>
         <Chinese>Icon scale factor</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_VAR_PREFIX">
+      <Key ID="STR_DBUG_SET_VAR_PREFIX">
         <Original>Variable name prefix for draw arrays</Original>
         <English>Variable name prefix for draw arrays</English>
         <Czech>Variable name prefix for draw arrays</Czech>
@@ -815,10 +1215,10 @@
         <Spanish>Variable name prefix for draw arrays</Spanish>
         <Korean>Variable name prefix for draw arrays</Korean>
         <Japanese>Variable name prefix for draw arrays</Japanese>
-        <Chinesesimp>Variable name prefix for draw arrays</Chinesesimp>
+        <Chinesesimp>绘制数组的变量名称前缀</Chinesesimp>
         <Chinese>Variable name prefix for draw arrays</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_DEF_OBJ">
+      <Key ID="STR_DBUG_SET_DEF_OBJ">
         <Original>Default object/model</Original>
         <English>Default object/model</English>
         <Czech>Default object/model</Czech>
@@ -831,10 +1231,10 @@
         <Spanish>Default object/model</Spanish>
         <Korean>Default object/model</Korean>
         <Japanese>Default object/model</Japanese>
-        <Chinesesimp>Default object/model</Chinesesimp>
+        <Chinesesimp>默认对象/模型</Chinesesimp>
         <Chinese>Default object/model</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_DEF_ICON">
+      <Key ID="STR_DBUG_SET_DEF_ICON">
         <Original>Default icon for drawIcon3D</Original>
         <English>Default icon for drawIcon3D</English>
         <Czech>Default icon for drawIcon3D</Czech>
@@ -847,10 +1247,10 @@
         <Spanish>Default icon for drawIcon3D</Spanish>
         <Korean>Default icon for drawIcon3D</Korean>
         <Japanese>Default icon for drawIcon3D</Japanese>
-        <Chinesesimp>Default icon for drawIcon3D</Chinesesimp>
+        <Chinesesimp>drawIcon3D的默认图标</Chinesesimp>
         <Chinese>Default icon for drawIcon3D</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_UNSCH_CNT_HINT">
+      <Key ID="STR_DBUG_SET_UNSCH_CNT_HINT">
         <Original>Higher numbers mean faster search, but can result in longer freezes. 1 = Disabled</Original>
         <English>Higher numbers mean faster search, but can result in longer freezes. 1 = Disabled</English>
         <Czech>Higher numbers mean faster search, but can result in longer freezes. 1 = Disabled</Czech>
@@ -863,10 +1263,10 @@
         <Spanish>Higher numbers mean faster search, but can result in longer freezes. 1 = Disabled</Spanish>
         <Korean>Higher numbers mean faster search, but can result in longer freezes. 1 = Disabled</Korean>
         <Japanese>Higher numbers mean faster search, but can result in longer freezes. 1 = Disabled</Japanese>
-        <Chinesesimp>Higher numbers mean faster search, but can result in longer freezes. 1 = Disabled</Chinesesimp>
+        <Chinesesimp>数字越大意味着搜索速度越快，但可能导致冻结时间越长。1 = 禁用</Chinesesimp>
         <Chinese>Higher numbers mean faster search, but can result in longer freezes. 1 = Disabled</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_UNSCH_CNT">
+      <Key ID="STR_DBUG_SET_UNSCH_CNT">
         <Original>Number of unscheduled searches</Original>
         <English>Number of unscheduled searches</English>
         <Czech>Number of unscheduled searches</Czech>
@@ -879,10 +1279,10 @@
         <Spanish>Number of unscheduled searches</Spanish>
         <Korean>Number of unscheduled searches</Korean>
         <Japanese>Number of unscheduled searches</Japanese>
-        <Chinesesimp>Number of unscheduled searches</Chinesesimp>
+        <Chinesesimp>未计划的搜索次数</Chinesesimp>
         <Chinese>Number of unscheduled searches</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_OPEN_LAST_CFG">
+      <Key ID="STR_DBUG_SET_OPEN_LAST_CFG">
         <Original>Open last config path when config viewer starts</Original>
         <English>Open last config path when config viewer starts</English>
         <Czech>Open last config path when config viewer starts</Czech>
@@ -895,10 +1295,10 @@
         <Spanish>Open last config path when config viewer starts</Spanish>
         <Korean>Open last config path when config viewer starts</Korean>
         <Japanese>Open last config path when config viewer starts</Japanese>
-        <Chinesesimp>Open last config path when config viewer starts</Chinesesimp>
+        <Chinesesimp>启动config浏览器时打开最后一个config路径</Chinesesimp>
         <Chinese>Open last config path when config viewer starts</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_HINT_AT_END_HINT">
+      <Key ID="STR_DBUG_SET_HINT_AT_END_HINT">
         <Original>If unchecked, hint will appear when the caret is anywhere on a word</Original>
         <English>If unchecked, hint will appear when the caret is anywhere on a word</English>
         <Czech>If unchecked, hint will appear when the caret is anywhere on a word</Czech>
@@ -911,10 +1311,10 @@
         <Spanish>If unchecked, hint will appear when the caret is anywhere on a word</Spanish>
         <Korean>If unchecked, hint will appear when the caret is anywhere on a word</Korean>
         <Japanese>If unchecked, hint will appear when the caret is anywhere on a word</Japanese>
-        <Chinesesimp>If unchecked, hint will appear when the caret is anywhere on a word</Chinesesimp>
+        <Chinesesimp>如果未选中，则当光标位于单词的任何位置时将出现提示</Chinesesimp>
         <Chinese>If unchecked, hint will appear when the caret is anywhere on a word</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_HINT_AT_END">
+      <Key ID="STR_DBUG_SET_HINT_AT_END">
         <Original>Show hint only if caret is at the end of a word</Original>
         <English>Show hint only if caret is at the end of a word</English>
         <Czech>Show hint only if caret is at the end of a word</Czech>
@@ -927,10 +1327,10 @@
         <Spanish>Show hint only if caret is at the end of a word</Spanish>
         <Korean>Show hint only if caret is at the end of a word</Korean>
         <Japanese>Show hint only if caret is at the end of a word</Japanese>
-        <Chinesesimp>Show hint only if caret is at the end of a word</Chinesesimp>
+        <Chinesesimp>只有在光标位于单词末尾时才显示提示</Chinesesimp>
         <Chinese>Show hint only if caret is at the end of a word</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_ALWAYS_DCON_HINT">
+      <Key ID="STR_DBUG_SET_ALWAYS_DCON_HINT">
         <Original>Show the Debug Console in all missions (even if disabled by the mission)</Original>
         <English>Show the Debug Console in all missions (even if disabled by the mission)</English>
         <Czech>Show the Debug Console in all missions (even if disabled by the mission)</Czech>
@@ -943,10 +1343,10 @@
         <Spanish>Show the Debug Console in all missions (even if disabled by the mission)</Spanish>
         <Korean>Show the Debug Console in all missions (even if disabled by the mission)</Korean>
         <Japanese>Show the Debug Console in all missions (even if disabled by the mission)</Japanese>
-        <Chinesesimp>Show the Debug Console in all missions (even if disabled by the mission)</Chinesesimp>
+        <Chinesesimp>在所有任务中显示调试控制台(即使任务禁用)</Chinesesimp>
         <Chinese>Show the Debug Console in all missions (even if disabled by the mission)</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_ALWAYS_DCON">
+      <Key ID="STR_DBUG_SET_ALWAYS_DCON">
         <Original>Always show the Debug Console</Original>
         <English>Always show the Debug Console</English>
         <Czech>Always show the Debug Console</Czech>
@@ -959,10 +1359,10 @@
         <Spanish>Always show the Debug Console</Spanish>
         <Korean>Always show the Debug Console</Korean>
         <Japanese>Always show the Debug Console</Japanese>
-        <Chinesesimp>Always show the Debug Console</Chinesesimp>
+        <Chinesesimp>始终显示调试控制台</Chinesesimp>
         <Chinese>Always show the Debug Console</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_REPL_DCON">
+      <Key ID="STR_DBUG_SET_REPL_DCON">
         <Original>Replace the vanilla Debug Console</Original>
         <English>Replace the vanilla Debug Console</English>
         <Czech>Replace the vanilla Debug Console</Czech>
@@ -975,10 +1375,10 @@
         <Spanish>Replace the vanilla Debug Console</Spanish>
         <Korean>Replace the vanilla Debug Console</Korean>
         <Japanese>Replace the vanilla Debug Console</Japanese>
-        <Chinesesimp>Replace the vanilla Debug Console</Chinesesimp>
+        <Chinesesimp>替换原版调试控制台</Chinesesimp>
         <Chinese>Replace the vanilla Debug Console</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_INIT_CMDS_HINT">
+      <Key ID="STR_DBUG_SET_INIT_CMDS_HINT">
         <Original>May increate load time by a couple of seconds</Original>
         <English>May increate load time by a couple of seconds</English>
         <Czech>May increate load time by a couple of seconds</Czech>
@@ -991,10 +1391,10 @@
         <Spanish>May increate load time by a couple of seconds</Spanish>
         <Korean>May increate load time by a couple of seconds</Korean>
         <Japanese>May increate load time by a couple of seconds</Japanese>
-        <Chinesesimp>May increate load time by a couple of seconds</Chinesesimp>
+        <Chinesesimp>可能会增加几秒钟的加载时间</Chinesesimp>
         <Chinese>May increate load time by a couple of seconds</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_INIT_CMDS">
+      <Key ID="STR_DBUG_SET_INIT_CMDS">
         <Original>Init commands at startup</Original>
         <English>Init commands at startup</English>
         <Czech>Init commands at startup</Czech>
@@ -1007,26 +1407,26 @@
         <Spanish>Init commands at startup</Spanish>
         <Korean>Init commands at startup</Korean>
         <Japanese>Init commands at startup</Japanese>
-        <Chinesesimp>Init commands at startup</Chinesesimp>
+        <Chinesesimp>启动时的 Init 命令</Chinesesimp>
         <Chinese>Init commands at startup</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_MAX_HISTORY_HINT">
-        <Original>Between 1 and 200. Larger values could clutter your profile namespace.</Original>
-        <English>Between 1 and 200. Larger values could clutter your profile namespace.</English>
-        <Czech>Between 1 and 200. Larger values could clutter your profile namespace.</Czech>
-        <French>Between 1 and 200. Larger values could clutter your profile namespace.</French>
-        <German>Zwischen 1 und 200. Größere Werte können deinen Profile Namespace aufblähen.</German>
-        <Italian>Between 1 and 200. Larger values could clutter your profile namespace.</Italian>
-        <Polish>Between 1 and 200. Larger values could clutter your profile namespace.</Polish>
-        <Portuguese>Between 1 and 200. Larger values could clutter your profile namespace.</Portuguese>
-        <Russian>Between 1 and 200. Larger values could clutter your profile namespace.</Russian>
-        <Spanish>Between 1 and 200. Larger values could clutter your profile namespace.</Spanish>
-        <Korean>Between 1 and 200. Larger values could clutter your profile namespace.</Korean>
-        <Japanese>Between 1 and 200. Larger values could clutter your profile namespace.</Japanese>
-        <Chinesesimp>Between 1 and 200. Larger values could clutter your profile namespace.</Chinesesimp>
-        <Chinese>Between 1 and 200. Larger values could clutter your profile namespace.</Chinese>
+      <Key ID="STR_DBUG_SET_MAX_HISTORY_HINT">
+        <Original>Between 1 and 1000. Larger values could clutter your profile namespace.</Original>
+        <English>Between 1 and 1000. Larger values could clutter your profile namespace.</English>
+        <Czech>Between 1 and 1000. Larger values could clutter your profile namespace.</Czech>
+        <French>Between 1 and 1000. Larger values could clutter your profile namespace.</French>
+        <German>Zwischen 1 und 1000. Größere Werte können deinen Profile Namespace aufblähen.</German>
+        <Italian>Between 1 and 1000. Larger values could clutter your profile namespace.</Italian>
+        <Polish>Between 1 and 1000. Larger values could clutter your profile namespace.</Polish>
+        <Portuguese>Between 1 and 1000. Larger values could clutter your profile namespace.</Portuguese>
+        <Russian>Between 1 and 1000. Larger values could clutter your profile namespace.</Russian>
+        <Spanish>Between 1 and 1000. Larger values could clutter your profile namespace.</Spanish>
+        <Korean>Between 1 and 1000. Larger values could clutter your profile namespace.</Korean>
+        <Japanese>Between 1 and 1000. Larger values could clutter your profile namespace.</Japanese>
+        <Chinesesimp>在1到1000之间。较大的值可能会使你的profile名称空间混乱。</Chinesesimp>
+        <Chinese>Between 1 and 1000. Larger values could clutter your profile namespace.</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_MAX_HISTORY">
+      <Key ID="STR_DBUG_SET_MAX_HISTORY">
         <Original>Maximum number of Exec History</Original>
         <English>Maximum number of Exec History</English>
         <Czech>Maximum number of Exec History</Czech>
@@ -1039,10 +1439,10 @@
         <Spanish>Maximum number of Exec History</Spanish>
         <Korean>Maximum number of Exec History</Korean>
         <Japanese>Maximum number of Exec History</Japanese>
-        <Chinesesimp>Maximum number of Exec History</Chinesesimp>
+        <Chinesesimp>最大的执行历史记录次数</Chinesesimp>
         <Chinese>Maximum number of Exec History</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_SPEC_COMMANDS_HINT">
+      <Key ID="STR_DBUG_SET_SPEC_COMMANDS_HINT">
         <Original>Must be separated by space or , (comma) or ; (semicolon)</Original>
         <English>Must be separated by space or , (comma) or ; (semicolon)</English>
         <Czech>Must be separated by space or , (comma) or ; (semicolon)</Czech>
@@ -1055,10 +1455,10 @@
         <Spanish>Must be separated by space or , (comma) or ; (semicolon)</Spanish>
         <Korean>Must be separated by space or , (comma) or ; (semicolon)</Korean>
         <Japanese>Must be separated by space or , (comma) or ; (semicolon)</Japanese>
-        <Chinesesimp>Must be separated by space or , (comma) or ; (semicolon)</Chinesesimp>
+        <Chinesesimp>必须用空格或,（逗号）或;（分号）分隔</Chinesesimp>
         <Chinese>Must be separated by space or , (comma) or ; (semicolon)</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_SPEC_COMMANDS">
+      <Key ID="STR_DBUG_SET_SPEC_COMMANDS">
         <Original>Commands to use Special Color</Original>
         <English>Commands to use Special Color</English>
         <Czech>Commands to use Special Color</Czech>
@@ -1071,10 +1471,10 @@
         <Spanish>Commands to use Special Color</Spanish>
         <Korean>Commands to use Special Color</Korean>
         <Japanese>Commands to use Special Color</Japanese>
-        <Chinesesimp>Commands to use Special Color</Chinesesimp>
+        <Chinesesimp>命令使用特殊颜色</Chinesesimp>
         <Chinese>Commands to use Special Color</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_FUNC_AUTOCOMPLETE">
+      <Key ID="STR_DBUG_SET_FUNC_AUTOCOMPLETE">
         <Original>Function Auto-completion</Original>
         <English>Function Auto-completion</English>
         <Czech>Function Auto-completion</Czech>
@@ -1087,10 +1487,10 @@
         <Spanish>Function Auto-completion</Spanish>
         <Korean>Function Auto-completion</Korean>
         <Japanese>Function Auto-completion</Japanese>
-        <Chinesesimp>Function Auto-completion</Chinesesimp>
+        <Chinesesimp>Function自动补全</Chinesesimp>
         <Chinese>Function Auto-completion</Chinese>
       </Key>
-      <Key ID="STR_TBUG_RESET">
+      <Key ID="STR_DBUG_RESET">
         <Original>Reset</Original>
         <English>Reset</English>
         <Czech>Reset</Czech>
@@ -1103,10 +1503,10 @@
         <Spanish>Reset</Spanish>
         <Korean>Reset</Korean>
         <Japanese>Reset</Japanese>
-        <Chinesesimp>Reset</Chinesesimp>
+        <Chinesesimp>重置</Chinesesimp>
         <Chinese>Reset</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SET_RESET_FORMATTING">
+      <Key ID="STR_DBUG_SET_RESET_FORMATTING">
         <Original>Reset command formatting</Original>
         <English>Reset command formatting</English>
         <Czech>Reset command formatting</Czech>
@@ -1119,10 +1519,10 @@
         <Spanish>Reset command formatting</Spanish>
         <Korean>Reset command formatting</Korean>
         <Japanese>Reset command formatting</Japanese>
-        <Chinesesimp>Reset command formatting</Chinesesimp>
+        <Chinesesimp>重置命令格式</Chinesesimp>
         <Chinese>Reset command formatting</Chinese>
       </Key>
-      <Key ID="STR_TBUG_NUM_CYCLES">
+      <Key ID="STR_DBUG_NUM_CYCLES">
         <Original>Number of Cycles</Original>
         <English>Number of Cycles</English>
         <Czech>Number of Cycles</Czech>
@@ -1135,10 +1535,10 @@
         <Spanish>Number of Cycles</Spanish>
         <Korean>Number of Cycles</Korean>
         <Japanese>Number of Cycles</Japanese>
-        <Chinesesimp>Number of Cycles</Chinesesimp>
+        <Chinesesimp>循环次数</Chinesesimp>
         <Chinese>Number of Cycles</Chinese>
       </Key>
-      <Key ID="STR_TBUG_CODE_PERF">
+      <Key ID="STR_DBUG_CODE_PERF">
         <Original>Code Performance</Original>
         <English>Code Performance</English>
         <Czech>Code Performance</Czech>
@@ -1151,10 +1551,10 @@
         <Spanish>Code Performance</Spanish>
         <Korean>Code Performance</Korean>
         <Japanese>Code Performance</Japanese>
-        <Chinesesimp>Code Performance</Chinesesimp>
+        <Chinesesimp>代码性能</Chinesesimp>
         <Chinese>Code Performance</Chinese>
       </Key>
-      <Key ID="STR_TBUG_CUSTOM_RE_HINT">
+      <Key ID="STR_DBUG_CUSTOM_RE_HINT">
         <Original>Custom RemoteExec (RClick to set target)</Original>
         <English>Custom RemoteExec (RClick to set target)</English>
         <Czech>Custom RemoteExec (RClick to set target)</Czech>
@@ -1167,10 +1567,10 @@
         <Spanish>Custom RemoteExec (RClick to set target)</Spanish>
         <Korean>Custom RemoteExec (RClick to set target)</Korean>
         <Japanese>Custom RemoteExec (RClick to set target)</Japanese>
-        <Chinesesimp>Custom RemoteExec (RClick to set target)</Chinesesimp>
+        <Chinesesimp>自定义RemoteExec（通过点击来设置目标）。</Chinesesimp>
         <Chinese>Custom RemoteExec (RClick to set target)</Chinese>
       </Key>
-      <Key ID="STR_TBUG_ARGS">
+      <Key ID="STR_DBUG_ARGS">
         <Original>Arguments</Original>
         <English>Arguments</English>
         <Czech>Arguments</Czech>
@@ -1183,10 +1583,10 @@
         <Spanish>Arguments</Spanish>
         <Korean>Arguments</Korean>
         <Japanese>Arguments</Japanese>
-        <Chinesesimp>Arguments</Chinesesimp>
+        <Chinesesimp>论点</Chinesesimp>
         <Chinese>Arguments</Chinese>
       </Key>
-      <Key ID="STR_TBUG_EXTENDED">
+      <Key ID="STR_DBUG_EXTENDED">
         <Original>Extended</Original>
         <English>Extended</English>
         <Czech>Extended</Czech>
@@ -1199,10 +1599,10 @@
         <Spanish>Extended</Spanish>
         <Korean>Extended</Korean>
         <Japanese>Extended</Japanese>
-        <Chinesesimp>Extended</Chinesesimp>
+        <Chinesesimp>扩展</Chinesesimp>
         <Chinese>Extended</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SEARCH_REGEX_HINT">
+      <Key ID="STR_DBUG_SEARCH_REGEX_HINT">
         <Original>Regular Expression</Original>
         <English>Regular Expression</English>
         <Czech>Regular Expression</Czech>
@@ -1218,23 +1618,23 @@
         <Chinesesimp>Regular Expression</Chinesesimp>
         <Chinese>Regular Expression</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SEARCH_EXT_HINT">
-        <Original>Supports \r \ n \t</Original>
-        <English>Supports \r \ n \t</English>
-        <Czech>Supports \r \ n \t</Czech>
-        <French>Supports \r \ n \t</French>
-        <German>Unterstützt \r \ n \t</German>
-        <Italian>Supports \r \ n \t</Italian>
-        <Polish>Supports \r \ n \t</Polish>
-        <Portuguese>Supports \r \ n \t</Portuguese>
-        <Russian>Supports \r \ n \t</Russian>
-        <Spanish>Supports \r \ n \t</Spanish>
-        <Korean>Supports \r \ n \t</Korean>
-        <Japanese>Supports \r \ n \t</Japanese>
-        <Chinesesimp>Supports \r \ n \t</Chinesesimp>
-        <Chinese>Supports \r \ n \t</Chinese>
+      <Key ID="STR_DBUG_SEARCH_EXT_HINT">
+        <Original>Supports &#92;r &#92; n &#92;t</Original>
+        <English>Supports &#92;r &#92; n &#92;t</English>
+        <Czech>Supports &#92;r &#92; n &#92;t</Czech>
+        <French>Supports &#92;r &#92; n &#92;t</French>
+        <German>Unterstützt &#92;r &#92; n &#92;t</German>
+        <Italian>Supports &#92;r &#92; n &#92;t</Italian>
+        <Polish>Supports &#92;r &#92; n &#92;t</Polish>
+        <Portuguese>Supports &#92;r &#92; n &#92;t</Portuguese>
+        <Russian>Supports &#92;r &#92; n &#92;t</Russian>
+        <Spanish>Supports &#92;r &#92; n &#92;t</Spanish>
+        <Korean>Supports &#92;r &#92; n &#92;t</Korean>
+        <Japanese>Supports &#92;r &#92; n &#92;t</Japanese>
+        <Chinesesimp>Supports &#92;r &#92; n &#92;t</Chinesesimp>
+        <Chinese>Supports &#92;r &#92; n &#92;t</Chinese>
       </Key>
-      <Key ID="STR_TBUG_NORMAL">
+      <Key ID="STR_DBUG_NORMAL">
         <Original>Normal</Original>
         <English>Normal</English>
         <Czech>Normal</Czech>
@@ -1247,10 +1647,10 @@
         <Spanish>Normal</Spanish>
         <Korean>Normal</Korean>
         <Japanese>Normal</Japanese>
-        <Chinesesimp>Normal</Chinesesimp>
+        <Chinesesimp>常规</Chinesesimp>
         <Chinese>Normal</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SEARCH_NORMAL_HINT">
+      <Key ID="STR_DBUG_SEARCH_NORMAL_HINT">
         <Original>All characters are treated as they are</Original>
         <English>All characters are treated as they are</English>
         <Czech>All characters are treated as they are</Czech>
@@ -1263,10 +1663,10 @@
         <Spanish>All characters are treated as they are</Spanish>
         <Korean>All characters are treated as they are</Korean>
         <Japanese>All characters are treated as they are</Japanese>
-        <Chinesesimp>All characters are treated as they are</Chinesesimp>
+        <Chinesesimp>所有人物都被视为</Chinesesimp>
         <Chinese>All characters are treated as they are</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SEARCH_MODE">
+      <Key ID="STR_DBUG_SEARCH_MODE">
         <Original>Search Mode</Original>
         <English>Search Mode</English>
         <Czech>Search Mode</Czech>
@@ -1279,10 +1679,10 @@
         <Spanish>Search Mode</Spanish>
         <Korean>Search Mode</Korean>
         <Japanese>Search Mode</Japanese>
-        <Chinesesimp>Search Mode</Chinesesimp>
+        <Chinesesimp>检索模式</Chinesesimp>
         <Chinese>Search Mode</Chinese>
       </Key>
-      <Key ID="STR_TBUG_WRAP_AROUND">
+      <Key ID="STR_DBUG_WRAP_AROUND">
         <Original>Wrap around</Original>
         <English>Wrap around</English>
         <Czech>Wrap around</Czech>
@@ -1295,10 +1695,10 @@
         <Spanish>Wrap around</Spanish>
         <Korean>Wrap around</Korean>
         <Japanese>Wrap around</Japanese>
-        <Chinesesimp>Wrap around</Chinesesimp>
+        <Chinesesimp>绕行</Chinesesimp>
         <Chinese>Wrap around</Chinese>
       </Key>
-      <Key ID="STR_TBUG_MATCH_CASE">
+      <Key ID="STR_DBUG_MATCH_CASE">
         <Original>Match case</Original>
         <English>Match case</English>
         <Czech>Match case</Czech>
@@ -1311,10 +1711,10 @@
         <Spanish>Match case</Spanish>
         <Korean>Match case</Korean>
         <Japanese>Match case</Japanese>
-        <Chinesesimp>Match case</Chinesesimp>
+        <Chinesesimp>匹配案例</Chinesesimp>
         <Chinese>Match case</Chinese>
       </Key>
-      <Key ID="STR_TBUG_MATCH_WORD">
+      <Key ID="STR_DBUG_MATCH_WORD">
         <Original>Match whole word only</Original>
         <English>Match whole word only</English>
         <Czech>Match whole word only</Czech>
@@ -1327,10 +1727,10 @@
         <Spanish>Match whole word only</Spanish>
         <Korean>Match whole word only</Korean>
         <Japanese>Match whole word only</Japanese>
-        <Chinesesimp>Match whole word only</Chinesesimp>
+        <Chinesesimp>只匹配整个单词</Chinesesimp>
         <Chinese>Match whole word only</Chinese>
       </Key>
-      <Key ID="STR_TBUG_IN_SEL">
+      <Key ID="STR_DBUG_IN_SEL">
         <Original>In selection</Original>
         <English>In selection</English>
         <Czech>In selection</Czech>
@@ -1343,10 +1743,10 @@
         <Spanish>In selection</Spanish>
         <Korean>In selection</Korean>
         <Japanese>In selection</Japanese>
-        <Chinesesimp>In selection</Chinesesimp>
+        <Chinesesimp>部分选择</Chinesesimp>
         <Chinese>In selection</Chinese>
       </Key>
-      <Key ID="STR_TBUG_COUNT">
+      <Key ID="STR_DBUG_COUNT">
         <Original>Count</Original>
         <English>Count</English>
         <Czech>Count</Czech>
@@ -1359,10 +1759,10 @@
         <Spanish>Count</Spanish>
         <Korean>Count</Korean>
         <Japanese>Count</Japanese>
-        <Chinesesimp>Count</Chinesesimp>
+        <Chinesesimp>数量</Chinesesimp>
         <Chinese>Count</Chinese>
       </Key>
-      <Key ID="STR_TBUG_REPLACE_ALL">
+      <Key ID="STR_DBUG_REPLACE_ALL">
         <Original>Replace All</Original>
         <English>Replace All</English>
         <Czech>Replace All</Czech>
@@ -1375,10 +1775,10 @@
         <Spanish>Replace All</Spanish>
         <Korean>Replace All</Korean>
         <Japanese>Replace All</Japanese>
-        <Chinesesimp>Replace All</Chinesesimp>
+        <Chinesesimp>替换全部</Chinesesimp>
         <Chinese>Replace All</Chinese>
       </Key>
-      <Key ID="STR_TBUG_REPLACE">
+      <Key ID="STR_DBUG_REPLACE">
         <Original>Replace</Original>
         <English>Replace</English>
         <Czech>Replace</Czech>
@@ -1391,10 +1791,10 @@
         <Spanish>Replace</Spanish>
         <Korean>Replace</Korean>
         <Japanese>Replace</Japanese>
-        <Chinesesimp>Replace</Chinesesimp>
+        <Chinesesimp>替换</Chinesesimp>
         <Chinese>Replace</Chinese>
       </Key>
-      <Key ID="STR_TBUG_REPLACE_WITH_C">
+      <Key ID="STR_DBUG_REPLACE_WITH_C">
         <Original>Replace with :</Original>
         <English>Replace with :</English>
         <Czech>Replace with :</Czech>
@@ -1407,10 +1807,10 @@
         <Spanish>Replace with :</Spanish>
         <Korean>Replace with :</Korean>
         <Japanese>Replace with :</Japanese>
-        <Chinesesimp>Replace with :</Chinesesimp>
+        <Chinesesimp>替换为 :</Chinesesimp>
         <Chinese>Replace with :</Chinese>
       </Key>
-      <Key ID="STR_TBUG_FIND_WHAT_C">
+      <Key ID="STR_DBUG_FIND_WHAT_C">
         <Original>Find what :</Original>
         <English>Find what :</English>
         <Czech>Find what :</Czech>
@@ -1423,10 +1823,10 @@
         <Spanish>Find what :</Spanish>
         <Korean>Find what :</Korean>
         <Japanese>Find what :</Japanese>
-        <Chinesesimp>Find what :</Chinesesimp>
+        <Chinesesimp>寻找什么 :</Chinesesimp>
         <Chinese>Find what :</Chinese>
       </Key>
-      <Key ID="STR_TBUG_COPY_ALL">
+      <Key ID="STR_DBUG_COPY_ALL">
         <Original>Copy All</Original>
         <English>Copy All</English>
         <Czech>Copy All</Czech>
@@ -1439,10 +1839,10 @@
         <Spanish>Copy All</Spanish>
         <Korean>Copy All</Korean>
         <Japanese>Copy All</Japanese>
-        <Chinesesimp>Copy All</Chinesesimp>
+        <Chinesesimp>复制全部</Chinesesimp>
         <Chinese>Copy All</Chinese>
       </Key>
-      <Key ID="STR_TBUG_CFG_GOTO">
+      <Key ID="STR_DBUG_CFG_GOTO">
         <Original>Go To</Original>
         <English>Go To</English>
         <Czech>Go To</Czech>
@@ -1455,10 +1855,10 @@
         <Spanish>Go To</Spanish>
         <Korean>Go To</Korean>
         <Japanese>Go To</Japanese>
-        <Chinesesimp>Go To</Chinesesimp>
+        <Chinesesimp>转至</Chinesesimp>
         <Chinese>Go To</Chinese>
       </Key>
-      <Key ID="STR_TBUG_DRAW">
+      <Key ID="STR_DBUG_DRAW">
         <Original>Draw</Original>
         <English>Draw</English>
         <Czech>Draw</Czech>
@@ -1471,10 +1871,10 @@
         <Spanish>Draw</Spanish>
         <Korean>Draw</Korean>
         <Japanese>Draw</Japanese>
-        <Chinesesimp>Draw</Chinesesimp>
+        <Chinesesimp>绘制</Chinesesimp>
         <Chinese>Draw</Chinese>
       </Key>
-      <Key ID="STR_TBUG_WATCH">
+      <Key ID="STR_DBUG_WATCH">
         <Original>Watch</Original>
         <English>Watch</English>
         <Czech>Watch</Czech>
@@ -1487,10 +1887,10 @@
         <Spanish>Watch</Spanish>
         <Korean>Watch</Korean>
         <Japanese>Watch</Japanese>
-        <Chinesesimp>Watch</Chinesesimp>
+        <Chinesesimp>观看</Chinesesimp>
         <Chinese>Watch</Chinese>
       </Key>
-      <Key ID="STR_TBUG_ADD_NEW">
+      <Key ID="STR_DBUG_ADD_NEW">
         <Original>Create New</Original>
         <English>Create New</English>
         <Czech>Create New</Czech>
@@ -1503,10 +1903,10 @@
         <Spanish>Create New</Spanish>
         <Korean>Create New</Korean>
         <Japanese>Create New</Japanese>
-        <Chinesesimp>Create New</Chinesesimp>
+        <Chinesesimp>创建新的</Chinesesimp>
         <Chinese>Create New</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SWITCH_MODE">
+      <Key ID="STR_DBUG_SWITCH_MODE">
         <Original>Switch Mode</Original>
         <English>Switch Mode</English>
         <Czech>Switch Mode</Czech>
@@ -1519,10 +1919,10 @@
         <Spanish>Switch Mode</Spanish>
         <Korean>Switch Mode</Korean>
         <Japanese>Switch Mode</Japanese>
-        <Chinesesimp>Switch Mode</Chinesesimp>
+        <Chinesesimp>切换模式</Chinesesimp>
         <Chinese>Switch Mode</Chinese>
       </Key>
-      <Key ID="STR_TBUG_PARAMS">
+      <Key ID="STR_DBUG_PARAMS">
         <Original>Parameters</Original>
         <English>Parameters</English>
         <Czech>Parameters</Czech>
@@ -1535,10 +1935,10 @@
         <Spanish>Parameters</Spanish>
         <Korean>Parameters</Korean>
         <Japanese>Parameters</Japanese>
-        <Chinesesimp>Parameters</Chinesesimp>
+        <Chinesesimp>参数</Chinesesimp>
         <Chinese>Parameters</Chinese>
       </Key>
-      <Key ID="STR_TBUG_VAR_NAME">
+      <Key ID="STR_DBUG_VAR_NAME">
         <Original>Variable Name</Original>
         <English>Variable Name</English>
         <Czech>Variable Name</Czech>
@@ -1551,10 +1951,10 @@
         <Spanish>Variable Name</Spanish>
         <Korean>Variable Name</Korean>
         <Japanese>Variable Name</Japanese>
-        <Chinesesimp>Variable Name</Chinesesimp>
+        <Chinesesimp>变量名</Chinesesimp>
         <Chinese>Variable Name</Chinese>
       </Key>
-      <Key ID="STR_TBUG_RESULT">
+      <Key ID="STR_DBUG_RESULT">
         <Original>Result</Original>
         <English>Result</English>
         <Czech>Result</Czech>
@@ -1567,10 +1967,10 @@
         <Spanish>Result</Spanish>
         <Korean>Result</Korean>
         <Japanese>Result</Japanese>
-        <Chinesesimp>Result</Chinesesimp>
+        <Chinesesimp>结果</Chinesesimp>
         <Chinese>Result</Chinese>
       </Key>
-      <Key ID="STR_TBUG_EXPRESSION">
+      <Key ID="STR_DBUG_EXPRESSION">
         <Original>Expression</Original>
         <English>Expression</English>
         <Czech>Expression</Czech>
@@ -1586,7 +1986,7 @@
         <Chinesesimp>Expression</Chinesesimp>
         <Chinese>Expression</Chinese>
       </Key>
-      <Key ID="STR_TBUG_ICON">
+      <Key ID="STR_DBUG_ICON">
         <Original>Icon</Original>
         <English>Icon</English>
         <Czech>Icon</Czech>
@@ -1599,42 +1999,42 @@
         <Spanish>Icon</Spanish>
         <Korean>Icon</Korean>
         <Japanese>Icon</Japanese>
-        <Chinesesimp>Icon</Chinesesimp>
+        <Chinesesimp>图标</Chinesesimp>
         <Chinese>Icon</Chinese>
       </Key>
-      <Key ID="STR_TBUG_MODEL_HINT">
-        <Original>Model ( [resizeFactor*] ConfigName | ShortName )</Original>
-        <English>Model ( [resizeFactor*] ConfigName | ShortName )</English>
-        <Czech>Model ( [resizeFactor*] ConfigName | ShortName )</Czech>
-        <French>Model ( [resizeFactor*] ConfigName | ShortName )</French>
-        <German>Model ( [resizeFactor*] ConfigName | ShortName )</German>
-        <Italian>Model ( [resizeFactor*] ConfigName | ShortName )</Italian>
-        <Polish>Model ( [resizeFactor*] ConfigName | ShortName )</Polish>
-        <Portuguese>Model ( [resizeFactor*] ConfigName | ShortName )</Portuguese>
-        <Russian>Model ( [resizeFactor*] ConfigName | ShortName )</Russian>
-        <Spanish>Model ( [resizeFactor*] ConfigName | ShortName )</Spanish>
-        <Korean>Model ( [resizeFactor*] ConfigName | ShortName )</Korean>
-        <Japanese>Model ( [resizeFactor*] ConfigName | ShortName )</Japanese>
-        <Chinesesimp>Model ( [resizeFactor*] ConfigName | ShortName )</Chinesesimp>
-        <Chinese>Model ( [resizeFactor*] ConfigName | ShortName )</Chinese>
+      <Key ID="STR_DBUG_MODEL_HINT">
+        <Original>Model ( [scale*] ConfigName | ShortName )</Original>
+        <English>Model ( [scale*] ConfigName | ShortName )</English>
+        <Czech>Model ( [scale*] ConfigName | ShortName )</Czech>
+        <French>Model ( [scale*] ConfigName | ShortName )</French>
+        <German>Model ( [scale*] ConfigName | ShortName )</German>
+        <Italian>Model ( [scale*] ConfigName | ShortName )</Italian>
+        <Polish>Model ( [scale*] ConfigName | ShortName )</Polish>
+        <Portuguese>Model ( [scale*] ConfigName | ShortName )</Portuguese>
+        <Russian>Model ( [scale*] ConfigName | ShortName )</Russian>
+        <Spanish>Model ( [scale*] ConfigName | ShortName )</Spanish>
+        <Korean>Model ( [scale*] ConfigName | ShortName )</Korean>
+        <Japanese>Model ( [scale*] ConfigName | ShortName )</Japanese>
+        <Chinesesimp>Model ( [scale*] ConfigName | ShortName )</Chinesesimp>
+        <Chinese>Model ( [scale*] ConfigName | ShortName )</Chinese>
       </Key>
-      <Key ID="STR_TBUG_ICON_HINT">
-        <Original>Icon ( [resizeFactor*] Path | SettingsName )</Original>
-        <English>Icon ( [resizeFactor*] Path | SettingsName )</English>
-        <Czech>Icon ( [resizeFactor*] Path | SettingsName )</Czech>
-        <French>Icon ( [resizeFactor*] Path | SettingsName )</French>
-        <German>Icon ( [resizeFactor*] Path | SettingsName )</German>
-        <Italian>Icon ( [resizeFactor*] Path | SettingsName )</Italian>
-        <Polish>Icon ( [resizeFactor*] Path | SettingsName )</Polish>
-        <Portuguese>Icon ( [resizeFactor*] Path | SettingsName )</Portuguese>
-        <Russian>Icon ( [resizeFactor*] Path | SettingsName )</Russian>
-        <Spanish>Icon ( [resizeFactor*] Path | SettingsName )</Spanish>
-        <Korean>Icon ( [resizeFactor*] Path | SettingsName )</Korean>
-        <Japanese>Icon ( [resizeFactor*] Path | SettingsName )</Japanese>
-        <Chinesesimp>Icon ( [resizeFactor*] Path | SettingsName )</Chinesesimp>
-        <Chinese>Icon ( [resizeFactor*] Path | SettingsName )</Chinese>
+      <Key ID="STR_DBUG_ICON_HINT">
+        <Original>Icon ( [scale*] Path | SettingsName )</Original>
+        <English>Icon ( [scale*] Path | SettingsName )</English>
+        <Czech>Icon ( [scale*] Path | SettingsName )</Czech>
+        <French>Icon ( [scale*] Path | SettingsName )</French>
+        <German>Icon ( [scale*] Path | SettingsName )</German>
+        <Italian>Icon ( [scale*] Path | SettingsName )</Italian>
+        <Polish>Icon ( [scale*] Path | SettingsName )</Polish>
+        <Portuguese>Icon ( [scale*] Path | SettingsName )</Portuguese>
+        <Russian>Icon ( [scale*] Path | SettingsName )</Russian>
+        <Spanish>Icon ( [scale*] Path | SettingsName )</Spanish>
+        <Korean>Icon ( [scale*] Path | SettingsName )</Korean>
+        <Japanese>Icon ( [scale*] Path | SettingsName )</Japanese>
+        <Chinesesimp>图标 ( [scale*] Path | SettingsName )</Chinesesimp>
+        <Chinese>Icon ( [scale*] Path | SettingsName )</Chinese>
       </Key>
-      <Key ID="STR_TBUG_APPLY">
+      <Key ID="STR_DBUG_APPLY">
         <Original>Apply</Original>
         <English>Apply</English>
         <Czech>Apply</Czech>
@@ -1647,10 +2047,10 @@
         <Spanish>Apply</Spanish>
         <Korean>Apply</Korean>
         <Japanese>Apply</Japanese>
-        <Chinesesimp>Apply</Chinesesimp>
+        <Chinesesimp>应用</Chinesesimp>
         <Chinese>Apply</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SETTINGS">
+      <Key ID="STR_DBUG_SETTINGS">
         <Original>Settings</Original>
         <English>Settings</English>
         <Czech>Settings</Czech>
@@ -1663,10 +2063,10 @@
         <Spanish>Settings</Spanish>
         <Korean>Settings</Korean>
         <Japanese>Settings</Japanese>
-        <Chinesesimp>Settings</Chinesesimp>
+        <Chinesesimp>设置</Chinesesimp>
         <Chinese>Settings</Chinese>
       </Key>
-      <Key ID="STR_TBUG_COLOR_PICKER">
+      <Key ID="STR_DBUG_COLOR_PICKER">
         <Original>Color Picker</Original>
         <English>Color Picker</English>
         <Czech>Color Picker</Czech>
@@ -1679,10 +2079,10 @@
         <Spanish>Color Picker</Spanish>
         <Korean>Color Picker</Korean>
         <Japanese>Color Picker</Japanese>
-        <Chinesesimp>Color Picker</Chinesesimp>
+        <Chinesesimp>颜色选择器</Chinesesimp>
         <Chinese>Color Picker</Chinese>
       </Key>
-      <Key ID="STR_TBUG_OK">
+      <Key ID="STR_DBUG_OK">
         <Original>Ok</Original>
         <English>Ok</English>
         <Czech>Ok</Czech>
@@ -1698,7 +2098,7 @@
         <Chinesesimp>Ok</Chinesesimp>
         <Chinese>Ok</Chinese>
       </Key>
-      <Key ID="STR_TBUG_WARNING_E">
+      <Key ID="STR_DBUG_WARNING_E">
         <Original>Warning!</Original>
         <English>Warning!</English>
         <Czech>Warning!</Czech>
@@ -1711,10 +2111,10 @@
         <Spanish>Warning!</Spanish>
         <Korean>Warning!</Korean>
         <Japanese>Warning!</Japanese>
-        <Chinesesimp>Warning!</Chinesesimp>
+        <Chinesesimp>警告！</Chinesesimp>
         <Chinese>Warning!</Chinese>
       </Key>
-      <Key ID="STR_TBUG_TRANSLATORS">
+      <Key ID="STR_DBUG_TRANSLATORS">
         <Original>Translators</Original>
         <English>Translators</English>
         <Czech>Translators</Czech>
@@ -1727,10 +2127,10 @@
         <Spanish>Translators</Spanish>
         <Korean>Translators</Korean>
         <Japanese>Translators</Japanese>
-        <Chinesesimp>Translators</Chinesesimp>
+        <Chinesesimp>翻译人员</Chinesesimp>
         <Chinese>Translators</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SUPPORTERS">
+      <Key ID="STR_DBUG_SUPPORTERS">
         <Original>Supporters</Original>
         <English>Supporters</English>
         <Czech>Supporters</Czech>
@@ -1743,10 +2143,10 @@
         <Spanish>Supporters</Spanish>
         <Korean>Supporters</Korean>
         <Japanese>Supporters</Japanese>
-        <Chinesesimp>Supporters</Chinesesimp>
+        <Chinesesimp>援助</Chinesesimp>
         <Chinese>Supporters</Chinese>
       </Key>
-      <Key ID="STR_TBUG_EXTERNAL_LINKS">
+      <Key ID="STR_DBUG_EXTERNAL_LINKS">
         <Original>External Links:</Original>
         <English>External Links:</English>
         <Czech>External Links:</Czech>
@@ -1759,10 +2159,10 @@
         <Spanish>External Links:</Spanish>
         <Korean>External Links:</Korean>
         <Japanese>External Links:</Japanese>
-        <Chinesesimp>External Links:</Chinesesimp>
+        <Chinesesimp>外部链接:</Chinesesimp>
         <Chinese>External Links:</Chinese>
       </Key>
-      <Key ID="STR_TBUG_CANCEL">
+      <Key ID="STR_DBUG_CANCEL">
         <Original>Cancel</Original>
         <English>Cancel</English>
         <Czech>Cancel</Czech>
@@ -1775,10 +2175,10 @@
         <Spanish>Cancel</Spanish>
         <Korean>Cancel</Korean>
         <Japanese>Cancel</Japanese>
-        <Chinesesimp>Cancel</Chinesesimp>
+        <Chinesesimp>取消</Chinesesimp>
         <Chinese>Cancel</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SELECT">
+      <Key ID="STR_DBUG_SELECT">
         <Original>Select</Original>
         <English>Select</English>
         <Czech>Select</Czech>
@@ -1791,10 +2191,10 @@
         <Spanish>Select</Spanish>
         <Korean>Select</Korean>
         <Japanese>Select</Japanese>
-        <Chinesesimp>Select</Chinesesimp>
+        <Chinesesimp>选择</Chinesesimp>
         <Chinese>Select</Chinese>
       </Key>
-      <Key ID="STR_TBUG_HISTORY">
+      <Key ID="STR_DBUG_HISTORY">
         <Original>History</Original>
         <English>History</English>
         <Czech>History</Czech>
@@ -1807,10 +2207,10 @@
         <Spanish>History</Spanish>
         <Korean>History</Korean>
         <Japanese>History</Japanese>
-        <Chinesesimp>History</Chinesesimp>
+        <Chinesesimp>历史记录</Chinesesimp>
         <Chinese>History</Chinese>
       </Key>
-      <Key ID="STR_TBUG_EXPRESSION_C">
+      <Key ID="STR_DBUG_EXPRESSION_C">
         <Original>Expression:</Original>
         <English>Expression:</English>
         <Czech>Expression:</Czech>
@@ -1826,7 +2226,7 @@
         <Chinesesimp>Expression:</Chinesesimp>
         <Chinese>Expression:</Chinese>
       </Key>
-      <Key ID="STR_TBUG_REMOTE_TARGET">
+      <Key ID="STR_DBUG_REMOTE_TARGET">
         <Original>RemoteExec Target</Original>
         <English>RemoteExec Target</English>
         <Czech>RemoteExec Target</Czech>
@@ -1839,10 +2239,10 @@
         <Spanish>RemoteExec Target</Spanish>
         <Korean>RemoteExec Target</Korean>
         <Japanese>RemoteExec Target</Japanese>
-        <Chinesesimp>RemoteExec Target</Chinesesimp>
+        <Chinesesimp>RemoteExec目标</Chinesesimp>
         <Chinese>RemoteExec Target</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SEARCH_FILES">
+      <Key ID="STR_DBUG_SEARCH_FILES">
         <Original>Search in Files</Original>
         <English>Search in Files</English>
         <Czech>Search in Files</Czech>
@@ -1855,10 +2255,10 @@
         <Spanish>Search in Files</Spanish>
         <Korean>Search in Files</Korean>
         <Japanese>Search in Files</Japanese>
-        <Chinesesimp>Search in Files</Chinesesimp>
+        <Chinesesimp>在文件中搜索</Chinesesimp>
         <Chinese>Search in Files</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SEARCH_ADDONS_FNCS">
+      <Key ID="STR_DBUG_SEARCH_ADDONS_FNCS">
         <Original>Search in Addons/Functions</Original>
         <English>Search in Addons/Functions</English>
         <Czech>Search in Addons/Functions</Czech>
@@ -1871,10 +2271,10 @@
         <Spanish>Search in Addons/Functions</Spanish>
         <Korean>Search in Addons/Functions</Korean>
         <Japanese>Search in Addons/Functions</Japanese>
-        <Chinesesimp>Search in Addons/Functions</Chinesesimp>
+        <Chinesesimp>在Addons/Functions中搜索</Chinesesimp>
         <Chinese>Search in Addons/Functions</Chinese>
       </Key>
-      <Key ID="STR_TBUG_CONSOLE">
+      <Key ID="STR_DBUG_CONSOLE">
         <Original>Console</Original>
         <English>Console</English>
         <Czech>Console</Czech>
@@ -1887,10 +2287,10 @@
         <Spanish>Console</Spanish>
         <Korean>Console</Korean>
         <Japanese>Console</Japanese>
-        <Chinesesimp>Console</Chinesesimp>
+        <Chinesesimp>控制台</Chinesesimp>
         <Chinese>Console</Chinese>
       </Key>
-      <Key ID="STR_TBUG_EXEC_HISTORY">
+      <Key ID="STR_DBUG_EXEC_HISTORY">
         <Original>Execution History</Original>
         <English>Execution History</English>
         <Czech>Execution History</Czech>
@@ -1903,10 +2303,10 @@
         <Spanish>Execution History</Spanish>
         <Korean>Execution History</Korean>
         <Japanese>Execution History</Japanese>
-        <Chinesesimp>Execution History</Chinesesimp>
+        <Chinesesimp>执行历史记录</Chinesesimp>
         <Chinese>Execution History</Chinese>
       </Key>
-      <Key ID="STR_TBUG_EXPORT_NPP">
+      <Key ID="STR_DBUG_EXPORT_NPP">
         <Original>Export to Notepad++</Original>
         <English>Export to Notepad++</English>
         <Czech>Export to Notepad++</Czech>
@@ -1919,10 +2319,10 @@
         <Spanish>Export to Notepad++</Spanish>
         <Korean>Export to Notepad++</Korean>
         <Japanese>Export to Notepad++</Japanese>
-        <Chinesesimp>Export to Notepad++</Chinesesimp>
+        <Chinesesimp>导出到Notepad++</Chinesesimp>
         <Chinese>Export to Notepad++</Chinese>
       </Key>
-      <Key ID="STR_TBUG_ADDONS_C">
+      <Key ID="STR_DBUG_ADDONS_C">
         <Original>Addons:</Original>
         <English>Addons:</English>
         <Czech>Addons:</Czech>
@@ -1938,12 +2338,12 @@
         <Chinesesimp>Addons:</Chinesesimp>
         <Chinese>Addons:</Chinese>
       </Key>
-      <Key ID="STR_TBUG_PARENTS_C">
+      <Key ID="STR_DBUG_PARENTS_C">
         <Original>Parents:</Original>
         <English>Parents:</English>
         <Czech>Parents:</Czech>
         <French>Parents:</French>
-        <German>Elternelement:</German>
+        <German>Eltern:</German>
         <Italian>Parents:</Italian>
         <Polish>Parents:</Polish>
         <Portuguese>Parents:</Portuguese>
@@ -1951,10 +2351,10 @@
         <Spanish>Parents:</Spanish>
         <Korean>Parents:</Korean>
         <Japanese>Parents:</Japanese>
-        <Chinesesimp>Parents:</Chinesesimp>
+        <Chinesesimp>父类:</Chinesesimp>
         <Chinese>Parents:</Chinese>
       </Key>
-      <Key ID="STR_TBUG_PATH_C">
+      <Key ID="STR_DBUG_PATH_C">
         <Original>Path:</Original>
         <English>Path:</English>
         <Czech>Path:</Czech>
@@ -1967,10 +2367,10 @@
         <Spanish>Path:</Spanish>
         <Korean>Path:</Korean>
         <Japanese>Path:</Japanese>
-        <Chinesesimp>Path:</Chinesesimp>
+        <Chinesesimp>路径:</Chinesesimp>
         <Chinese>Path:</Chinese>
       </Key>
-      <Key ID="STR_TBUG_ABOUT">
+      <Key ID="STR_DBUG_ABOUT">
         <Original>About</Original>
         <English>About</English>
         <Czech>About</Czech>
@@ -1983,10 +2383,10 @@
         <Spanish>About</Spanish>
         <Korean>About</Korean>
         <Japanese>About</Japanese>
-        <Chinesesimp>About</Chinesesimp>
+        <Chinesesimp>关于</Chinesesimp>
         <Chinese>About</Chinese>
       </Key>
-      <Key ID="STR_TBUG_FEEDBACK">
+      <Key ID="STR_DBUG_FEEDBACK">
         <Original>Feedback</Original>
         <English>Feedback</English>
         <Czech>Feedback</Czech>
@@ -1999,10 +2399,10 @@
         <Spanish>Feedback</Spanish>
         <Korean>Feedback</Korean>
         <Japanese>Feedback</Japanese>
-        <Chinesesimp>Feedback</Chinesesimp>
+        <Chinesesimp>反馈</Chinesesimp>
         <Chinese>Feedback</Chinese>
       </Key>
-      <Key ID="STR_TBUG_A3_DISCORD">
+      <Key ID="STR_DBUG_A3_DISCORD">
         <Original>Arma Discrod</Original>
         <English>Arma Discrod</English>
         <Czech>Arma Discrod</Czech>
@@ -2018,7 +2418,7 @@
         <Chinesesimp>Arma Discrod</Chinesesimp>
         <Chinese>Arma Discrod</Chinese>
       </Key>
-      <Key ID="STR_TBUG_BI_FORUMS">
+      <Key ID="STR_DBUG_BI_FORUMS">
         <Original>Bohemia Interactive Forums</Original>
         <English>Bohemia Interactive Forums</English>
         <Czech>Bohemia Interactive Forums</Czech>
@@ -2031,10 +2431,10 @@
         <Spanish>Bohemia Interactive Forums</Spanish>
         <Korean>Bohemia Interactive Forums</Korean>
         <Japanese>Bohemia Interactive Forums</Japanese>
-        <Chinesesimp>Bohemia Interactive Forums</Chinesesimp>
+        <Chinesesimp>Bohemia Interactive论坛</Chinesesimp>
         <Chinese>Bohemia Interactive Forums</Chinese>
       </Key>
-      <Key ID="STR_TBUG_A3_SQF_CMDS">
+      <Key ID="STR_DBUG_A3_SQF_CMDS">
         <Original>Scripting Commands for Arma 3</Original>
         <English>Scripting Commands for Arma 3</English>
         <Czech>Scripting Commands for Arma 3</Czech>
@@ -2047,10 +2447,10 @@
         <Spanish>Scripting Commands for Arma 3</Spanish>
         <Korean>Scripting Commands for Arma 3</Korean>
         <Japanese>Scripting Commands for Arma 3</Japanese>
-        <Chinesesimp>Scripting Commands for Arma 3</Chinesesimp>
+        <Chinesesimp>Arma 3的脚本指令</Chinesesimp>
         <Chinese>Scripting Commands for Arma 3</Chinese>
       </Key>
-      <Key ID="STR_TBUG_INTRO_TO_SQF">
+      <Key ID="STR_DBUG_INTRO_TO_SQF">
         <Original>Introduction to Arma Scripting</Original>
         <English>Introduction to Arma Scripting</English>
         <Czech>Introduction to Arma Scripting</Czech>
@@ -2063,10 +2463,10 @@
         <Spanish>Introduction to Arma Scripting</Spanish>
         <Korean>Introduction to Arma Scripting</Korean>
         <Japanese>Introduction to Arma Scripting</Japanese>
-        <Chinesesimp>Introduction to Arma Scripting</Chinesesimp>
+        <Chinesesimp>Arma 脚本介绍</Chinesesimp>
         <Chinese>Introduction to Arma Scripting</Chinese>
       </Key>
-      <Key ID="STR_TBUG_EXPORT_CFG">
+      <Key ID="STR_DBUG_EXPORT_CFG">
         <Original>Export Config</Original>
         <English>Export Config</English>
         <Czech>Export Config</Czech>
@@ -2079,10 +2479,10 @@
         <Spanish>Export Config</Spanish>
         <Korean>Export Config</Korean>
         <Japanese>Export Config</Japanese>
-        <Chinesesimp>Export Config</Chinesesimp>
+        <Chinesesimp>导出Config</Chinesesimp>
         <Chinese>Export Config</Chinese>
       </Key>
-      <Key ID="STR_TBUG_PREFERENCES">
+      <Key ID="STR_DBUG_PREFERENCES">
         <Original>Preferences</Original>
         <English>Preferences</English>
         <Czech>Preferences</Czech>
@@ -2095,10 +2495,10 @@
         <Spanish>Preferences</Spanish>
         <Korean>Preferences</Korean>
         <Japanese>Preferences</Japanese>
-        <Chinesesimp>Preferences</Chinesesimp>
+        <Chinesesimp>首选项</Chinesesimp>
         <Chinese>Preferences</Chinese>
       </Key>
-      <Key ID="STR_TBUG_UTILS">
+      <Key ID="STR_DBUG_UTILS">
         <Original>Utilities</Original>
         <English>Utilities</English>
         <Czech>Utilities</Czech>
@@ -2114,7 +2514,7 @@
         <Chinesesimp>Utilities</Chinesesimp>
         <Chinese>Utilities</Chinese>
       </Key>
-      <Key ID="STR_TBUG_CAMERA">
+      <Key ID="STR_DBUG_CAMERA">
         <Original>Splendid Camera</Original>
         <English>Splendid Camera</English>
         <Czech>Splendid Camera</Czech>
@@ -2127,10 +2527,10 @@
         <Spanish>Splendid Camera</Spanish>
         <Korean>Splendid Camera</Korean>
         <Japanese>Splendid Camera</Japanese>
-        <Chinesesimp>Splendid Camera</Chinesesimp>
+        <Chinesesimp>摄像机</Chinesesimp>
         <Chinese>Splendid Camera</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SPECTATE">
+      <Key ID="STR_DBUG_SPECTATE">
         <Original>Spectate</Original>
         <English>Spectate</English>
         <Czech>Spectate</Czech>
@@ -2143,10 +2543,10 @@
         <Spanish>Spectate</Spanish>
         <Korean>Spectate</Korean>
         <Japanese>Spectate</Japanese>
-        <Chinesesimp>Spectate</Chinesesimp>
+        <Chinesesimp>旁观者</Chinesesimp>
         <Chinese>Spectate</Chinese>
       </Key>
-      <Key ID="STR_TBUG_ANIM_VIEWER">
+      <Key ID="STR_DBUG_ANIM_VIEWER">
         <Original>Animation Viewer</Original>
         <English>Animation Viewer</English>
         <Czech>Animation Viewer</Czech>
@@ -2159,10 +2559,10 @@
         <Spanish>Animation Viewer</Spanish>
         <Korean>Animation Viewer</Korean>
         <Japanese>Animation Viewer</Japanese>
-        <Chinesesimp>Animation Viewer</Chinesesimp>
+        <Chinesesimp>动画浏览器</Chinesesimp>
         <Chinese>Animation Viewer</Chinese>
       </Key>
-      <Key ID="STR_TBUG_GUI_EDITOR">
+      <Key ID="STR_DBUG_GUI_EDITOR">
         <Original>GUI Editor</Original>
         <English>GUI Editor</English>
         <Czech>GUI Editor</Czech>
@@ -2175,10 +2575,10 @@
         <Spanish>GUI Editor</Spanish>
         <Korean>GUI Editor</Korean>
         <Japanese>GUI Editor</Japanese>
-        <Chinesesimp>GUI Editor</Chinesesimp>
+        <Chinesesimp>GUI编辑器</Chinesesimp>
         <Chinese>GUI Editor</Chinese>
       </Key>
-      <Key ID="STR_TBUG_FUNCTIONS">
+      <Key ID="STR_DBUG_FUNCTIONS">
         <Original>Functions</Original>
         <English>Functions</English>
         <Czech>Functions</Czech>
@@ -2194,7 +2594,7 @@
         <Chinesesimp>Functions</Chinesesimp>
         <Chinese>Functions</Chinese>
       </Key>
-      <Key ID="STR_TBUG_TOOLS">
+      <Key ID="STR_DBUG_TOOLS">
         <Original>Tools</Original>
         <English>Tools</English>
         <Czech>Tools</Czech>
@@ -2207,10 +2607,10 @@
         <Spanish>Tools</Spanish>
         <Korean>Tools</Korean>
         <Japanese>Tools</Japanese>
-        <Chinesesimp>Tools</Chinesesimp>
+        <Chinesesimp>工具</Chinesesimp>
         <Chinese>Tools</Chinese>
       </Key>
-      <Key ID="STR_TBUG_ADD_BOOKMARK">
+      <Key ID="STR_DBUG_ADD_BOOKMARK">
         <Original>Add Bookmark</Original>
         <English>Add Bookmark</English>
         <Czech>Add Bookmark</Czech>
@@ -2223,10 +2623,10 @@
         <Spanish>Add Bookmark</Spanish>
         <Korean>Add Bookmark</Korean>
         <Japanese>Add Bookmark</Japanese>
-        <Chinesesimp>Add Bookmark</Chinesesimp>
+        <Chinesesimp>添加书签</Chinesesimp>
         <Chinese>Add Bookmark</Chinese>
       </Key>
-      <Key ID="STR_TBUG_FIND">
+      <Key ID="STR_DBUG_FIND">
         <Original>Find</Original>
         <English>Find</English>
         <Czech>Find</Czech>
@@ -2239,10 +2639,10 @@
         <Spanish>Find</Spanish>
         <Korean>Find</Korean>
         <Japanese>Find</Japanese>
-        <Chinesesimp>Find</Chinesesimp>
+        <Chinesesimp>查找</Chinesesimp>
         <Chinese>Find</Chinese>
       </Key>
-      <Key ID="STR_TBUG_CFG_VIEWER">
+      <Key ID="STR_DBUG_CFG_VIEWER">
         <Original>Config Viewer</Original>
         <English>Config Viewer</English>
         <Czech>Config Viewer</Czech>
@@ -2255,10 +2655,10 @@
         <Spanish>Config Viewer</Spanish>
         <Korean>Config Viewer</Korean>
         <Japanese>Config Viewer</Japanese>
-        <Chinesesimp>Config Viewer</Chinesesimp>
+        <Chinesesimp>Config浏览器</Chinesesimp>
         <Chinese>Config Viewer</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SEARCH_VALUES">
+      <Key ID="STR_DBUG_SEARCH_VALUES">
         <Original>Search in Values</Original>
         <English>Search in Values</English>
         <Czech>Search in Values</Czech>
@@ -2271,10 +2671,10 @@
         <Spanish>Search in Values</Spanish>
         <Korean>Search in Values</Korean>
         <Japanese>Search in Values</Japanese>
-        <Chinesesimp>Search in Values</Chinesesimp>
+        <Chinesesimp>在值中搜索</Chinesesimp>
         <Chinese>Search in Values</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SEARCH_PROPS">
+      <Key ID="STR_DBUG_SEARCH_PROPS">
         <Original>Search in Properties</Original>
         <English>Search in Properties</English>
         <Czech>Search in Properties</Czech>
@@ -2287,10 +2687,10 @@
         <Spanish>Search in Properties</Spanish>
         <Korean>Search in Properties</Korean>
         <Japanese>Search in Properties</Japanese>
-        <Chinesesimp>Search in Properties</Chinesesimp>
+        <Chinesesimp>在属性中搜索</Chinesesimp>
         <Chinese>Search in Properties</Chinese>
       </Key>
-      <Key ID="STR_TBUG_START_CURR_CFG">
+      <Key ID="STR_DBUG_START_CURR_CFG">
         <Original>Start from current class</Original>
         <English>Start from current class</English>
         <Czech>Start from current class</Czech>
@@ -2303,10 +2703,10 @@
         <Spanish>Start from current class</Spanish>
         <Korean>Start from current class</Korean>
         <Japanese>Start from current class</Japanese>
-        <Chinesesimp>Start from current class</Chinesesimp>
+        <Chinesesimp>从当前class开始</Chinesesimp>
         <Chinese>Start from current class</Chinese>
       </Key>
-      <Key ID="STR_TBUG_CLEAR_SEARCH">
+      <Key ID="STR_DBUG_CLEAR_SEARCH">
         <Original>Clear Search</Original>
         <English>Clear Search</English>
         <Czech>Clear Search</Czech>
@@ -2319,10 +2719,10 @@
         <Spanish>Clear Search</Spanish>
         <Korean>Clear Search</Korean>
         <Japanese>Clear Search</Japanese>
-        <Chinesesimp>Clear Search</Chinesesimp>
+        <Chinesesimp>清除搜索</Chinesesimp>
         <Chinese>Clear Search</Chinese>
       </Key>
-      <Key ID="STR_TBUG_STOP_SEARCH">
+      <Key ID="STR_DBUG_STOP_SEARCH">
         <Original>Stop Search</Original>
         <English>Stop Search</English>
         <Czech>Stop Search</Czech>
@@ -2335,10 +2735,10 @@
         <Spanish>Stop Search</Spanish>
         <Korean>Stop Search</Korean>
         <Japanese>Stop Search</Japanese>
-        <Chinesesimp>Stop Search</Chinesesimp>
+        <Chinesesimp>停止搜索</Chinesesimp>
         <Chinese>Stop Search</Chinese>
       </Key>
-      <Key ID="STR_TBUG_FIND_NEXT">
+      <Key ID="STR_DBUG_FIND_NEXT">
         <Original>Find Next</Original>
         <English>Find Next</English>
         <Czech>Find Next</Czech>
@@ -2351,10 +2751,10 @@
         <Spanish>Find Next</Spanish>
         <Korean>Find Next</Korean>
         <Japanese>Find Next</Japanese>
-        <Chinesesimp>Find Next</Chinesesimp>
+        <Chinesesimp>查找下一个</Chinesesimp>
         <Chinese>Find Next</Chinese>
       </Key>
-      <Key ID="STR_TBUG_FIND_VALUE">
+      <Key ID="STR_DBUG_FIND_VALUE">
         <Original>Value :</Original>
         <English>Value :</English>
         <Czech>Value :</Czech>
@@ -2367,10 +2767,10 @@
         <Spanish>Value :</Spanish>
         <Korean>Value :</Korean>
         <Japanese>Value :</Japanese>
-        <Chinesesimp>Value :</Chinesesimp>
+        <Chinesesimp>值 :</Chinesesimp>
         <Chinese>Value :</Chinese>
       </Key>
-      <Key ID="STR_TBUG_FIND_NAME">
+      <Key ID="STR_DBUG_FIND_NAME">
         <Original>Name :</Original>
         <English>Name :</English>
         <Czech>Name :</Czech>
@@ -2383,10 +2783,10 @@
         <Spanish>Name :</Spanish>
         <Korean>Name :</Korean>
         <Japanese>Name :</Japanese>
-        <Chinesesimp>Name :</Chinesesimp>
+        <Chinesesimp>名称 :</Chinesesimp>
         <Chinese>Name :</Chinese>
       </Key>
-      <Key ID="STR_TBUG_CFG_SEARCH">
+      <Key ID="STR_DBUG_CFG_SEARCH">
         <Original>Config Search</Original>
         <English>Config Search</English>
         <Czech>Config Search</Czech>
@@ -2399,10 +2799,10 @@
         <Spanish>Config Search</Spanish>
         <Korean>Config Search</Korean>
         <Japanese>Config Search</Japanese>
-        <Chinesesimp>Config Search</Chinesesimp>
+        <Chinesesimp>Config检索</Chinesesimp>
         <Chinese>Config Search</Chinese>
       </Key>
-      <Key ID="STR_TBUG_BOOKMARKS_DELETE">
+      <Key ID="STR_DBUG_BOOKMARKS_DELETE">
         <Original>Delete selected config path</Original>
         <English>Delete selected config path</English>
         <Czech>Delete selected config path</Czech>
@@ -2415,10 +2815,10 @@
         <Spanish>Delete selected config path</Spanish>
         <Korean>Delete selected config path</Korean>
         <Japanese>Delete selected config path</Japanese>
-        <Chinesesimp>Delete selected config path</Chinesesimp>
+        <Chinesesimp>删除选定的config路径</Chinesesimp>
         <Chinese>Delete selected config path</Chinese>
       </Key>
-      <Key ID="STR_TBUG_BOOK_CURRENT">
+      <Key ID="STR_DBUG_BOOK_CURRENT">
         <Original>Bookmark current config path</Original>
         <English>Bookmark current config path</English>
         <Czech>Bookmark current config path</Czech>
@@ -2431,10 +2831,10 @@
         <Spanish>Bookmark current config path</Spanish>
         <Korean>Bookmark current config path</Korean>
         <Japanese>Bookmark current config path</Japanese>
-        <Chinesesimp>Bookmark current config path</Chinesesimp>
+        <Chinesesimp>收藏当前的config路径</Chinesesimp>
         <Chinese>Bookmark current config path</Chinese>
       </Key>
-      <Key ID="STR_TBUG_BOOKMARKS_GOTO">
+      <Key ID="STR_DBUG_BOOKMARKS_GOTO">
         <Original>Go to selected config path</Original>
         <English>Go to selected config path</English>
         <Czech>Go to selected config path</Czech>
@@ -2447,10 +2847,10 @@
         <Spanish>Go to selected config path</Spanish>
         <Korean>Go to selected config path</Korean>
         <Japanese>Go to selected config path</Japanese>
-        <Chinesesimp>Go to selected config path</Chinesesimp>
+        <Chinesesimp>转到选定的config路径</Chinesesimp>
         <Chinese>Go to selected config path</Chinese>
       </Key>
-      <Key ID="STR_TBUG_BOOKMARKS">
+      <Key ID="STR_DBUG_BOOKMARKS">
         <Original>Bookmarks</Original>
         <English>Bookmarks</English>
         <Czech>Bookmarks</Czech>
@@ -2463,10 +2863,10 @@
         <Spanish>Bookmarks</Spanish>
         <Korean>Bookmarks</Korean>
         <Japanese>Bookmarks</Japanese>
-        <Chinesesimp>Bookmarks</Chinesesimp>
+        <Chinesesimp>书签</Chinesesimp>
         <Chinese>Bookmarks</Chinese>
       </Key>
-      <Key ID="STR_TBUG_RAW_DATA_HINT">
+      <Key ID="STR_DBUG_RAW_DATA_HINT">
         <Original>Raw data (modifiable)</Original>
         <English>Raw data (modifiable)</English>
         <Czech>Raw data (modifiable)</Czech>
@@ -2479,10 +2879,10 @@
         <Spanish>Raw data (modifiable)</Spanish>
         <Korean>Raw data (modifiable)</Korean>
         <Japanese>Raw data (modifiable)</Japanese>
-        <Chinesesimp>Raw data (modifiable)</Chinesesimp>
+        <Chinesesimp>原始数据(可修改)</Chinesesimp>
         <Chinese>Raw data (modifiable)</Chinese>
       </Key>
-      <Key ID="STR_TBUG_FIND_IN_CFG">
+      <Key ID="STR_DBUG_FIND_IN_CFG">
         <Original>Find in Config</Original>
         <English>Find in Config</English>
         <Czech>Find in Config</Czech>
@@ -2495,10 +2895,10 @@
         <Spanish>Find in Config</Spanish>
         <Korean>Find in Config</Korean>
         <Japanese>Find in Config</Japanese>
-        <Chinesesimp>Find in Config</Chinesesimp>
+        <Chinesesimp>在Config中查找</Chinesesimp>
         <Chinese>Find in Config</Chinese>
       </Key>
-      <Key ID="STR_TBUG_ADD_EXTENTION">
+      <Key ID="STR_DBUG_ADD_EXTENTION">
         <Original>Add File Extension</Original>
         <English>Add File Extension</English>
         <Czech>Add File Extension</Czech>
@@ -2511,10 +2911,10 @@
         <Spanish>Add File Extension</Spanish>
         <Korean>Add File Extension</Korean>
         <Japanese>Add File Extension</Japanese>
-        <Chinesesimp>Add File Extension</Chinesesimp>
+        <Chinesesimp>添加文件扩展名</Chinesesimp>
         <Chinese>Add File Extension</Chinese>
       </Key>
-      <Key ID="STR_TBUG_OBJECT">
+      <Key ID="STR_DBUG_OBJECT">
         <Original>Object</Original>
         <English>Object</English>
         <Czech>Object</Czech>
@@ -2527,10 +2927,10 @@
         <Spanish>Object</Spanish>
         <Korean>Object</Korean>
         <Japanese>Object</Japanese>
-        <Chinesesimp>Object</Chinesesimp>
+        <Chinesesimp>物体</Chinesesimp>
         <Chinese>Object</Chinese>
       </Key>
-      <Key ID="STR_TBUG_MODEL">
+      <Key ID="STR_DBUG_MODEL">
         <Original>Model</Original>
         <English>Model</English>
         <Czech>Model</Czech>
@@ -2546,7 +2946,7 @@
         <Chinesesimp>Model</Chinesesimp>
         <Chinese>Model</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SOUND">
+      <Key ID="STR_DBUG_SOUND">
         <Original>Sound</Original>
         <English>Sound</English>
         <Czech>Sound</Czech>
@@ -2559,10 +2959,10 @@
         <Spanish>Sound</Spanish>
         <Korean>Sound</Korean>
         <Japanese>Sound</Japanese>
-        <Chinesesimp>Sound</Chinesesimp>
+        <Chinesesimp>声音</Chinesesimp>
         <Chinese>Sound</Chinese>
       </Key>
-      <Key ID="STR_TBUG_IMAGE">
+      <Key ID="STR_DBUG_IMAGE">
         <Original>Image</Original>
         <English>Image</English>
         <Czech>Image</Czech>
@@ -2575,10 +2975,10 @@
         <Spanish>Image</Spanish>
         <Korean>Image</Korean>
         <Japanese>Image</Japanese>
-        <Chinesesimp>Image</Chinesesimp>
+        <Chinesesimp>图片</Chinesesimp>
         <Chinese>Image</Chinese>
       </Key>
-      <Key ID="STR_TBUG_ARRAY">
+      <Key ID="STR_DBUG_ARRAY">
         <Original>Array</Original>
         <English>Array</English>
         <Czech>Array</Czech>
@@ -2591,10 +2991,10 @@
         <Spanish>Array</Spanish>
         <Korean>Array</Korean>
         <Japanese>Array</Japanese>
-        <Chinesesimp>Array</Chinesesimp>
+        <Chinesesimp>数组</Chinesesimp>
         <Chinese>Array</Chinese>
       </Key>
-      <Key ID="STR_TBUG_TEXT">
+      <Key ID="STR_DBUG_TEXT">
         <Original>Text</Original>
         <English>Text</English>
         <Czech>Text</Czech>
@@ -2607,10 +3007,10 @@
         <Spanish>Text</Spanish>
         <Korean>Text</Korean>
         <Japanese>Text</Japanese>
-        <Chinesesimp>Text</Chinesesimp>
+        <Chinesesimp>文本</Chinesesimp>
         <Chinese>Text</Chinese>
       </Key>
-      <Key ID="STR_TBUG_OPEN_AS">
+      <Key ID="STR_DBUG_OPEN_AS">
         <Original>Open As</Original>
         <English>Open As</English>
         <Czech>Open As</Czech>
@@ -2623,10 +3023,10 @@
         <Spanish>Open As</Spanish>
         <Korean>Open As</Korean>
         <Japanese>Open As</Japanese>
-        <Chinesesimp>Open As</Chinesesimp>
+        <Chinesesimp>打开为</Chinesesimp>
         <Chinese>Open As</Chinese>
       </Key>
-      <Key ID="STR_TBUG_DATA_VIEWER">
+      <Key ID="STR_DBUG_DATA_VIEWER">
         <Original>Data Viewer</Original>
         <English>Data Viewer</English>
         <Czech>Data Viewer</Czech>
@@ -2639,10 +3039,10 @@
         <Spanish>Data Viewer</Spanish>
         <Korean>Data Viewer</Korean>
         <Japanese>Data Viewer</Japanese>
-        <Chinesesimp>Data Viewer</Chinesesimp>
+        <Chinesesimp>数据浏览器</Chinesesimp>
         <Chinese>Data Viewer</Chinese>
       </Key>
-      <Key ID="STR_TBUG_OPEN">
+      <Key ID="STR_DBUG_OPEN">
         <Original>Open</Original>
         <English>Open</English>
         <Czech>Open</Czech>
@@ -2655,10 +3055,10 @@
         <Spanish>Open</Spanish>
         <Korean>Open</Korean>
         <Japanese>Open</Japanese>
-        <Chinesesimp>Open</Chinesesimp>
+        <Chinesesimp>打开</Chinesesimp>
         <Chinese>Open</Chinese>
       </Key>
-      <Key ID="STR_TBUG_CLOSE">
+      <Key ID="STR_DBUG_CLOSE">
         <Original>Close</Original>
         <English>Close</English>
         <Czech>Close</Czech>
@@ -2671,10 +3071,10 @@
         <Spanish>Close</Spanish>
         <Korean>Close</Korean>
         <Japanese>Close</Japanese>
-        <Chinesesimp>Close</Chinesesimp>
+        <Chinesesimp>关闭</Chinesesimp>
         <Chinese>Close</Chinese>
       </Key>
-      <Key ID="STR_TBUG_NEW">
+      <Key ID="STR_DBUG_NEW">
         <Original>New</Original>
         <English>New</English>
         <Czech>New</Czech>
@@ -2687,10 +3087,10 @@
         <Spanish>New</Spanish>
         <Korean>New</Korean>
         <Japanese>New</Japanese>
-        <Chinesesimp>New</Chinesesimp>
+        <Chinesesimp>新建</Chinesesimp>
         <Chinese>New</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SAVE">
+      <Key ID="STR_DBUG_SAVE">
         <Original>Save</Original>
         <English>Save</English>
         <Czech>Save</Czech>
@@ -2703,10 +3103,10 @@
         <Spanish>Save</Spanish>
         <Korean>Save</Korean>
         <Japanese>Save</Japanese>
-        <Chinesesimp>Save</Chinesesimp>
+        <Chinesesimp>保存</Chinesesimp>
         <Chinese>Save</Chinese>
       </Key>
-      <Key ID="STR_TBUG_SAVEAS">
+      <Key ID="STR_DBUG_SAVEAS">
         <Original>Save As</Original>
         <English>Save As</English>
         <Czech>Save As</Czech>
@@ -2719,10 +3119,10 @@
         <Spanish>Save As</Spanish>
         <Korean>Save As</Korean>
         <Japanese>Save As</Japanese>
-        <Chinesesimp>Save As</Chinesesimp>
+        <Chinesesimp>另存为</Chinesesimp>
         <Chinese>Save As</Chinese>
       </Key>
-      <Key ID="STR_TBUG_RELOAD">
+      <Key ID="STR_DBUG_RELOAD">
         <Original>Reload</Original>
         <English>Reload</English>
         <Czech>Reload</Czech>
@@ -2735,10 +3135,10 @@
         <Spanish>Reload</Spanish>
         <Korean>Reload</Korean>
         <Japanese>Reload</Japanese>
-        <Chinesesimp>Reload</Chinesesimp>
+        <Chinesesimp>重新加载</Chinesesimp>
         <Chinese>Reload</Chinese>
       </Key>
-      <Key ID="STR_TBUG_EXIT">
+      <Key ID="STR_DBUG_EXIT">
         <Original>Exit</Original>
         <English>Exit</English>
         <Czech>Exit</Czech>
@@ -2751,10 +3151,10 @@
         <Spanish>Exit</Spanish>
         <Korean>Exit</Korean>
         <Japanese>Exit</Japanese>
-        <Chinesesimp>Exit</Chinesesimp>
+        <Chinesesimp>退出</Chinesesimp>
         <Chinese>Exit</Chinese>
       </Key>
-      <Key ID="STR_TBUG_EDIT">
+      <Key ID="STR_DBUG_EDIT">
         <Original>Edit</Original>
         <English>Edit</English>
         <Czech>Edit</Czech>
@@ -2767,10 +3167,10 @@
         <Spanish>Edit</Spanish>
         <Korean>Edit</Korean>
         <Japanese>Edit</Japanese>
-        <Chinesesimp>Edit</Chinesesimp>
+        <Chinesesimp>编辑</Chinesesimp>
         <Chinese>Edit</Chinese>
       </Key>
-      <Key ID="STR_TBUG_UNDO">
+      <Key ID="STR_DBUG_UNDO">
         <Original>Undo</Original>
         <English>Undo</English>
         <Czech>Undo</Czech>
@@ -2783,10 +3183,10 @@
         <Spanish>Undo</Spanish>
         <Korean>Undo</Korean>
         <Japanese>Undo</Japanese>
-        <Chinesesimp>Undo</Chinesesimp>
+        <Chinesesimp>撤销</Chinesesimp>
         <Chinese>Undo</Chinese>
       </Key>
-      <Key ID="STR_TBUG_REDO">
+      <Key ID="STR_DBUG_REDO">
         <Original>Redo</Original>
         <English>Redo</English>
         <Czech>Redo</Czech>
@@ -2799,10 +3199,10 @@
         <Spanish>Redo</Spanish>
         <Korean>Redo</Korean>
         <Japanese>Redo</Japanese>
-        <Chinesesimp>Redo</Chinesesimp>
+        <Chinesesimp>恢复</Chinesesimp>
         <Chinese>Redo</Chinese>
       </Key>
-      <Key ID="STR_TBUG_BACK">
+      <Key ID="STR_DBUG_BACK">
         <Original>Back</Original>
         <English>Back</English>
         <Czech>Back</Czech>
@@ -2815,10 +3215,10 @@
         <Spanish>Back</Spanish>
         <Korean>Back</Korean>
         <Japanese>Back</Japanese>
-        <Chinesesimp>Back</Chinesesimp>
+        <Chinesesimp>返回</Chinesesimp>
         <Chinese>Back</Chinese>
       </Key>
-      <Key ID="STR_TBUG_NEXT">
+      <Key ID="STR_DBUG_NEXT">
         <Original>Next</Original>
         <English>Next</English>
         <Czech>Next</Czech>
@@ -2831,10 +3231,10 @@
         <Spanish>Next</Spanish>
         <Korean>Next</Korean>
         <Japanese>Next</Japanese>
-        <Chinesesimp>Next</Chinesesimp>
+        <Chinesesimp>下一个</Chinesesimp>
         <Chinese>Next</Chinese>
       </Key>
-      <Key ID="STR_TBUG_COPY">
+      <Key ID="STR_DBUG_COPY">
         <Original>Copy</Original>
         <English>Copy</English>
         <Czech>Copy</Czech>
@@ -2847,10 +3247,10 @@
         <Spanish>Copy</Spanish>
         <Korean>Copy</Korean>
         <Japanese>Copy</Japanese>
-        <Chinesesimp>Copy</Chinesesimp>
+        <Chinesesimp>复制</Chinesesimp>
         <Chinese>Copy</Chinese>
       </Key>
-      <Key ID="STR_TBUG_CUT">
+      <Key ID="STR_DBUG_CUT">
         <Original>Cut</Original>
         <English>Cut</English>
         <Czech>Cut</Czech>
@@ -2863,10 +3263,10 @@
         <Spanish>Cut</Spanish>
         <Korean>Cut</Korean>
         <Japanese>Cut</Japanese>
-        <Chinesesimp>Cut</Chinesesimp>
+        <Chinesesimp>剪切</Chinesesimp>
         <Chinese>Cut</Chinese>
       </Key>
-      <Key ID="STR_TBUG_PASTE">
+      <Key ID="STR_DBUG_PASTE">
         <Original>Paste</Original>
         <English>Paste</English>
         <Czech>Paste</Czech>
@@ -2879,10 +3279,10 @@
         <Spanish>Paste</Spanish>
         <Korean>Paste</Korean>
         <Japanese>Paste</Japanese>
-        <Chinesesimp>Paste</Chinesesimp>
+        <Chinesesimp>粘贴</Chinesesimp>
         <Chinese>Paste</Chinese>
       </Key>
-      <Key ID="STR_TBUG_CONVERTCASE">
+      <Key ID="STR_DBUG_CONVERTCASE">
         <Original>Convert Case</Original>
         <English>Convert Case</English>
         <Czech>Convert Case</Czech>
@@ -2895,10 +3295,10 @@
         <Spanish>Convert Case</Spanish>
         <Korean>Convert Case</Korean>
         <Japanese>Convert Case</Japanese>
-        <Chinesesimp>Convert Case</Chinesesimp>
+        <Chinesesimp>转换案例</Chinesesimp>
         <Chinese>Convert Case</Chinese>
       </Key>
-      <Key ID="STR_TBUG_UCASE">
+      <Key ID="STR_DBUG_UCASE">
         <Original>To Uppercase</Original>
         <English>To Uppercase</English>
         <Czech>To Uppercase</Czech>
@@ -2911,10 +3311,10 @@
         <Spanish>To Uppercase</Spanish>
         <Korean>To Uppercase</Korean>
         <Japanese>To Uppercase</Japanese>
-        <Chinesesimp>To Uppercase</Chinesesimp>
+        <Chinesesimp>转为大写字母</Chinesesimp>
         <Chinese>To Uppercase</Chinese>
       </Key>
-      <Key ID="STR_TBUG_LCASE">
+      <Key ID="STR_DBUG_LCASE">
         <Original>To Lowercase</Original>
         <English>To Lowercase</English>
         <Czech>To Lowercase</Czech>
@@ -2927,10 +3327,10 @@
         <Spanish>To Lowercase</Spanish>
         <Korean>To Lowercase</Korean>
         <Japanese>To Lowercase</Japanese>
-        <Chinesesimp>To Lowercase</Chinesesimp>
+        <Chinesesimp>转为小写字母</Chinesesimp>
         <Chinese>To Lowercase</Chinese>
       </Key>
-      <Key ID="STR_TBUG_FIND_AND_REPLACE">
+      <Key ID="STR_DBUG_FIND_AND_REPLACE">
         <Original>Find and Replace</Original>
         <English>Find and Replace</English>
         <Czech>Find and Replace</Czech>
@@ -2943,7 +3343,7 @@
         <Spanish>Find and Replace</Spanish>
         <Korean>Find and Replace</Korean>
         <Japanese>Find and Replace</Japanese>
-        <Chinesesimp>Find and Replace</Chinesesimp>
+        <Chinesesimp>查找并替换</Chinesesimp>
         <Chinese>Find and Replace</Chinese>
       </Key>
     </Container>
