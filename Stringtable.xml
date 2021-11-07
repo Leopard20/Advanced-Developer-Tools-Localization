@@ -594,21 +594,21 @@
         <Chinesesimp>替换3DEN滚轮菜单中的Config浏览器</Chinesesimp>
         <Chinese>Replace Config Viewer in 3DEN context menu</Chinese>
       </Key>
-      <Key ID="STR_DBUG_RECOMPILE_SUBCLASS">
-        <Original>Recompile Sub-classes</Original>
-        <English>Recompile Sub-classes</English>
-        <Czech>Recompile Sub-classes</Czech>
-        <French>Recompile Sub-classes</French>
+	  <Key ID="STR_DBUG_RECOMPILE_LAST">
+        <Original>Recompile Last</Original>
+        <English>Recompile Last</English>
+        <Czech>Recompile Last</Czech>
+        <French>Recompile Last</French>
         <German>Unterklassen neu kompilieren</German>
-        <Italian>Recompile Sub-classes</Italian>
-        <Polish>Recompile Sub-classes</Polish>
-        <Portuguese>Recompile Sub-classes</Portuguese>
-        <Russian>Recompile Sub-classes</Russian>
-        <Spanish>Recompile Sub-classes</Spanish>
-        <Korean>Recompile Sub-classes</Korean>
-        <Japanese>Recompile Sub-classes</Japanese>
-        <Chinesesimp>重新编译Sub-classes(子类)</Chinesesimp>
-        <Chinese>Recompile Sub-classes</Chinese>
+        <Italian>Recompile Last</Italian>
+        <Polish>Recompile Last</Polish>
+        <Portuguese>Recompile Last</Portuguese>
+        <Russian>Recompile Last</Russian>
+        <Spanish>Recompile Last</Spanish>
+        <Korean>Recompile Last</Korean>
+        <Japanese>Recompile Last</Japanese>
+        <Chinesesimp>重新编译上次选择</Chinesesimp>
+        <Chinese>Recompile Last</Chinese>
       </Key>
       <Key ID="STR_DBUG_FUNCTION_VIEWER">
         <Original>Function Viewer</Original>
@@ -659,20 +659,20 @@
         <Chinese>Search in Functions</Chinese>
       </Key>
       <Key ID="STR_DBUG_RECOMPILE">
-        <Original>Recompile</Original>
-        <English>Recompile</English>
-        <Czech>Recompile</Czech>
-        <French>Recompile</French>
+        <Original>Recompile Selection</Original>
+        <English>Recompile Selection</English>
+        <Czech>Recompile Selection</Czech>
+        <French>Recompile Selection</French>
         <German>Neu kompilieren</German>
-        <Italian>Recompile</Italian>
-        <Polish>Recompile</Polish>
-        <Portuguese>Recompile</Portuguese>
-        <Russian>Recompile</Russian>
-        <Spanish>Recompile</Spanish>
-        <Korean>Recompile</Korean>
-        <Japanese>Recompile</Japanese>
-        <Chinesesimp>重新编译</Chinesesimp>
-        <Chinese>Recompile</Chinese>
+        <Italian>Recompile Selection</Italian>
+        <Polish>Recompile Selection</Polish>
+        <Portuguese>Recompile Selection</Portuguese>
+        <Russian>Recompile Selection</Russian>
+        <Spanish>Recompile Selection</Spanish>
+        <Korean>Recompile Selection</Korean>
+        <Japanese>Recompile Selection</Japanese>
+        <Chinesesimp>重新编译选择</Chinesesimp>
+        <Chinese>Recompile Selection</Chinese>
       </Key>
       <Key ID="STR_DBUG_RECOMPILE_ALL">
         <Original>Recompile All</Original>
