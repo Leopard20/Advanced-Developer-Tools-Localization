@@ -18,6 +18,102 @@
         <Chinesesimp>文件</Chinesesimp>
         <Chinese>File</Chinese>
       </Key>
+	  <Key ID="STR_DBUG_SEARCH_DEPTH_HINT">
+        <Original>Maximum depth of subclasses starting from current class, in range 0-9. 9 = No limit</Original>
+        <English>Maximum depth of subclasses starting from current class, in range 0-9. 9 = No limit</English>
+        <Czech>Maximum depth of subclasses starting from current class, in range 0-9. 9 = No limit</Czech>
+        <French>Maximum depth of subclasses starting from current class, in range 0-9. 9 = No limit</French>
+        <German>Maximum depth of subclasses starting from current class, in range 0-9. 9 = No limit</German>
+        <Italian>Maximum depth of subclasses starting from current class, in range 0-9. 9 = No limit</Italian>
+        <Polish>Maximum depth of subclasses starting from current class, in range 0-9. 9 = No limit</Polish>
+        <Portuguese>Maximum depth of subclasses starting from current class, in range 0-9. 9 = No limit</Portuguese>
+        <Russian>Maximum depth of subclasses starting from current class, in range 0-9. 9 = No limit</Russian>
+        <Spanish>Maximum depth of subclasses starting from current class, in range 0-9. 9 = No limit</Spanish>
+        <Korean>Maximum depth of subclasses starting from current class, in range 0-9. 9 = No limit</Korean>
+        <Japanese>Maximum depth of subclasses starting from current class, in range 0-9. 9 = No limit</Japanese>
+        <Chinesesimp>从当前类开始的子类的最大深度，范围为0-9。9 = 无限制</Chinesesimp>
+        <Chinese>Maximum depth of subclasses starting from current class, in range 0-9. 9 = No limit</Chinese>
+      </Key>
+	  <Key ID="STR_DBUG_SEARCH_DEPTH">
+        <Original>Search Depth</Original>
+        <English>Search Depth</English>
+        <Czech>Search Depth</Czech>
+        <French>Search Depth</French>
+        <German>Search Depth</German>
+        <Italian>Search Depth</Italian>
+        <Polish>Search Depth</Polish>
+        <Portuguese>Search Depth</Portuguese>
+        <Russian>Search Depth</Russian>
+        <Spanish>Search Depth</Spanish>
+        <Korean>Search Depth</Korean>
+        <Japanese>Search Depth</Japanese>
+        <Chinesesimp>搜索深度</Chinesesimp>
+        <Chinese>Search Depth</Chinese>
+      </Key>
+	  <Key ID="STR_DBUG_SET_DIM_INHERIT_PROPS_HINT">
+        <Original>Inherited class properties are distinguished by dimming their color instead of indenting</Original>
+        <English>Inherited class properties are distinguished by dimming their color instead of indenting</English>
+        <Czech>Inherited class properties are distinguished by dimming their color instead of indenting</Czech>
+        <French>Inherited class properties are distinguished by dimming their color instead of indenting</French>
+        <German>Inherited class properties are distinguished by dimming their color instead of indenting</German>
+        <Italian>Inherited class properties are distinguished by dimming their color instead of indenting</Italian>
+        <Polish>Inherited class properties are distinguished by dimming their color instead of indenting</Polish>
+        <Portuguese>Inherited class properties are distinguished by dimming their color instead of indenting</Portuguese>
+        <Russian>Inherited class properties are distinguished by dimming their color instead of indenting</Russian>
+        <Spanish>Inherited class properties are distinguished by dimming their color instead of indenting</Spanish>
+        <Korean>Inherited class properties are distinguished by dimming their color instead of indenting</Korean>
+        <Japanese>Inherited class properties are distinguished by dimming their color instead of indenting</Japanese>
+        <Chinesesimp>继承类的属性通过调暗其颜色而不是缩进来区分</Chinesesimp>
+        <Chinese>Inherited class properties are distinguished by dimming their color instead of indenting</Chinese>
+      </Key>
+	  <Key ID="STR_DBUG_SET_PASSIVE_SCAN_CLASS">
+        <Original>Scan classes that are in view</Original>
+        <English>Scan classes that are in view</English>
+        <Czech>Scan classes that are in view</Czech>
+        <French>Scan classes that are in view</French>
+        <German>Scan classes that are in view</German>
+        <Italian>Scan classes that are in view</Italian>
+        <Polish>Scan classes that are in view</Polish>
+        <Portuguese>Scan classes that are in view</Portuguese>
+        <Russian>Scan classes that are in view</Russian>
+        <Spanish>Scan classes that are in view</Spanish>
+        <Korean>Scan classes that are in view</Korean>
+        <Japanese>Scan classes that are in view</Japanese>
+        <Chinesesimp>扫描正在查看的类</Chinesesimp>
+        <Chinese>Scan classes that are in view</Chinese>
+      </Key>
+	  <Key ID="STR_DBUG_SET_DIM_INHERIT_CLASSES">
+        <Original>Dim inherited classes</Original>
+        <English>Dim inherited classes</English>
+        <Czech>Dim inherited classes</Czech>
+        <French>Dim inherited classes</French>
+        <German>Dim inherited classes</German>
+        <Italian>Dim inherited classes</Italian>
+        <Polish>Dim inherited classes</Polish>
+        <Portuguese>Dim inherited classes</Portuguese>
+        <Russian>Dim inherited classes</Russian>
+        <Spanish>Dim inherited classes</Spanish>
+        <Korean>Dim inherited classes</Korean>
+        <Japanese>Dim inherited classes</Japanese>
+        <Chinesesimp>淡化继承的类</Chinesesimp>
+        <Chinese>Dim inherited classes</Chinese>
+      </Key>
+	  <Key ID="STR_DBUG_SET_DIM_INHERIT_PROPS">
+        <Original>Dim inherited properties</Original>
+        <English>Dim inherited properties</English>
+        <Czech>Dim inherited properties</Czech>
+        <French>Dim inherited properties</French>
+        <German>Dim inherited properties</German>
+        <Italian>Dim inherited properties</Italian>
+        <Polish>Dim inherited properties</Polish>
+        <Portuguese>Dim inherited properties</Portuguese>
+        <Russian>Dim inherited properties</Russian>
+        <Spanish>Dim inherited properties</Spanish>
+        <Korean>Dim inherited properties</Korean>
+        <Japanese>Dim inherited properties</Japanese>
+        <Chinesesimp>淡化继承的属性</Chinesesimp>
+        <Chinese>Dim inherited properties</Chinese>
+      </Key>
 	  <Key ID="STR_DBUG_SET_INTELLISYS_CACHE">
         <Original>Enable IntelliSys Caching (Experimental)</Original>
         <English>Enable IntelliSys Caching (Experimental)</English>
@@ -31,7 +127,7 @@
         <Spanish>Enable IntelliSys Caching (Experimental)</Spanish>
         <Korean>Enable IntelliSys Caching (Experimental)</Korean>
         <Japanese>Enable IntelliSys Caching (Experimental)</Japanese>
-        <Chinesesimp>启用IntelliSys缓存(实验性)</Chinesesimp>
+        <Chinesesimp>启用 IntelliSys 缓存（实验性）</Chinesesimp>
         <Chinese>Enable IntelliSys Caching (Experimental)</Chinese>
       </Key>
 	  <Key ID="STR_DBUG_SET_BRAC_AUTOCOMP">
@@ -63,7 +159,7 @@
         <Spanish>Enable IntelliSys Engine (Experimental)</Spanish>
         <Korean>Enable IntelliSys Engine (Experimental)</Korean>
         <Japanese>Enable IntelliSys Engine (Experimental)</Japanese>
-        <Chinesesimp>启用IntelliSys引擎(实验性)</Chinesesimp>
+        <Chinesesimp>启用 IntelliSys 引擎（实验性）</Chinesesimp>
         <Chinese>Enable IntelliSys Engine (Experimental)</Chinese>
       </Key>
 	  <Key ID="STR_DBUG_SET_COLOR_MBRACKETS">
@@ -143,7 +239,7 @@
         <Spanish>Search children (sub-classes) before siblings</Spanish>
         <Korean>Search children (sub-classes) before siblings</Korean>
         <Japanese>Search children (sub-classes) before siblings</Japanese>
-        <Chinesesimp>先搜索子类(sub-classes)，再搜索同类</Chinesesimp>
+        <Chinesesimp>先搜索子类，再搜索同类</Chinesesimp>
         <Chinese>Search children (sub-classes) before siblings</Chinese>
       </Key>
 	  <Key ID="STR_DBUG_CFG_SIB_FIRST_HINT">
@@ -159,7 +255,7 @@
         <Spanish>Search siblings (classes coming from the same parent) before children (sub-classes)</Spanish>
         <Korean>Search siblings (classes coming from the same parent) before children (sub-classes)</Korean>
         <Japanese>Search siblings (classes coming from the same parent) before children (sub-classes)</Japanese>
-        <Chinesesimp>在子类(sub-classes)之前搜索同类(classes来自同一个父类)</Chinesesimp>
+        <Chinesesimp>在子类之前搜索同类（继承同一个父类的类）</Chinesesimp>
         <Chinese>Search siblings (classes coming from the same parent) before children (sub-classes)</Chinese>
       </Key>
 	  <Key ID="STR_DBUG_CFG_CHILD_FIRST">
@@ -207,7 +303,7 @@
         <Spanish>Show Addons</Spanish>
         <Korean>Show Addons</Korean>
         <Japanese>Show Addons</Japanese>
-        <Chinesesimp>显示Addons</Chinesesimp>
+        <Chinesesimp>显示插件</Chinesesimp>
         <Chinese>Show Addons</Chinese>
       </Key>
 	  <Key ID="STR_DBUG_GEN_INHERIT">
@@ -271,7 +367,7 @@
         <Spanish>Search in Classes</Spanish>
         <Korean>Search in Classes</Korean>
         <Japanese>Search in Classes</Japanese>
-        <Chinesesimp>在Classes中搜索</Chinesesimp>
+        <Chinesesimp>在类中搜索</Chinesesimp>
         <Chinese>Search in Classes</Chinese>
       </Key>
 	  <Key ID="STR_DBUG_SET_REM_LAST_POS">
@@ -287,7 +383,7 @@
         <Spanish>Remember last window position</Spanish>
         <Korean>Remember last window position</Korean>
         <Japanese>Remember last window position</Japanese>
-        <Chinesesimp>记住最后的窗口位置</Chinesesimp>
+        <Chinesesimp>记住之前的窗口位置</Chinesesimp>
         <Chinese>Remember last window position</Chinese>
       </Key>
 	  <Key ID="STR_DBUG_SET_USE_NAMESPACE">
@@ -303,7 +399,7 @@
         <Spanish>Scan missionNamespace for functions</Spanish>
         <Korean>Scan missionNamespace for functions</Korean>
         <Japanese>Scan missionNamespace for functions</Japanese>
-        <Chinesesimp>扫描 missionNamespace的functions</Chinesesimp>
+        <Chinesesimp>扫描 missionNamespace 的函数</Chinesesimp>
         <Chinese>Scan missionNamespace for functions</Chinese>
       </Key>
 	  <Key ID="STR_DBUG_RENAME">
@@ -383,7 +479,7 @@
         <Spanish>If unchecked, you can go to next line using Enter, and exec using F5</Spanish>
         <Korean>If unchecked, you can go to next line using Enter, and exec using F5</Korean>
         <Japanese>If unchecked, you can go to next line using Enter, and exec using F5</Japanese>
-        <Chinesesimp>如果未选中，可以使用回车键转到下一行，并使用F5执行</Chinesesimp>
+        <Chinesesimp>如果不选，可以使用回车键转到下一行，并使用 F5 执行</Chinesesimp>
         <Chinese>If unchecked, you can go to next line using Enter, and exec using F5</Chinese>
       </Key>
 	  <Key ID="STR_DBUG_SET_ENTER_EXEC">
@@ -431,7 +527,7 @@
         <Spanish>Quick Search: Search all scanned configs</Spanish>
         <Korean>Quick Search: Search all scanned configs</Korean>
         <Japanese>Quick Search: Search all scanned configs</Japanese>
-        <Chinesesimp>快速搜索: 搜索所有扫描的config</Chinesesimp>
+        <Chinesesimp>快速搜索：搜索所有已扫描的配置</Chinesesimp>
         <Chinese>Quick Search: Search all scanned configs</Chinese>
       </Key>
       <Key ID="STR_DBUG_EXPORT_NPP_STEP5">
@@ -447,7 +543,7 @@
         <Spanish>Replace the contents of the file with:</Spanish>
         <Korean>Replace the contents of the file with:</Korean>
         <Japanese>Replace the contents of the file with:</Japanese>
-        <Chinesesimp>将文件内容替换为:</Chinesesimp>
+        <Chinesesimp>将文件内容替换为：</Chinesesimp>
         <Chinese>Replace the contents of the file with:</Chinese>
       </Key>
       <Key ID="STR_DBUG_EXPORT_NPP_STEP4">
@@ -463,7 +559,7 @@
         <Spanish>Create a file named SQF.xml in '%npp_install_dir%\autoCompletion'.</Spanish>
         <Korean>Create a file named SQF.xml in '%npp_install_dir%\autoCompletion'.</Korean>
         <Japanese>Create a file named SQF.xml in '%npp_install_dir%\autoCompletion'.</Japanese>
-        <Chinesesimp>在'%npp_install_dir%/autoCompletion'创建一个名为SQF.xml的文件。</Chinesesimp>
+        <Chinesesimp>在'%npp_install_dir%/autoCompletion'创建一个名为 SQF.xml 的文件。</Chinesesimp>
         <Chinese>Create a file named SQF.xml in '%npp_install_dir%\autoCompletion'.</Chinese>
       </Key>
       <Key ID="STR_DBUG_EXPORT_NPP_STEP3">
@@ -479,7 +575,7 @@
         <Spanish>In userDefineLang.xml, replace everything in "KeywordLists" with:</Spanish>
         <Korean>In userDefineLang.xml, replace everything in "KeywordLists" with:</Korean>
         <Japanese>In userDefineLang.xml, replace everything in "KeywordLists" with:</Japanese>
-        <Chinesesimp>在userDefineLang.xml中，将"KeywordLists(关键词列表)"中的所有内容替换为:</Chinesesimp>
+        <Chinesesimp>在 userDefineLang.xml 中，将"KeywordLists（关键词列表）"中的所有内容替换为：</Chinesesimp>
         <Chinese>In userDefineLang.xml, replace everything in "KeywordLists" with:</Chinese>
       </Key>
       <Key ID="STR_DBUG_EXPORT_NPP_STEP2">
@@ -495,7 +591,7 @@
         <Spanish>Execute this in Run:</Spanish>
         <Korean>Execute this in Run:</Korean>
         <Japanese>Execute this in Run:</Japanese>
-        <Chinesesimp>在运行中执行此操作:</Chinesesimp>
+        <Chinesesimp>在运行中执行：</Chinesesimp>
         <Chinese>Execute this in Run:</Chinese>
       </Key>
       <Key ID="STR_DBUG_EXPORT_NPP_STEP1">
@@ -511,7 +607,7 @@
         <Spanish>Create a new UDL named 'SQF' in Notepad++.</Spanish>
         <Korean>Create a new UDL named 'SQF' in Notepad++.</Korean>
         <Japanese>Create a new UDL named 'SQF' in Notepad++.</Japanese>
-        <Chinesesimp>在Notepad++中创建一个名为'SQF'的新UDL。</Chinesesimp>
+        <Chinesesimp>在 Notepad++ 中创建一个名为'SQF'的新 UDL。</Chinesesimp>
         <Chinese>Create a new UDL named 'SQF' in Notepad++.</Chinese>
       </Key>
       <Key ID="STR_DBUG_DEBUG_CONSOLE">
@@ -543,7 +639,7 @@
         <Spanish>Watch height scale</Spanish>
         <Korean>Watch height scale</Korean>
         <Japanese>Watch height scale</Japanese>
-        <Chinesesimp>手表高度刻度</Chinesesimp>
+        <Chinesesimp>视图高度比例</Chinesesimp>
         <Chinese>Watch height scale</Chinese>
       </Key>
       <Key ID="STR_DBUG_SET_WIDTH_SCALE">
@@ -559,7 +655,7 @@
         <Spanish>Watch width scale</Spanish>
         <Korean>Watch width scale</Korean>
         <Japanese>Watch width scale</Japanese>
-        <Chinesesimp>手表宽度刻度</Chinesesimp>
+        <Chinesesimp>视图宽度比例</Chinesesimp>
         <Chinese>Watch width scale</Chinese>
       </Key>
       <Key ID="STR_DBUG_SET_REPLACE_FUNCV">
@@ -575,7 +671,7 @@
         <Spanish>Replace vanilla Function Viewer</Spanish>
         <Korean>Replace vanilla Function Viewer</Korean>
         <Japanese>Replace vanilla Function Viewer</Japanese>
-        <Chinesesimp>替换原版Function查看器</Chinesesimp>
+        <Chinesesimp>替换原版函数查看器</Chinesesimp>
         <Chinese>Replace vanilla Function Viewer</Chinese>
       </Key>
       <Key ID="STR_DBUG_SET_REPLACE_CV_3DEN">
@@ -591,7 +687,7 @@
         <Spanish>Replace Config Viewer in 3DEN context menu</Spanish>
         <Korean>Replace Config Viewer in 3DEN context menu</Korean>
         <Japanese>Replace Config Viewer in 3DEN context menu</Japanese>
-        <Chinesesimp>替换3DEN滚轮菜单中的Config浏览器</Chinesesimp>
+        <Chinesesimp>替换 3DEN 右键菜单中的配置浏览器</Chinesesimp>
         <Chinese>Replace Config Viewer in 3DEN context menu</Chinese>
       </Key>
 	  <Key ID="STR_DBUG_RECOMPILE_LAST">
@@ -623,7 +719,7 @@
         <Spanish>Function Viewer</Spanish>
         <Korean>Function Viewer</Korean>
         <Japanese>Function Viewer</Japanese>
-        <Chinesesimp>Function浏览器</Chinesesimp>
+        <Chinesesimp>函数浏览器</Chinesesimp>
         <Chinese>Function Viewer</Chinese>
       </Key>
       <Key ID="STR_DBUG_FUNCTION_NAME">
@@ -639,7 +735,7 @@
         <Spanish>Function Name</Spanish>
         <Korean>Function Name</Korean>
         <Japanese>Function Name</Japanese>
-        <Chinesesimp>Function名称</Chinesesimp>
+        <Chinesesimp>函数名称</Chinesesimp>
         <Chinese>Function Name</Chinese>
       </Key>
       <Key ID="STR_DBUG_SEARCH_FNCS">
@@ -655,7 +751,7 @@
         <Spanish>Search in Functions</Spanish>
         <Korean>Search in Functions</Korean>
         <Japanese>Search in Functions</Japanese>
-        <Chinesesimp>在Functions中搜索</Chinesesimp>
+        <Chinesesimp>在函数中搜索</Chinesesimp>
         <Chinese>Search in Functions</Chinese>
       </Key>
       <Key ID="STR_DBUG_RECOMPILE">
@@ -703,7 +799,7 @@
         <Spanish>It's for debugging purposes. Don't use it.</Spanish>
         <Korean>It's for debugging purposes. Don't use it.</Korean>
         <Japanese>It's for debugging purposes. Don't use it.</Japanese>
-        <Chinesesimp>这是调试用的，不要使用它！</Chinesesimp>
+        <Chinesesimp>这是调试用的，不要使用。</Chinesesimp>
         <Chinese>It's for debugging purposes. Don't use it.</Chinese>
       </Key>
       <Key ID="STR_DBUG_SET_RESIZE_WINS">
@@ -719,7 +815,7 @@
         <Spanish>Make all windows resizable</Spanish>
         <Korean>Make all windows resizable</Korean>
         <Japanese>Make all windows resizable</Japanese>
-        <Chinesesimp>调整所有窗口的大小</Chinesesimp>
+        <Chinesesimp>使所有窗口可调整大小</Chinesesimp>
         <Chinese>Make all windows resizable</Chinese>
       </Key>
       <Key ID="STR_DBUG_SET_PIXEL_PREC_HINT">
@@ -735,7 +831,7 @@
         <Spanish>Works similar to anti-aliasing (for text)</Spanish>
         <Korean>Works similar to anti-aliasing (for text)</Korean>
         <Japanese>Works similar to anti-aliasing (for text)</Japanese>
-        <Chinesesimp>工作原理类似于抗锯齿（针对文本）。</Chinesesimp>
+        <Chinesesimp>工作原理类似于抗锯齿（作用于文本）。</Chinesesimp>
         <Chinese>Works similar to anti-aliasing (for text)</Chinese>
       </Key>
       <Key ID="STR_DBUG_SET_PIXEL_PREC">
@@ -767,7 +863,7 @@
         <Spanish>Removes other MouseButtonDown event handlers created by other mods to minimize intervention.</Spanish>
         <Korean>Removes other MouseButtonDown event handlers created by other mods to minimize intervention.</Korean>
         <Japanese>Removes other MouseButtonDown event handlers created by other mods to minimize intervention.</Japanese>
-        <Chinesesimp>删除其他Mod创建的MouseButtonDown事件处理程序，以减少干涉。</Chinesesimp>
+        <Chinesesimp>删除其他模组创建的 MouseButtonDown 事件处理程序，以减少干涉。</Chinesesimp>
         <Chinese>Removes other MouseButtonDown event handlers created by other mods to minimize intervention.</Chinese>
       </Key>
       <Key ID="STR_DBUG_SET_DEL_KD_EHS">
@@ -799,7 +895,7 @@
         <Spanish>Typing this word into most edit boxes will open the debug console</Spanish>
         <Korean>Typing this word into most edit boxes will open the debug console</Korean>
         <Japanese>Typing this word into most edit boxes will open the debug console</Japanese>
-        <Chinesesimp>在大多数编辑框中输入这个单词/字将打开调试控制台</Chinesesimp>
+        <Chinesesimp>在大多数编辑框中输入这个词将打开调试控制台</Chinesesimp>
         <Chinese>Typing this word into most edit boxes will open the debug console</Chinese>
       </Key>
       <Key ID="STR_DBUG_SET_MAGIC_WORD">
@@ -815,7 +911,7 @@
         <Spanish>Magic Word</Spanish>
         <Korean>Magic Word</Korean>
         <Japanese>Magic Word</Japanese>
-        <Chinesesimp>快捷调试词/字</Chinesesimp>
+        <Chinesesimp>快捷调试词</Chinesesimp>
         <Chinese>Magic Word</Chinese>
       </Key>
       <Key ID="STR_DBUG_SET_SHORTCUT">
@@ -847,7 +943,7 @@
         <Spanish>Reset mod settings</Spanish>
         <Korean>Reset mod settings</Korean>
         <Japanese>Reset mod settings</Japanese>
-        <Chinesesimp>重置MOD设置</Chinesesimp>
+        <Chinesesimp>重置模组设置</Chinesesimp>
         <Chinese>Reset mod settings</Chinese>
       </Key>
       <Key ID="STR_DBUG_ADVANCED">
@@ -879,7 +975,7 @@
         <Spanish>Config</Spanish>
         <Korean>Config</Korean>
         <Japanese>Config</Japanese>
-        <Chinesesimp>Config(配置)</Chinesesimp>
+        <Chinesesimp>配置</Chinesesimp>
         <Chinese>Config</Chinese>
       </Key>
       <Key ID="STR_DBUG_SET_COLOR_SYMB">
@@ -895,7 +991,7 @@
         <Spanish>Symbols/Operators</Spanish>
         <Korean>Symbols/Operators</Korean>
         <Japanese>Symbols/Operators</Japanese>
-        <Chinesesimp>符号/运算符</Chinesesimp>
+        <Chinesesimp>符号/操作符</Chinesesimp>
         <Chinese>Symbols/Operators</Chinese>
       </Key>
       <Key ID="STR_DBUG_COMMENTS">
@@ -911,7 +1007,7 @@
         <Spanish>Comments</Spanish>
         <Korean>Comments</Korean>
         <Japanese>Comments</Japanese>
-        <Chinesesimp>评论</Chinesesimp>
+        <Chinesesimp>注释</Chinesesimp>
         <Chinese>Comments</Chinese>
       </Key>
       <Key ID="STR_DBUG_NUMBERS">
@@ -943,7 +1039,7 @@
         <Spanish>Strings</Spanish>
         <Korean>Strings</Korean>
         <Japanese>Strings</Japanese>
-        <Chinesesimp>Strings(字符串)</Chinesesimp>
+        <Chinesesimp>字符串</Chinesesimp>
         <Chinese>Strings</Chinese>
       </Key>
       <Key ID="STR_DBUG_PREP_CMDS">
@@ -959,7 +1055,7 @@
         <Spanish>Preprocessor Commands</Spanish>
         <Korean>Preprocessor Commands</Korean>
         <Japanese>Preprocessor Commands</Japanese>
-        <Chinesesimp>预处理程序命令</Chinesesimp>
+        <Chinesesimp>预处理器命令</Chinesesimp>
         <Chinese>Preprocessor Commands</Chinese>
       </Key>
       <Key ID="STR_DBUG_SET_COLOR_MAGIC">
@@ -975,7 +1071,7 @@
         <Spanish>Magic Variables/Enums</Spanish>
         <Korean>Magic Variables/Enums</Korean>
         <Japanese>Magic Variables/Enums</Japanese>
-        <Chinesesimp>Magic Variables/Enums</Chinesesimp>
+        <Chinesesimp>魔法变量/枚举</Chinesesimp>
         <Chinese>Magic Variables/Enums</Chinese>
       </Key>
       <Key ID="STR_DBUG_LVAR">
@@ -1055,7 +1151,7 @@
         <Spanish>Editor Background</Spanish>
         <Korean>Editor Background</Korean>
         <Japanese>Editor Background</Japanese>
-        <Chinesesimp>编辑背景</Chinesesimp>
+        <Chinesesimp>编辑器背景</Chinesesimp>
         <Chinese>Editor Background</Chinese>
       </Key>
       <Key ID="STR_DBUG_THEME">
@@ -1087,7 +1183,7 @@
         <Spanish>Control Background</Spanish>
         <Korean>Control Background</Korean>
         <Japanese>Control Background</Japanese>
-        <Chinesesimp>控制背景</Chinesesimp>
+        <Chinesesimp>控件背景</Chinesesimp>
         <Chinese>Control Background</Chinese>
       </Key>
       <Key ID="STR_DBUG_WIN_BG">
@@ -1135,7 +1231,7 @@
         <Spanish>General</Spanish>
         <Korean>General</Korean>
         <Japanese>General</Japanese>
-        <Chinesesimp>一般</Chinesesimp>
+        <Chinesesimp>通用</Chinesesimp>
         <Chinese>General</Chinese>
       </Key>
       <Key ID="STR_DBUG_SET_OBJ_CLEANUP_HINT">
@@ -1151,7 +1247,7 @@
         <Spanish>Not recommended if the number of points is expected to vary too fast</Spanish>
         <Korean>Not recommended if the number of points is expected to vary too fast</Korean>
         <Japanese>Not recommended if the number of points is expected to vary too fast</Japanese>
-        <Chinesesimp>如果分数预计变化太快，不推荐使用</Chinesesimp>
+        <Chinesesimp>如果预计点的数量变化太快，不推荐使用</Chinesesimp>
         <Chinese>Not recommended if the number of points is expected to vary too fast</Chinese>
       </Key>
       <Key ID="STR_DBUG_SET_OBJ_CLEANUP">
@@ -1167,7 +1263,7 @@
         <Spanish>Clean up unused objects (for object draw)</Spanish>
         <Korean>Clean up unused objects (for object draw)</Korean>
         <Japanese>Clean up unused objects (for object draw)</Japanese>
-        <Chinesesimp>清理未使用的对象(用于绘制对象)</Chinesesimp>
+        <Chinesesimp>清理未使用的对象（绘制对象）</Chinesesimp>
         <Chinese>Clean up unused objects (for object draw)</Chinese>
       </Key>
       <Key ID="STR_DBUG_SET_ICON_SCALE_HINT">
@@ -1215,7 +1311,7 @@
         <Spanish>Variable name prefix for draw arrays</Spanish>
         <Korean>Variable name prefix for draw arrays</Korean>
         <Japanese>Variable name prefix for draw arrays</Japanese>
-        <Chinesesimp>绘制数组的变量名称前缀</Chinesesimp>
+        <Chinesesimp>用于绘制数组的变量名称前缀</Chinesesimp>
         <Chinese>Variable name prefix for draw arrays</Chinese>
       </Key>
       <Key ID="STR_DBUG_SET_DEF_OBJ">
@@ -1247,7 +1343,7 @@
         <Spanish>Default icon for drawIcon3D</Spanish>
         <Korean>Default icon for drawIcon3D</Korean>
         <Japanese>Default icon for drawIcon3D</Japanese>
-        <Chinesesimp>drawIcon3D的默认图标</Chinesesimp>
+        <Chinesesimp>drawIcon3D 的默认图标</Chinesesimp>
         <Chinese>Default icon for drawIcon3D</Chinese>
       </Key>
       <Key ID="STR_DBUG_SET_UNSCH_CNT_HINT">
@@ -1263,7 +1359,7 @@
         <Spanish>Higher numbers mean faster search, but can result in longer freezes. 1 = Disabled</Spanish>
         <Korean>Higher numbers mean faster search, but can result in longer freezes. 1 = Disabled</Korean>
         <Japanese>Higher numbers mean faster search, but can result in longer freezes. 1 = Disabled</Japanese>
-        <Chinesesimp>数字越大意味着搜索速度越快，但可能导致冻结时间越长。1 = 禁用</Chinesesimp>
+        <Chinesesimp>数字越大意味着搜索速度越快，但可能导致卡顿时间越长。1 = 禁用</Chinesesimp>
         <Chinese>Higher numbers mean faster search, but can result in longer freezes. 1 = Disabled</Chinese>
       </Key>
       <Key ID="STR_DBUG_SET_UNSCH_CNT">
@@ -1295,7 +1391,7 @@
         <Spanish>Open last config path when config viewer starts</Spanish>
         <Korean>Open last config path when config viewer starts</Korean>
         <Japanese>Open last config path when config viewer starts</Japanese>
-        <Chinesesimp>启动config浏览器时打开最后一个config路径</Chinesesimp>
+        <Chinesesimp>启动配置查看器时打开上一次的配置路径</Chinesesimp>
         <Chinese>Open last config path when config viewer starts</Chinese>
       </Key>
       <Key ID="STR_DBUG_SET_HINT_AT_END_HINT">
@@ -1343,7 +1439,7 @@
         <Spanish>Show the Debug Console in all missions (even if disabled by the mission)</Spanish>
         <Korean>Show the Debug Console in all missions (even if disabled by the mission)</Korean>
         <Japanese>Show the Debug Console in all missions (even if disabled by the mission)</Japanese>
-        <Chinesesimp>在所有任务中显示调试控制台(即使任务禁用)</Chinesesimp>
+        <Chinesesimp>在所有任务中显示调试控制台（即使任务禁用）</Chinesesimp>
         <Chinese>Show the Debug Console in all missions (even if disabled by the mission)</Chinese>
       </Key>
       <Key ID="STR_DBUG_SET_ALWAYS_DCON">
@@ -1407,7 +1503,7 @@
         <Spanish>Init commands at startup</Spanish>
         <Korean>Init commands at startup</Korean>
         <Japanese>Init commands at startup</Japanese>
-        <Chinesesimp>启动时的 Init 命令</Chinesesimp>
+        <Chinesesimp>启动时的初始化命令</Chinesesimp>
         <Chinese>Init commands at startup</Chinese>
       </Key>
       <Key ID="STR_DBUG_SET_MAX_HISTORY_HINT">
@@ -1423,7 +1519,7 @@
         <Spanish>Between 1 and 1000. Larger values could clutter your profile namespace.</Spanish>
         <Korean>Between 1 and 1000. Larger values could clutter your profile namespace.</Korean>
         <Japanese>Between 1 and 1000. Larger values could clutter your profile namespace.</Japanese>
-        <Chinesesimp>在1到1000之间。较大的值可能会使你的profile名称空间混乱。</Chinesesimp>
+        <Chinesesimp>在1到1000之间。较大的值可能会使你的 profile 命名空间混乱。</Chinesesimp>
         <Chinese>Between 1 and 1000. Larger values could clutter your profile namespace.</Chinese>
       </Key>
       <Key ID="STR_DBUG_SET_MAX_HISTORY">
@@ -1439,7 +1535,7 @@
         <Spanish>Maximum number of Exec History</Spanish>
         <Korean>Maximum number of Exec History</Korean>
         <Japanese>Maximum number of Exec History</Japanese>
-        <Chinesesimp>最大的执行历史记录次数</Chinesesimp>
+        <Chinesesimp>最大的执行历史记录数量</Chinesesimp>
         <Chinese>Maximum number of Exec History</Chinese>
       </Key>
       <Key ID="STR_DBUG_SET_SPEC_COMMANDS_HINT">
@@ -1455,7 +1551,7 @@
         <Spanish>Must be separated by space or , (comma) or ; (semicolon)</Spanish>
         <Korean>Must be separated by space or , (comma) or ; (semicolon)</Korean>
         <Japanese>Must be separated by space or , (comma) or ; (semicolon)</Japanese>
-        <Chinesesimp>必须用空格或,（逗号）或;（分号）分隔</Chinesesimp>
+        <Chinesesimp>必须用空格或 ,（逗号）或 ;（分号）分隔</Chinesesimp>
         <Chinese>Must be separated by space or , (comma) or ; (semicolon)</Chinese>
       </Key>
       <Key ID="STR_DBUG_SET_SPEC_COMMANDS">
@@ -1487,7 +1583,7 @@
         <Spanish>Function Auto-completion</Spanish>
         <Korean>Function Auto-completion</Korean>
         <Japanese>Function Auto-completion</Japanese>
-        <Chinesesimp>Function自动补全</Chinesesimp>
+        <Chinesesimp>函数自动补全</Chinesesimp>
         <Chinese>Function Auto-completion</Chinese>
       </Key>
       <Key ID="STR_DBUG_RESET">
@@ -1567,7 +1663,7 @@
         <Spanish>Custom RemoteExec (RClick to set target)</Spanish>
         <Korean>Custom RemoteExec (RClick to set target)</Korean>
         <Japanese>Custom RemoteExec (RClick to set target)</Japanese>
-        <Chinesesimp>自定义RemoteExec（通过点击来设置目标）。</Chinesesimp>
+        <Chinesesimp>自定义 RemoteExec（右键点击以设置目标）。</Chinesesimp>
         <Chinese>Custom RemoteExec (RClick to set target)</Chinese>
       </Key>
       <Key ID="STR_DBUG_ARGS">
@@ -1583,7 +1679,7 @@
         <Spanish>Arguments</Spanish>
         <Korean>Arguments</Korean>
         <Japanese>Arguments</Japanese>
-        <Chinesesimp>论点</Chinesesimp>
+        <Chinesesimp>参数</Chinesesimp>
         <Chinese>Arguments</Chinese>
       </Key>
       <Key ID="STR_DBUG_EXTENDED">
@@ -1615,7 +1711,7 @@
         <Spanish>Regular Expression</Spanish>
         <Korean>Regular Expression</Korean>
         <Japanese>Regular Expression</Japanese>
-        <Chinesesimp>Regular Expression</Chinesesimp>
+        <Chinesesimp>正则表达式</Chinesesimp>
         <Chinese>Regular Expression</Chinese>
       </Key>
       <Key ID="STR_DBUG_SEARCH_EXT_HINT">
@@ -1631,7 +1727,7 @@
         <Spanish>Supports &#92;r &#92; n &#92;t</Spanish>
         <Korean>Supports &#92;r &#92; n &#92;t</Korean>
         <Japanese>Supports &#92;r &#92; n &#92;t</Japanese>
-        <Chinesesimp>Supports &#92;r &#92; n &#92;t</Chinesesimp>
+        <Chinesesimp>支持 &#92;r &#92; n &#92;t</Chinesesimp>
         <Chinese>Supports &#92;r &#92; n &#92;t</Chinese>
       </Key>
       <Key ID="STR_DBUG_NORMAL">
@@ -1663,7 +1759,7 @@
         <Spanish>All characters are treated as they are</Spanish>
         <Korean>All characters are treated as they are</Korean>
         <Japanese>All characters are treated as they are</Japanese>
-        <Chinesesimp>所有人物都被视为</Chinesesimp>
+        <Chinesesimp>所有字符按照原样处理</Chinesesimp>
         <Chinese>All characters are treated as they are</Chinese>
       </Key>
       <Key ID="STR_DBUG_SEARCH_MODE">
@@ -1679,7 +1775,7 @@
         <Spanish>Search Mode</Spanish>
         <Korean>Search Mode</Korean>
         <Japanese>Search Mode</Japanese>
-        <Chinesesimp>检索模式</Chinesesimp>
+        <Chinesesimp>搜索模式</Chinesesimp>
         <Chinese>Search Mode</Chinese>
       </Key>
       <Key ID="STR_DBUG_WRAP_AROUND">
@@ -1695,7 +1791,7 @@
         <Spanish>Wrap around</Spanish>
         <Korean>Wrap around</Korean>
         <Japanese>Wrap around</Japanese>
-        <Chinesesimp>绕行</Chinesesimp>
+        <Chinesesimp>跨行</Chinesesimp>
         <Chinese>Wrap around</Chinese>
       </Key>
       <Key ID="STR_DBUG_MATCH_CASE">
@@ -1711,7 +1807,7 @@
         <Spanish>Match case</Spanish>
         <Korean>Match case</Korean>
         <Japanese>Match case</Japanese>
-        <Chinesesimp>匹配案例</Chinesesimp>
+        <Chinesesimp>匹配大小写</Chinesesimp>
         <Chinese>Match case</Chinese>
       </Key>
       <Key ID="STR_DBUG_MATCH_WORD">
@@ -1743,7 +1839,7 @@
         <Spanish>In selection</Spanish>
         <Korean>In selection</Korean>
         <Japanese>In selection</Japanese>
-        <Chinesesimp>部分选择</Chinesesimp>
+        <Chinesesimp>在选区中</Chinesesimp>
         <Chinese>In selection</Chinese>
       </Key>
       <Key ID="STR_DBUG_COUNT">
@@ -1759,7 +1855,7 @@
         <Spanish>Count</Spanish>
         <Korean>Count</Korean>
         <Japanese>Count</Japanese>
-        <Chinesesimp>数量</Chinesesimp>
+        <Chinesesimp>计数</Chinesesimp>
         <Chinese>Count</Chinese>
       </Key>
       <Key ID="STR_DBUG_REPLACE_ALL">
@@ -1807,7 +1903,7 @@
         <Spanish>Replace with :</Spanish>
         <Korean>Replace with :</Korean>
         <Japanese>Replace with :</Japanese>
-        <Chinesesimp>替换为 :</Chinesesimp>
+        <Chinesesimp>替换为：</Chinesesimp>
         <Chinese>Replace with :</Chinese>
       </Key>
       <Key ID="STR_DBUG_FIND_WHAT_C">
@@ -1823,7 +1919,7 @@
         <Spanish>Find what :</Spanish>
         <Korean>Find what :</Korean>
         <Japanese>Find what :</Japanese>
-        <Chinesesimp>寻找什么 :</Chinesesimp>
+        <Chinesesimp>寻找：</Chinesesimp>
         <Chinese>Find what :</Chinese>
       </Key>
       <Key ID="STR_DBUG_COPY_ALL">
@@ -1887,7 +1983,7 @@
         <Spanish>Watch</Spanish>
         <Korean>Watch</Korean>
         <Japanese>Watch</Japanese>
-        <Chinesesimp>观看</Chinesesimp>
+        <Chinesesimp>监视</Chinesesimp>
         <Chinese>Watch</Chinese>
       </Key>
       <Key ID="STR_DBUG_ADD_NEW">
@@ -1983,7 +2079,7 @@
         <Spanish>Expression</Spanish>
         <Korean>Expression</Korean>
         <Japanese>Expression</Japanese>
-        <Chinesesimp>Expression</Chinesesimp>
+        <Chinesesimp>表达式</Chinesesimp>
         <Chinese>Expression</Chinese>
       </Key>
       <Key ID="STR_DBUG_ICON">
@@ -2015,7 +2111,7 @@
         <Spanish>Model ( [scale*] ConfigName | ShortName )</Spanish>
         <Korean>Model ( [scale*] ConfigName | ShortName )</Korean>
         <Japanese>Model ( [scale*] ConfigName | ShortName )</Japanese>
-        <Chinesesimp>Model ( [scale*] ConfigName | ShortName )</Chinesesimp>
+        <Chinesesimp>模型 ( [scale*] ConfigName | ShortName )</Chinesesimp>
         <Chinese>Model ( [scale*] ConfigName | ShortName )</Chinese>
       </Key>
       <Key ID="STR_DBUG_ICON_HINT">
@@ -2095,7 +2191,7 @@
         <Spanish>Ok</Spanish>
         <Korean>Ok</Korean>
         <Japanese>Ok</Japanese>
-        <Chinesesimp>Ok</Chinesesimp>
+        <Chinesesimp>确定</Chinesesimp>
         <Chinese>Ok</Chinese>
       </Key>
       <Key ID="STR_DBUG_WARNING_E">
@@ -2143,7 +2239,7 @@
         <Spanish>Supporters</Spanish>
         <Korean>Supporters</Korean>
         <Japanese>Supporters</Japanese>
-        <Chinesesimp>援助</Chinesesimp>
+        <Chinesesimp>支持者</Chinesesimp>
         <Chinese>Supporters</Chinese>
       </Key>
       <Key ID="STR_DBUG_EXTERNAL_LINKS">
@@ -2159,7 +2255,7 @@
         <Spanish>External Links:</Spanish>
         <Korean>External Links:</Korean>
         <Japanese>External Links:</Japanese>
-        <Chinesesimp>外部链接:</Chinesesimp>
+        <Chinesesimp>外部链接：</Chinesesimp>
         <Chinese>External Links:</Chinese>
       </Key>
       <Key ID="STR_DBUG_CANCEL">
@@ -2223,7 +2319,7 @@
         <Spanish>Expression:</Spanish>
         <Korean>Expression:</Korean>
         <Japanese>Expression:</Japanese>
-        <Chinesesimp>Expression:</Chinesesimp>
+        <Chinesesimp>表达式：</Chinesesimp>
         <Chinese>Expression:</Chinese>
       </Key>
       <Key ID="STR_DBUG_REMOTE_TARGET">
@@ -2239,7 +2335,7 @@
         <Spanish>RemoteExec Target</Spanish>
         <Korean>RemoteExec Target</Korean>
         <Japanese>RemoteExec Target</Japanese>
-        <Chinesesimp>RemoteExec目标</Chinesesimp>
+        <Chinesesimp>RemoteExec 目标</Chinesesimp>
         <Chinese>RemoteExec Target</Chinese>
       </Key>
       <Key ID="STR_DBUG_SEARCH_FILES">
@@ -2271,7 +2367,7 @@
         <Spanish>Search in Addons/Functions</Spanish>
         <Korean>Search in Addons/Functions</Korean>
         <Japanese>Search in Addons/Functions</Japanese>
-        <Chinesesimp>在Addons/Functions中搜索</Chinesesimp>
+        <Chinesesimp>在插件/函数中搜索</Chinesesimp>
         <Chinese>Search in Addons/Functions</Chinese>
       </Key>
       <Key ID="STR_DBUG_CONSOLE">
@@ -2319,7 +2415,7 @@
         <Spanish>Export to Notepad++</Spanish>
         <Korean>Export to Notepad++</Korean>
         <Japanese>Export to Notepad++</Japanese>
-        <Chinesesimp>导出到Notepad++</Chinesesimp>
+        <Chinesesimp>导出到 Notepad++</Chinesesimp>
         <Chinese>Export to Notepad++</Chinese>
       </Key>
       <Key ID="STR_DBUG_ADDONS_C">
@@ -2335,7 +2431,7 @@
         <Spanish>Addons:</Spanish>
         <Korean>Addons:</Korean>
         <Japanese>Addons:</Japanese>
-        <Chinesesimp>Addons:</Chinesesimp>
+        <Chinesesimp>插件：</Chinesesimp>
         <Chinese>Addons:</Chinese>
       </Key>
       <Key ID="STR_DBUG_PARENTS_C">
@@ -2351,7 +2447,7 @@
         <Spanish>Parents:</Spanish>
         <Korean>Parents:</Korean>
         <Japanese>Parents:</Japanese>
-        <Chinesesimp>父类:</Chinesesimp>
+        <Chinesesimp>父类：</Chinesesimp>
         <Chinese>Parents:</Chinese>
       </Key>
       <Key ID="STR_DBUG_PATH_C">
@@ -2367,7 +2463,7 @@
         <Spanish>Path:</Spanish>
         <Korean>Path:</Korean>
         <Japanese>Path:</Japanese>
-        <Chinesesimp>路径:</Chinesesimp>
+        <Chinesesimp>路径：</Chinesesimp>
         <Chinese>Path:</Chinese>
       </Key>
       <Key ID="STR_DBUG_ABOUT">
@@ -2403,20 +2499,20 @@
         <Chinese>Feedback</Chinese>
       </Key>
       <Key ID="STR_DBUG_A3_DISCORD">
-        <Original>Arma Discrod</Original>
-        <English>Arma Discrod</English>
-        <Czech>Arma Discrod</Czech>
-        <French>Arma Discrod</French>
+        <Original>Arma Discord</Original>
+        <English>Arma Discord</English>
+        <Czech>Arma Discord</Czech>
+        <French>Arma Discord</French>
         <German>Arma Discord</German>
-        <Italian>Arma Discrod</Italian>
-        <Polish>Arma Discrod</Polish>
-        <Portuguese>Arma Discrod</Portuguese>
-        <Russian>Arma Discrod</Russian>
-        <Spanish>Arma Discrod</Spanish>
-        <Korean>Arma Discrod</Korean>
-        <Japanese>Arma Discrod</Japanese>
-        <Chinesesimp>Arma Discrod</Chinesesimp>
-        <Chinese>Arma Discrod</Chinese>
+        <Italian>Arma Discord</Italian>
+        <Polish>Arma Discord</Polish>
+        <Portuguese>Arma Discord</Portuguese>
+        <Russian>Arma Discord</Russian>
+        <Spanish>Arma Discord</Spanish>
+        <Korean>Arma Discord</Korean>
+        <Japanese>Arma Discord</Japanese>
+        <Chinesesimp>Arma Discord</Chinesesimp>
+        <Chinese>Arma Discord</Chinese>
       </Key>
       <Key ID="STR_DBUG_BI_FORUMS">
         <Original>Bohemia Interactive Forums</Original>
@@ -2431,7 +2527,7 @@
         <Spanish>Bohemia Interactive Forums</Spanish>
         <Korean>Bohemia Interactive Forums</Korean>
         <Japanese>Bohemia Interactive Forums</Japanese>
-        <Chinesesimp>Bohemia Interactive论坛</Chinesesimp>
+        <Chinesesimp>Bohemia Interactive 论坛</Chinesesimp>
         <Chinese>Bohemia Interactive Forums</Chinese>
       </Key>
       <Key ID="STR_DBUG_A3_SQF_CMDS">
@@ -2447,7 +2543,7 @@
         <Spanish>Scripting Commands for Arma 3</Spanish>
         <Korean>Scripting Commands for Arma 3</Korean>
         <Japanese>Scripting Commands for Arma 3</Japanese>
-        <Chinesesimp>Arma 3的脚本指令</Chinesesimp>
+        <Chinesesimp>Arma 3 的脚本命令</Chinesesimp>
         <Chinese>Scripting Commands for Arma 3</Chinese>
       </Key>
       <Key ID="STR_DBUG_INTRO_TO_SQF">
@@ -2479,7 +2575,7 @@
         <Spanish>Export Config</Spanish>
         <Korean>Export Config</Korean>
         <Japanese>Export Config</Japanese>
-        <Chinesesimp>导出Config</Chinesesimp>
+        <Chinesesimp>导出配置</Chinesesimp>
         <Chinese>Export Config</Chinese>
       </Key>
       <Key ID="STR_DBUG_PREFERENCES">
@@ -2495,7 +2591,7 @@
         <Spanish>Preferences</Spanish>
         <Korean>Preferences</Korean>
         <Japanese>Preferences</Japanese>
-        <Chinesesimp>首选项</Chinesesimp>
+        <Chinesesimp>选项</Chinesesimp>
         <Chinese>Preferences</Chinese>
       </Key>
       <Key ID="STR_DBUG_UTILS">
@@ -2511,7 +2607,7 @@
         <Spanish>Utilities</Spanish>
         <Korean>Utilities</Korean>
         <Japanese>Utilities</Japanese>
-        <Chinesesimp>Utilities</Chinesesimp>
+        <Chinesesimp>工具</Chinesesimp>
         <Chinese>Utilities</Chinese>
       </Key>
       <Key ID="STR_DBUG_CAMERA">
@@ -2527,7 +2623,7 @@
         <Spanish>Splendid Camera</Spanish>
         <Korean>Splendid Camera</Korean>
         <Japanese>Splendid Camera</Japanese>
-        <Chinesesimp>摄像机</Chinesesimp>
+        <Chinesesimp>专业摄像机</Chinesesimp>
         <Chinese>Splendid Camera</Chinese>
       </Key>
       <Key ID="STR_DBUG_SPECTATE">
@@ -2543,7 +2639,7 @@
         <Spanish>Spectate</Spanish>
         <Korean>Spectate</Korean>
         <Japanese>Spectate</Japanese>
-        <Chinesesimp>旁观者</Chinesesimp>
+        <Chinesesimp>观察者</Chinesesimp>
         <Chinese>Spectate</Chinese>
       </Key>
       <Key ID="STR_DBUG_ANIM_VIEWER">
@@ -2575,7 +2671,7 @@
         <Spanish>GUI Editor</Spanish>
         <Korean>GUI Editor</Korean>
         <Japanese>GUI Editor</Japanese>
-        <Chinesesimp>GUI编辑器</Chinesesimp>
+        <Chinesesimp>用户界面编辑器</Chinesesimp>
         <Chinese>GUI Editor</Chinese>
       </Key>
       <Key ID="STR_DBUG_FUNCTIONS">
@@ -2591,7 +2687,7 @@
         <Spanish>Functions</Spanish>
         <Korean>Functions</Korean>
         <Japanese>Functions</Japanese>
-        <Chinesesimp>Functions</Chinesesimp>
+        <Chinesesimp>函数</Chinesesimp>
         <Chinese>Functions</Chinese>
       </Key>
       <Key ID="STR_DBUG_TOOLS">
@@ -2655,7 +2751,7 @@
         <Spanish>Config Viewer</Spanish>
         <Korean>Config Viewer</Korean>
         <Japanese>Config Viewer</Japanese>
-        <Chinesesimp>Config浏览器</Chinesesimp>
+        <Chinesesimp>配置浏览器</Chinesesimp>
         <Chinese>Config Viewer</Chinese>
       </Key>
       <Key ID="STR_DBUG_SEARCH_VALUES">
@@ -2703,7 +2799,7 @@
         <Spanish>Start from current class</Spanish>
         <Korean>Start from current class</Korean>
         <Japanese>Start from current class</Japanese>
-        <Chinesesimp>从当前class开始</Chinesesimp>
+        <Chinesesimp>从当前类开始</Chinesesimp>
         <Chinese>Start from current class</Chinese>
       </Key>
       <Key ID="STR_DBUG_CLEAR_SEARCH">
@@ -2767,7 +2863,7 @@
         <Spanish>Value :</Spanish>
         <Korean>Value :</Korean>
         <Japanese>Value :</Japanese>
-        <Chinesesimp>值 :</Chinesesimp>
+        <Chinesesimp>值：</Chinesesimp>
         <Chinese>Value :</Chinese>
       </Key>
       <Key ID="STR_DBUG_FIND_NAME">
@@ -2783,7 +2879,7 @@
         <Spanish>Name :</Spanish>
         <Korean>Name :</Korean>
         <Japanese>Name :</Japanese>
-        <Chinesesimp>名称 :</Chinesesimp>
+        <Chinesesimp>名称：</Chinesesimp>
         <Chinese>Name :</Chinese>
       </Key>
       <Key ID="STR_DBUG_CFG_SEARCH">
@@ -2799,7 +2895,7 @@
         <Spanish>Config Search</Spanish>
         <Korean>Config Search</Korean>
         <Japanese>Config Search</Japanese>
-        <Chinesesimp>Config检索</Chinesesimp>
+        <Chinesesimp>配置搜索</Chinesesimp>
         <Chinese>Config Search</Chinese>
       </Key>
       <Key ID="STR_DBUG_BOOKMARKS_DELETE">
@@ -2815,7 +2911,7 @@
         <Spanish>Delete selected config path</Spanish>
         <Korean>Delete selected config path</Korean>
         <Japanese>Delete selected config path</Japanese>
-        <Chinesesimp>删除选定的config路径</Chinesesimp>
+        <Chinesesimp>删除选定的配置路径</Chinesesimp>
         <Chinese>Delete selected config path</Chinese>
       </Key>
       <Key ID="STR_DBUG_BOOK_CURRENT">
@@ -2831,7 +2927,7 @@
         <Spanish>Bookmark current config path</Spanish>
         <Korean>Bookmark current config path</Korean>
         <Japanese>Bookmark current config path</Japanese>
-        <Chinesesimp>收藏当前的config路径</Chinesesimp>
+        <Chinesesimp>收藏当前的配置路径</Chinesesimp>
         <Chinese>Bookmark current config path</Chinese>
       </Key>
       <Key ID="STR_DBUG_BOOKMARKS_GOTO">
@@ -2847,7 +2943,7 @@
         <Spanish>Go to selected config path</Spanish>
         <Korean>Go to selected config path</Korean>
         <Japanese>Go to selected config path</Japanese>
-        <Chinesesimp>转到选定的config路径</Chinesesimp>
+        <Chinesesimp>转到选定的配置路径</Chinesesimp>
         <Chinese>Go to selected config path</Chinese>
       </Key>
       <Key ID="STR_DBUG_BOOKMARKS">
@@ -2879,7 +2975,7 @@
         <Spanish>Raw data (modifiable)</Spanish>
         <Korean>Raw data (modifiable)</Korean>
         <Japanese>Raw data (modifiable)</Japanese>
-        <Chinesesimp>原始数据(可修改)</Chinesesimp>
+        <Chinesesimp>原始数据（可修改）</Chinesesimp>
         <Chinese>Raw data (modifiable)</Chinese>
       </Key>
       <Key ID="STR_DBUG_FIND_IN_CFG">
@@ -2895,7 +2991,7 @@
         <Spanish>Find in Config</Spanish>
         <Korean>Find in Config</Korean>
         <Japanese>Find in Config</Japanese>
-        <Chinesesimp>在Config中查找</Chinesesimp>
+        <Chinesesimp>在配置中查找</Chinesesimp>
         <Chinese>Find in Config</Chinese>
       </Key>
       <Key ID="STR_DBUG_ADD_EXTENTION">
@@ -2927,7 +3023,7 @@
         <Spanish>Object</Spanish>
         <Korean>Object</Korean>
         <Japanese>Object</Japanese>
-        <Chinesesimp>物体</Chinesesimp>
+        <Chinesesimp>对象</Chinesesimp>
         <Chinese>Object</Chinese>
       </Key>
       <Key ID="STR_DBUG_MODEL">
@@ -2943,7 +3039,7 @@
         <Spanish>Model</Spanish>
         <Korean>Model</Korean>
         <Japanese>Model</Japanese>
-        <Chinesesimp>Model</Chinesesimp>
+        <Chinesesimp>模型</Chinesesimp>
         <Chinese>Model</Chinese>
       </Key>
       <Key ID="STR_DBUG_SOUND">
@@ -3135,7 +3231,7 @@
         <Spanish>Reload</Spanish>
         <Korean>Reload</Korean>
         <Japanese>Reload</Japanese>
-        <Chinesesimp>重新加载</Chinesesimp>
+        <Chinesesimp>重载</Chinesesimp>
         <Chinese>Reload</Chinese>
       </Key>
       <Key ID="STR_DBUG_EXIT">
@@ -3199,7 +3295,7 @@
         <Spanish>Redo</Spanish>
         <Korean>Redo</Korean>
         <Japanese>Redo</Japanese>
-        <Chinesesimp>恢复</Chinesesimp>
+        <Chinesesimp>重做</Chinesesimp>
         <Chinese>Redo</Chinese>
       </Key>
       <Key ID="STR_DBUG_BACK">
@@ -3295,7 +3391,7 @@
         <Spanish>Convert Case</Spanish>
         <Korean>Convert Case</Korean>
         <Japanese>Convert Case</Japanese>
-        <Chinesesimp>转换案例</Chinesesimp>
+        <Chinesesimp>转换大小写</Chinesesimp>
         <Chinese>Convert Case</Chinese>
       </Key>
       <Key ID="STR_DBUG_UCASE">
