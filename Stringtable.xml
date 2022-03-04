@@ -18,6 +18,70 @@
         <Chinesesimp>文件</Chinesesimp>
         <Chinese>File</Chinese>
       </Key>
+	  <Key ID="STR_DBUG_DELETE">
+        <Original>Delete</Original>
+        <English>Delete</English>
+        <Czech>Delete</Czech>
+        <French>Delete</French>
+        <German>Delete</German>
+        <Italian>Delete</Italian>
+        <Polish>Delete</Polish>
+        <Portuguese>Delete</Portuguese>
+        <Russian>Delete</Russian>
+        <Spanish>Delete</Spanish>
+        <Korean>Delete</Korean>
+        <Japanese>Delete</Japanese>
+        <Chinesesimp>Delete</Chinesesimp>
+        <Chinese>Delete</Chinese>
+      </Key>
+	  <Key ID="STR_DBUG_SAVED_CODES">
+        <Original>Saved Scripts</Original>
+        <English>Saved Scripts</English>
+        <Czech>Saved Scripts</Czech>
+        <French>Saved Scripts</French>
+        <German>Saved Scripts</German>
+        <Italian>Saved Scripts</Italian>
+        <Polish>Saved Scripts</Polish>
+        <Portuguese>Saved Scripts</Portuguese>
+        <Russian>Saved Scripts</Russian>
+        <Spanish>Saved Scripts</Spanish>
+        <Korean>Saved Scripts</Korean>
+        <Japanese>Saved Scripts</Japanese>
+        <Chinesesimp>Saved Scripts</Chinesesimp>
+        <Chinese>Saved Scripts</Chinese>
+      </Key>
+	  <Key ID="STR_DBUG_SET_KEYBIND_HINT">
+        <Original>Deprecated. Visit game controls for modded keybinding</Original>
+        <English>Deprecated. Visit game controls for modded keybinding</English>
+        <Czech>Deprecated. Visit game controls for modded keybinding</Czech>
+        <French>Deprecated. Visit game controls for modded keybinding</French>
+        <German>Deprecated. Visit game controls for modded keybinding</German>
+        <Italian>Deprecated. Visit game controls for modded keybinding</Italian>
+        <Polish>Deprecated. Visit game controls for modded keybinding</Polish>
+        <Portuguese>Deprecated. Visit game controls for modded keybinding</Portuguese>
+        <Russian>Deprecated. Visit game controls for modded keybinding</Russian>
+        <Spanish>Deprecated. Visit game controls for modded keybinding</Spanish>
+        <Korean>Deprecated. Visit game controls for modded keybinding</Korean>
+        <Japanese>Deprecated. Visit game controls for modded keybinding</Japanese>
+        <Chinesesimp>Deprecated. Visit game controls for modded keybinding</Chinesesimp>
+        <Chinese>Deprecated. Visit game controls for modded keybinding</Chinese>
+      </Key>
+	  <Key ID="STR_DBUG_COPY_SEARCH">
+        <Original>Copy Results</Original>
+        <English>Copy Results</English>
+        <Czech>Copy Results</Czech>
+        <French>Copy Results</French>
+        <German>Copy Results</German>
+        <Italian>Copy Results</Italian>
+        <Polish>Copy Results</Polish>
+        <Portuguese>Copy Results</Portuguese>
+        <Russian>Copy Results</Russian>
+        <Spanish>Copy Results</Spanish>
+        <Korean>Copy Results</Korean>
+        <Japanese>Copy Results</Japanese>
+        <Chinesesimp>Copy Results</Chinesesimp>
+        <Chinese>Copy Results</Chinese>
+      </Key>
 	  <Key ID="STR_DBUG_SEARCH_DEPTH_HINT">
         <Original>Maximum depth of subclasses starting from current class, in range 0-9. 9 = No limit</Original>
         <English>Maximum depth of subclasses starting from current class, in range 0-9. 9 = No limit</English>
